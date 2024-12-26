@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+  <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  <div style="display: flex; align-items: flex-start; margin-top: 20px; gap: 20px;">
+    <!-- Photo Section -->
+    <img
+            src="{{ '/assets/images/profile.jpeg' | relative_url }}"
+            alt="Elena van Engelen-Maslova"
+            style="max-width: 150px; height: auto; border: 2px solid #ddd;">
+
+    <!-- Text Section -->
+    <div>
+      <p>
+        I am <strong>Elena van Engelen-Maslova</strong>, a Senior/Lead Software Engineer with over two decades of experience. I specialize in Kotlin and Java backend development, with strong expertise in DevOps, cloud-native solutions (AWS, Azure), and event-driven architectures.
+      </p>
+      <p>
+        My primary focus is on delivering scalable and maintainable software by applying serverless cloud architectures, microservices, and event-driven patterns. I value delivering results quickly while maintaining a high standard of quality and reducing waste.
+      </p>
+      <p>
+        I enjoy working with teams, mentoring peers, and sharing knowledge to foster innovation. Engaging with customers, users, and stakeholders is an essential part of my process to ensure impactful and efficient solutions.
+      </p>
+      <p>
+        In addition to software engineering, I occasionally provide Kotlin training to help teams improve their skills and productivity.
+        For more information, please visit the <a href="{{ '/training/' | relative_url }}">Training</a> page.
+      </p>
+      <p>
+        For more details, check out my <a href="{{ '/portfolio/' | relative_url }}">Portfolio</a>.
+      </p>
+      <p>
+        Interested in working together? <a href="{{ '/contact/' | relative_url }}">Contact me</a> to discuss your needs.
+      </p>
+    </div>
+  </div>
+</div>

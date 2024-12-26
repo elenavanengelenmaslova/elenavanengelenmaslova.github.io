@@ -1,0 +1,46 @@
+# Site settings
+title: Elena van Engelen-Maslova
+email: elenavanengelen@vintik.nl
+description: >-
+  Senior/Lead Software Engineer with expertise in Kotlin and Cloud-Native Solutions. Author of 'Kotlin Crash Course'—a project-based approach to learning Kotlin, growing your skills from the basics to advanced concepts.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://elenavanengelenmaslova.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+linkedin_username: elena-van-engelen-maslova
+mastodon:
+  - username: elenavanengelen
+    instance: hachyderm.io
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing
+# Exclude certain files or directories from being processed by Jekyll
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - node_modules/
+  - vendor/
+  - Gemfile
+  - Gemfile.lock
+
+# Sass (CSS preprocessor) settings
+sass:
+  style: compressed # Compress CSS for production
+
+# Markdown processing
+markdown: kramdown
+highlighter: rouge
+
+# Defaults for page layout
+defaults:
+  - scope:
+      path: "" # Applies to all files
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: "" # Applies to all non-post files
+    values:
+      layout: "page"
