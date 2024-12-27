@@ -29,7 +29,7 @@ I am the author of the book [*Kotlin Crash Course*](https://www.amazon.com/Kotli
 ## Sharing Knowledge
 I actively share my Kotlin expertise in my blog, at conferences and community events:
 - [**Medium Blog**](https://medium.com/@elenavanengelen)
-- [**Kotlin Dev Day Advanced**](https://kotlindevday.com/videos/kotlin-on-serverless-cloud-aws-lambda-unlimited-elena-van-engelen-maslova/): *Kotlin on Serverless Cloud with AWS Lambda Unlimited.*
+- [**Kotlin Dev Day Advanced**](https://kotlindevday.com/videos/kotlin-on-serverless-cloud-aws-lambda-unlimited-elena-van-engelen-maslova/): *Kotlin on Serverless Cloud - AWS Lambda, Unlimited!*
 - [**AWS Community Day**](https://www.youtube.com/watch?v=GvAyaJZzQ5M): *Kotlin on AWS Serverless Cloud.*
 
 ---
