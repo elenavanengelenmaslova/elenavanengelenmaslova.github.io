@@ -3,38 +3,26 @@ layout: default
 ---
 
 <div class="home">
-  {%- if page.title -%}
-  <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
-
-  <div style="display: flex; align-items: flex-start; margin-top: 20px; gap: 20px;">
-    <!-- Photo Section -->
+  <!-- Profile Section -->
+  <div style="display: flex; align-items: center; margin-bottom: 20px; gap: 20px;">
+    <!-- Circular Photo -->
     <img
             src="{{ '/assets/images/profile.jpeg' | relative_url }}"
-            alt="Elena van Engelen-Maslova"
-            style="max-width: 150px; height: auto; border: 2px solid #ddd;">
+            alt="{{ site.title }}"
+            style="width: 150px; height: 150px; object-fit: cover; border: 2px solid #ddd; border-radius: 50%;">
 
+    <!-- Name and Job Title -->
     <div>
-      <p>
-        I am <strong>Elena van Engelen-Maslova</strong>, a Senior/Lead Software Engineer with over two decades of experience. I specialize in Kotlin and Java backend development and am the author of <a href="https://www.amazon.com/Kotlin-Crash-Course-Fast-track-programming/dp/9355516304" target="_blank"><em>Kotlin Crash Course</em></a>, a comprehensive guide to mastering Kotlin from basics to advanced concepts.
-      </p>
-      <p>
-        With 5x AWS and 2x Azure certifications, I bring extensive expertise in designing and implementing cloud-native architectures, microservices, and event-driven patterns. My primary focus is on creating scalable, maintainable software that delivers high-quality results while ensuring clean, reusable code and minimizing waste.
-      </p>
-      <p>
-        I enjoy collaborating with teams, mentoring peers, and sharing knowledge to foster innovation. Outside my team, I share my expertise through my <a href="https://medium.com/@elenavanengelen" target="_blank">blog</a>, where I write about Kotlin and cloud-native solutions, and by speaking at conferences such as <a href="https://kotlindevday.com/videos/kotlin-on-serverless-cloud-aws-lambda-unlimited-elena-van-engelen-maslova/" target="_blank">Kotlin Dev Day Advanced</a>.
-      </p>
-      <p>
-        In addition to software engineering, I provide Kotlin training to help teams improve their skills and productivity. For more information, please visit the <a href="{{ '/training/' | relative_url }}">Training</a> page.
-      </p>
-      <p>
-        For more details about my projects and experience, check out my <a href="{{ '/portfolio/' | relative_url }}">Portfolio</a>.
-      </p>
-      <p>
-        Interested in working together? <a href="{{ '/contact/' | relative_url }}">Contact me</a> to discuss your needs.
-      </p>
+      <h1 style="margin: 0;">{{ page.title }}</h1>
+      <h2 style="margin: 0; font-weight: normal; font-size: 1.2em; color: #666;">{{ page.subtitle }}</h2>
     </div>
-
   </div>
+
+  <!-- Divider Line -->
+  <hr style="margin: 20px 0; border: 0; border-top: 1px solid #ddd;">
+
+  <!-- Main Content from index.markdown -->
+  <div>
+    {{ content }}
   </div>
 </div>

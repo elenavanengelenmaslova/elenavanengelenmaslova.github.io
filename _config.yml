@@ -12,6 +12,16 @@ mastodon:
 
 # Build settings
 theme: minima
+minima:
+  skin: auto
+
+header_pages:
+  - portfolio.markdown
+  - training.markdown
+  - credentials.markdown
+  - contact.markdown
+
+
 plugins:
   - jekyll-feed
 
