@@ -12,6 +12,22 @@ I provide Kotlin training sessions designed to help teams enhance their skills, 
 
 ---
 
+## Student Testimonials 
+
+Here’s what participants have said about my training sessions (feedback collected via anonymous forms):
+
+- ⭐⭐⭐⭐⭐  
+  "The bite-size Kotlin sessions were perfect for our team. Elena's ability to break down complex topics into digestible lessons made learning Kotlin enjoyable and practical."*  
+  **— Engineer, AZL (NN Group)**
+- ⭐⭐⭐⭐⭐  
+  *"The bite-size Kotlin sessions were perfect for our team. Elena's ability to break down complex topics into digestible lessons made learning Kotlin enjoyable and practical."*  
+  **— Engineer, AZL (NN Group)**
+- ⭐⭐⭐⭐⭐  
+  *"Elena was enthusiastic and knowledgeable, offering help and creating a lovely atmosphere in her sessions. Slides were clear, and informative and make excellent reference material."*  
+  **— Developer, Version 1**
+
+---
+
 ## Training Experience
 I have delivered Kotlin training to various organizations, customizing the content to address their unique requirements. These include:
 

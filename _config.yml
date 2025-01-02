@@ -6,9 +6,11 @@ description: >-
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://elenavanengelenmaslova.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: elena-van-engelen-maslova
+github_username: elenavanengelenmaslova
 mastodon:
   - username: elenavanengelen
     instance: hachyderm.io
+twitter_username: elenavanengelen
 
 # Build settings
 theme: minima
@@ -20,7 +22,6 @@ header_pages:
   - training.markdown
   - credentials.markdown
   - contact.markdown
-
 
 plugins:
   - jekyll-feed

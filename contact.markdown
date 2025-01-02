@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-I’d love to hear from you! Whether you’re looking to discuss a project, need Kotlin training, or just want to connect, feel free to reach out through any of the channels below.
+I’d love to hear from you! Whether you are looking to discuss a project, need Kotlin training, or just want to connect, feel free to reach out through any of the channels below.
 
 ---
 
