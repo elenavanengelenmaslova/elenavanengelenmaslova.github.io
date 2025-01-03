@@ -4,13 +4,14 @@ title: Training
 permalink: /training/
 ---
 
-I provide Kotlin training sessions designed to help teams enhance their skills, boost productivity, and build confidence in using Kotlin effectively. My training offerings cover a range of topics, from foundational concepts to advanced Kotlin techniques, and are available in various formats, including:
+I provide Kotlin training sessions designed to help teams enhance their skills, boost productivity, and build confidence in using Kotlin effectively. My training offerings cover a range of topics, from foundational concepts to advanced Kotlin techniques, and can be customized to meet your team’s specific needs. These sessions are available in various formats, including:
 
-- **Intensive 2-Day Kotlin Basics Training**: A fast-paced course to get your team up to speed with Kotlin fundamentals.
-- **Bite-Size Kotlin Sessions**: 4-hour weekly sessions over 3 months, designed for Kotlin teams who wish to learn incrementally and apply new concepts directly to their work as they progress.
-- **Kotlin Crash Course**: A comprehensive training program based on my book, designed to guide developers from basics to advanced Kotlin concepts.
+- **Intensive Kotlin Basics Training**: A fast-paced course, typically conducted over two days, designed to get your team up to speed with Kotlin fundamentals.
+- **Bite-Size Kotlin Sessions**: 4-hour weekly sessions, typically conducted over 3 months, designed for Kotlin teams who wish to learn incrementally and apply new concepts directly to their work as they progress.
+- **Kotlin Crash Course**: A comprehensive training program based on my book. This course guides developers from basics to advanced Kotlin concepts and can be conducted as an intensive week-long program or at a slower pace over an extended period.
 
 ---
+
 
 ## Student Testimonials 
 
@@ -25,10 +26,8 @@ Here’s what participants have said about my training sessions (feedback collec
 - ⭐⭐⭐⭐⭐
   *"A great balance between presentation and hands-on practice, making the training both engaging and effective."*
   **— Developer, EDSN**
----
 
-## Training Experience
-I have delivered Kotlin training to various organizations, customizing the content to address their unique requirements. These include:
+---
 
 ## Training Experience
 I have delivered Kotlin training to various organizations, tailoring the content to meet their unique needs. These include:
@@ -45,8 +44,7 @@ I am the author of the book [*Kotlin Crash Course*](https://www.amazon.com/Kotli
 ---
 
 ## Sharing Knowledge
-I actively share my Kotlin expertise in my blog, at conferences and community events:
-- [**Medium Blog**](https://medium.com/@elenavanengelen)
+I actively share my Kotlin expertise in my [**Medium Blog**](https://medium.com/@elenavanengelen), at conferences and community events, including:
 - [**Kotlin Dev Day Advanced**](https://kotlindevday.com/videos/kotlin-on-serverless-cloud-aws-lambda-unlimited-elena-van-engelen-maslova/): *Kotlin on Serverless Cloud - AWS Lambda, Unlimited!*
 - [**AWS Community Day**](https://www.youtube.com/watch?v=GvAyaJZzQ5M): *Kotlin on AWS Serverless Cloud.*
 
