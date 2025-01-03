@@ -11,7 +11,7 @@ Throughout my career, I have had the opportunity to work on a diverse range of p
 ### **Recent Projects**
 
 #### **Secure Event-Driven Financial Integration System for Pension Administration**
-**Employer**: [AZL (NN Group)](https://www.azl.eu/) 
+**Employer**: [AZL (NN Group)](https://www.azl.eu/)  <br>
 **Role**: Lead Software Engineer / Kotlin Tech Lead  
 **Dates**: 2023–Present  
 **Tech Stack**: Kotlin, Azure Functions, Azure Service Bus, Azure Event Hubs, Azure Blob Storage, Azure Cosmos DB, Spring Boot, Spring Cloud Function, OAuth2, mTLS, IntelliJ, Azure DevOps, Git
@@ -116,7 +116,7 @@ Focused on Java backend development, REST APIs, and enterprise integrations. Hig
 - Designing backend systems for logistics and supply chain management.
 - Transitioning on-premise systems to early cloud platforms.
 
---
+---
 
 ### **LinkedIn Recommendations**
 
