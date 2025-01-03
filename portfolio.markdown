@@ -4,7 +4,7 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-Throughout my career, I have had the opportunity to work on a diverse range of projects, from building secure integration layers for enterprise systems to architecting scalable serverless applications in the cloud. Below, I’ve highlighted some of the key projects where I’ve made a measurable impact, showcasing my expertise in Kotlin, cloud-native solutions, and backend development.
+Throughout my career, I have had the opportunity to work on a diverse range of projects, from building secure integration layers for enterprise systems to architecting scalable serverless applications in the cloud. Below, I have highlighted some of the key projects where I have made a measurable impact, showcasing my expertise in Kotlin, cloud-native solutions, and backend development.
 
 ---
 
@@ -110,7 +110,7 @@ Throughout my career, I have had the opportunity to work on a diverse range of p
 
 ### **Earlier Experience (2000–2013)**
 
-#### **Senior Backend Developer**, Various Roles
+#### **Senior Java Backend Developer**, Various Roles
 Focused on Java backend development, REST APIs, and enterprise integrations. Highlights include:
 - Building secure APIs for e-commerce platforms.
 - Designing backend systems for logistics and supply chain management.
