@@ -30,9 +30,12 @@ Here’s what participants have said about my training sessions (feedback collec
 ## Training Experience
 I have delivered Kotlin training to various organizations, customizing the content to address their unique requirements. These include:
 
-- **AZL (NN Group)**: Bite-size Kotlin training.
-- **Version 1**: Kotlin Basics and Kotlin on AWS Serverless.
-- **EDSN**: Kotlin Basics training.
+## Training Experience
+I have delivered Kotlin training to various organizations, tailoring the content to meet their unique needs. These include:
+
+- **[AZL (NN Group)](https://www.azl.eu/)**: Bite-size Kotlin training.
+- **[Version 1](https://www.version1.com/)**: Kotlin Basics and Kotlin on AWS Serverless training.
+- **[EDSN](https://www.edsn.nl/)**: Kotlin Basics training.
 
 ---
 
