@@ -12,7 +12,6 @@ I collaborate with teams, mentor peers, and share knowledge to foster innovation
 
 In addition to software engineering, I provide Kotlin training sessions to help teams enhance their skills and productivity. Learn more on my [Training](/training/) page.
 
-For details about my projects and expertise, visit my [Portfolio](/portfolio/).  
-Interested in working together? [Contact me](/contact/) to discuss your needs.
+For details about my projects and expertise, visit my [Portfolio](/portfolio/).
 
 Outside of work, I enjoy running, yoga, cross-country skiing, and exploring new places with my two kids.
