@@ -11,7 +11,7 @@ Throughout my career, I have had the opportunity to work on a diverse range of p
 ### **Recent Projects**
 
 #### **Secure Event-Driven Financial Integration System for Pension Administration**
-**Employer**: AZL (NN Group)  
+**Employer**: [AZL (NN Group)](https://www.azl.eu/) 
 **Role**: Lead Software Engineer / Kotlin Tech Lead  
 **Dates**: 2023–Present  
 **Tech Stack**: Kotlin, Azure Functions, Azure Service Bus, Azure Event Hubs, Azure Blob Storage, Azure Cosmos DB, Spring Boot, Spring Cloud Function, OAuth2, mTLS, IntelliJ, Azure DevOps, Git
@@ -33,66 +33,78 @@ Throughout my career, I have had the opportunity to work on a diverse range of p
 
 ---
 
-#### **Microservices and Cloud Migration**
-**Employer**: PostNL  
-**Role**: Senior Software Engineer  
+#### **Automated Parcel Processing System**
+**Employer**: [PostNL](https://www.postnl.nl/)  
+**Role**: Senior Solution Software Engineer (Kotlin)  
 **Dates**: 2021–2022  
-**Tech Stack**: Java, Kubernetes, Docker, Azure Functions
+**Tech Stack**: Kotlin, AWS Lambda, EventBridge, S3, DynamoDB, SNS, SQS, AWS AppSync, AWS CloudFront, AWS Location Services, AWS CDK, IoC
 
-**Problem**: Transition legacy monolithic systems to a microservices-based architecture to improve scalability and maintainability.
+**Problem**: The organization required a modern, automated system to optimize parcel processing and resource allocation, leveraging data from IoT systems to improve efficiency in parcel delivery.
 
-**My Role**: Led a team of engineers to design, implement, and deploy microservices on Azure.
+**My Role**: Worked on a greenfield project to design and implement an event-driven system that automated parcel processing and resource allocation using AWS serverless technologies and Kotlin.
 
 **Solution**:
-- Developed and containerized microservices using Docker and Kubernetes.
-- Migrated data pipelines to Azure Functions for event-driven processing.
-- Implemented CI/CD pipelines for streamlined deployment.
+- Designed and developed an event-driven architecture using AWS Lambda, EventBridge, SNS, SQS, and DynamoDB for efficient data processing and event handling.
+- Integrated data from IoT systems to monitor the movement, availability, and location of roll containers and other resources.
+- Leveraged AWS AppSync and AWS Location Services to enable real-time GraphQl API and geolocation visualisation.
+- Implemented resource allocation logic to automatically plan better and more efficient parcel delivery.
+- Built the infrastructure using AWS CDK with a focus on Infrastructure as Code (IoC) for maintainability and scalability.
 
 **Impact**:
-- Reduced deployment times by 50%.
-- Increased application scalability by 300%.
+- Delivered a highly efficient system for real-time resource allocation, ensuring swift and cost-effective parcel delivery.
+- Optimized the use of roll containers and trucks by automatically planning routes and resource allocation based on real-time data.
+- Improved operational efficiency and reduced resource waste through automated planning and tracking.
 
 ---
 
-#### **Serverless Integration for E-Commerce Systems**
-**Employer**: Bol.com  
+#### **Customer Account Enhancements and Internationalization for E-Commerce**
+**Employer**: [Bol.com](https://www.bol.com/)  
 **Role**: Backend Developer  
 **Dates**: 2019–2021  
-**Tech Stack**: Kotlin, AWS Lambda, DynamoDB, API Gateway
+**Tech Stack**: Kotlin, Java, Spring Boot, Google Cloud Platform (GCP), Kubernetes, Google Cloud Datastore, BigQuery, GraphQL, REST
 
-**Problem**: Integration between core services required a serverless architecture to ensure scalability and flexibility during peak periods.
+**Problem**: Bol.com needed new features for customer accounts to improve user experience and internationalization of both customer accounts and communication systems to enable expansion into Belgium.
 
-**My Role**: Architected and developed serverless solutions for seamless integration between services.
+**My Role**: Worked on enhancing the webshop's customer accounts and internationalizing both customer accounts and communication systems for seamless operations across regions.
 
 **Solution**:
-- Designed secure REST APIs using Kotlin and API Gateway.
-- Implemented serverless workflows with AWS Step Functions.
-- Optimized DynamoDB queries for fast data retrieval.
+- Added new customer account features, such as invoice generation, debt tracking, order history, and real-time order status updates.
+- Improved existing features, ensuring a seamless and intuitive user experience.
+- Expanded internationalization capabilities for customer accounts and communication systems, such as email, to support multiple languages.
+- Ensured the secure handling of Personally Identifiable Information (PII) data throughout the system.
+- Utilized GCP technologies, including Google Cloud Datastore and BigQuery, for efficient data storage and querying.
+- Built scalable and maintainable services with Kubernetes, GraphQL, and REST APIs.
 
 **Impact**:
-- Improved API response times by 40%.
-- Enabled dynamic scaling during seasonal peaks with zero downtime.
+- Enhanced customer satisfaction by providing robust features like detailed order tracking and invoice access.
+- Successfully enabled Bol.com to expand into Belgium with localized customer account and communication systems.
+- Improved overall user experience, operational efficiency, and data security across regions.
 
 ---
 
-#### **Telecom Platform Modernization**
-**Employer**: KPN  
-**Role**: Senior Backend Engineer  
+#### **Telecom Platform Integration and Modernization**
+**Employer**: [KPN](https://www.kpn.com/)  
+**Role**: Lead Software Engineer / Solution Designer  
 **Dates**: 2013–2019  
-**Tech Stack**: Java, Spring Boot
+**Tech Stack**: Java, Spring Boot, PostgreSQL, Oracle, Kubernetes
 
-**Problem**: Legacy telecom systems required modernization to handle increasing data volumes and improve system reliability.
+**Problem**: KPN required seamless integration of Telfort's fiber and copper systems into its own, along with modernization of legacy billing systems to support new and existing customers.
 
-**My Role**: Architected and developed backend systems to replace legacy infrastructure with modern, scalable solutions.
+**My Role**: Led and contributed to multiple projects, including:
+1. Integration of Telfort’s fiber and copper systems into KPN’s infrastructure to enable full support for Telfort customers and new order processing.
+2. Replacement of legacy Telfort/Tiscali billing systems with integration into KPN’s modern billing platform.
 
 **Solution**:
-- Built high-performance APIs for real-time telecom data processing.
-- Implemented RabbitMQ for asynchronous communication between systems.
-- Migrated workloads to Google Cloud for enhanced scalability and cost efficiency.
+- Built and expanded core components to enable Telfort fiber and copper customers to be fully incorporated into KPN’s systems.
+- Developed and integrated systems to support the order chain for new customers, ensuring seamless onboarding processes.
+- Conducted a migration of existing customers into the new system, including enabling KPN to communicate migration stages effectively.
+- Integrated with KPN’s billing platform to replace outdated systems, ensuring accurate and efficient billing operations.
 
 **Impact**:
-- Reduced operational costs by 25%.
-- Improved system throughput by 60%.
+- Successfully enabled Telfort fiber and copper customers to transition seamlessly into KPN’s infrastructure with minimal service disruptions.
+- Delivered robust systems for new customer order processing, streamlining onboarding and operational workflows.
+- Modernized billing systems, improving reliability and efficiency for both Telfort and KPN customers.
+- Enhanced scalability and reliability through modernized architecture, ensuring long-term support for increasing customer and data volumes.
 
 ---
 
