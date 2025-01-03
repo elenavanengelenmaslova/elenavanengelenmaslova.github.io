@@ -82,7 +82,7 @@ Throughout my career, I have had the opportunity to work on a diverse range of p
 
 ---
 
-#### **Telecom Platform Integration and Modernization**
+#### **Telecom Platform Order Chain and Delivery, Integration and Modernization**
 **Employer**: [KPN](https://www.kpn.com/)  
 **Role**: Lead Software Engineer / Solution Designer  
 **Dates**: 2013–2019  
@@ -103,7 +103,7 @@ Throughout my career, I have had the opportunity to work on a diverse range of p
 **Impact**:
 - Successfully enabled Telfort fiber and copper customers to transition seamlessly into KPN’s infrastructure with minimal service disruptions.
 - Delivered robust systems for new customer order processing, streamlining onboarding and operational workflows.
-- Modernized billing systems, improving reliability and efficiency for both Telfort and KPN customers.
+- Modernized billing systems, improving reliability and efficiency for Telfort customers.
 - Enhanced scalability and reliability through modernized architecture, ensuring long-term support for increasing customer and data volumes.
 
 ---
