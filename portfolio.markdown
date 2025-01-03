@@ -114,7 +114,8 @@ Throughout my career, I have had the opportunity to work on a diverse range of p
 Focused on Java backend development, REST APIs, and enterprise integrations. Highlights include:
 - Building secure APIs for e-commerce platforms.
 - Designing backend systems for logistics and supply chain management.
-- Transitioning on-premise systems to early cloud platforms.
+- Building provisioning systems for telecoms.
+- Building backend systems for airline.
 
 ---
 
