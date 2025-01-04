@@ -25,6 +25,7 @@ header_pages:
 
 plugins:
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 # Exclude from processing
 # Exclude certain files or directories from being processed by Jekyll
