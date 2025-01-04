@@ -59,7 +59,7 @@ Throughout my career, I have had the opportunity to work on a diverse range of p
 
 #### **Customer Account Enhancements and Internationalization for E-Commerce**
 **Employer**: [Bol.com](https://www.bol.com/)  
-**Role**: Backend Developer  
+**Role**: Senior Software Engineer  
 **Dates**: 2019–2021  
 **Tech Stack**: Kotlin, Java, Spring Boot, Google Cloud Platform (GCP), Kubernetes, Google Cloud Datastore, BigQuery, GraphQL, REST
 
