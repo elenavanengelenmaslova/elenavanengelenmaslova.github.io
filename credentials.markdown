@@ -33,8 +33,9 @@ These certifications demonstrate my expertise in cloud-native solutions and soft
 
 ## Academic Achievements
 ### Degrees
-- **BSc (Hons) in Computing**, University of the West of England (2000)
 - **MSc in Software Engineering**, University of the West of England (2002)
+- **BSc (Hons) in Computing**, University of the West of England (2000)
+
 
 ### Diploma Verification
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
