@@ -14,4 +14,4 @@ In addition to software engineering, I provide Kotlin training sessions to help 
 
 For details about my projects and expertise, visit my [Portfolio](/portfolio/).
 
-Outside of work, I enjoy running, yoga, cross-country skiing, and spending time with my two kids.
+Outside of work, I enjoy running, yoga, cross-country skiing, and spending time with my kids & family.
