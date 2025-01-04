@@ -116,6 +116,7 @@ Focused on Java backend development, REST APIs, and enterprise integrations. Hig
 - Designing backend systems for logistics and supply chain management.
 - Building provisioning systems for telecoms.
 - Building backend systems for airline.
+- Optimizing data exchange systems for the energy and utilities sector, contributing to efficient electricity and gas management
 
 ---
 
