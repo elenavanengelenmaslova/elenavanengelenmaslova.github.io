@@ -24,7 +24,7 @@ header_pages:
   - contact.markdown
 
 plugins:
-  - jekyll-feed
+  - jekyll-sitemap
 
 # Exclude from processing
 # Exclude certain files or directories from being processed by Jekyll
@@ -55,3 +55,5 @@ defaults:
       path: "" # Applies to all non-post files
     values:
       layout: "page"
+
+google_analytics: G-LN4HKRGKZG
