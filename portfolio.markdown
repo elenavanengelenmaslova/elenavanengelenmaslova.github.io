@@ -11,24 +11,26 @@ Throughout my career, I have had the opportunity to work on a diverse range of p
 ### **Recent Projects**
 
 #### **Secure Event-Driven Financial Integration System for Pension Administration**
-**Employer**: [AZL (NN Group)](https://www.azl.eu/)  <br>
+**Employer**: [AZL (NN Group)](https://www.azl.eu/)  
 **Role**: Lead Software Engineer / Kotlin Tech Lead  
 **Dates**: 2023–Present  
 **Tech Stack**: Kotlin, Azure Functions, Azure Service Bus, Azure Event Hubs, Azure Blob Storage, Azure Cosmos DB, Spring Boot, Spring Cloud Function, OAuth2, mTLS, IntelliJ, Azure DevOps, Git
 
-**Problem**: In response to the Dutch government's **New Pension System** requirements, the organization needed a secure and scalable integration system to process and transform pension-related data across diverse internal and external systems.
+**Problem**: In response to the Dutch government's New Pension Law requirements, the organization needed to replace its aging on-premise Oracle system with a modern, scalable solution on Azure. The new system required robust security and compliance to handle pension-related data across diverse internal and external systems.
 
-**My Role**: Led the Kotlin development team in designing and implementing a greenfield integration system tailored to meet the requirements of the new pension framework.
+**My Role**: Led the Kotlin development team in designing and implementing a greenfield integration system tailored to meet the requirements of the new pension framework and drive the migration to a cloud-native architecture.
 
 **Solution**:
+- Replaced the legacy on-premise Oracle system with a cloud-native solution hosted on Azure to support the new pension law implementation.
 - Designed and implemented a robust event-driven integration system from scratch, leveraging modern security measures, including mTLS connections, OAuth2, encryption, signing, and message-level authentication.
-- Integrated diverse systems, such as Salesforce, Festina, Unit4, Visma, ING, Goldman Sachs, and government institutions, ensuring secure and compliant data exchange.
+- Integrated diverse systems, such as Salesforce, Festina, Unit4, Visma, ING, and other financial and government institutions, ensuring secure and compliant data exchange.
 - Implemented transformation and adaptation layers to handle data interchange between SOAP, REST, event-driven systems, and batch files in various formats, including legacy systems.
 - Leveraged Azure Blob Storage, Service Bus, Cosmos DB, and Functions to build a scalable, secure, and efficient architecture for pension data processing.
 
 **Impact**:
-- Delivered a highly secure and scalable integration layer critical to the implementation of the **New Pension System**.
-- Enabled seamless data transformation and adaptation between modern and legacy systems, ensuring compliance with government-mandated pension reforms.
+- Delivered a highly secure and scalable integration layer critical to the implementation of the New Pension Law.
+- Successfully replaced the on-premise Oracle system, modernizing the pension data processing infrastructure and aligning it with cloud-native best practices.
+- Enabled seamless data transformation and adaptation between systems, ensuring compliance with government-mandated pension reforms.
 - Achieved robust system reliability and scalability to handle growing business demands and regulatory requirements.
 
 ---
