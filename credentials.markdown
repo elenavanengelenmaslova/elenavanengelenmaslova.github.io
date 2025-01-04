@@ -37,9 +37,10 @@ These certifications demonstrate my expertise in cloud-native solutions and soft
 - **MSc in Software Engineering**, University of the West of England (2002)
 
 ### Diploma Verification
-<div style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
-  <img src="{{ '/assets/images/batchlor.png' | relative_url }}" alt="BSc Diploma" style="max-width: 400px; height: auto; border: 1px solid #ddd;">
-  <img src="{{ '/assets/images/master.png' | relative_url }}" alt="MSc Diploma" style="max-width: 400px; height: auto; border: 1px solid #ddd;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
+  <img src="{{ '/assets/images/bachelor.png' | relative_url }}" alt="BSc Diploma" style="max-width: 100%; height: auto; border: 1px solid #ddd; flex: 1 1 300px;">
+  <img src="{{ '/assets/images/master.png' | relative_url }}" alt="MSc Diploma" style="max-width: 100%; height: auto; border: 1px solid #ddd; flex: 1 1 300px;">
 </div>
+
 
 
