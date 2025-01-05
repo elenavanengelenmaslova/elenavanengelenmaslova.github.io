@@ -4,7 +4,7 @@ title: Elena van Engelen-Maslova
 subtitle: Independent Senior / Lead Software Engineer
 ---
 
-As an independent Senior/Lead Software Engineer working on a freelance basis, I help businesses design and implement scalable, maintainable backend systems using Kotlin and Java. I specialize in **cloud-native architectures**, **microservices**, and **event-driven patterns**, ensuring high-quality results tailored to meet business needs.
+As an independent **Senior/Lead Software Engineer** working on a freelance basis, I help businesses **design and implement scalable, maintainable backend systems** using Kotlin and Java. I specialize in **cloud-native architectures**, **microservices**, and **event-driven patterns**, ensuring high-quality results tailored to meet business needs.
 
 I have worked with leading organizations to deliver impactful solutions, leveraging my [AWS and Azure certifications](/credentials/) and extensive expertise in building secure, efficient systems. Explore my recent projects and achievements in my [Portfolio](/portfolio/).
 
