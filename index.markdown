@@ -13,3 +13,14 @@ In addition to software engineering, I provide **Kotlin training sessions** to h
 Beyond my immediate projects, I write about Kotlin and cloud-native solutions on my [blog](https://medium.com/@elenavanengelen) and share insights at conferences like [Kotlin Dev Day Advanced](https://kotlindevday.com/videos/kotlin-on-serverless-cloud-aws-lambda-unlimited-elena-van-engelen-maslova/).
 
 Outside of work, I enjoy running, yoga, cross-country skiing, and spending time with my kids & family.
+
+---
+
+## Get in Touch
+
+I’d love to hear from you! Whether you are looking to discuss a project, need Kotlin training, or just want to connect, feel free to reach out through any of the channels below:
+
+- **Email**: [elenavanengelen@vintik.nl](mailto:elenavanengelen@vintik.nl)
+- **LinkedIn**: [Elena van Engelen-Maslova](https://www.linkedin.com/in/elena-van-engelen-maslova/)
+- **Mastodon**: [@elenavanengelen@hachyderm.io](https://hachyderm.io/@elenavanengelen)
+- **X (formerly Twitter)**: [@elenavanengelen](https://twitter.com/elenavanengelen)

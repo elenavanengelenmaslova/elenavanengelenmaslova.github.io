@@ -21,7 +21,6 @@ header_pages:
   - portfolio.markdown
   - training.markdown
   - credentials.markdown
-  - contact.markdown
 
 plugins:
   - jekyll-sitemap
