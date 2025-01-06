@@ -14,10 +14,11 @@ These certifications demonstrate my expertise in cloud-native solutions and soft
 ### AWS Certifications
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <!-- Placeholder for AWS Certifications -->
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c03a7d0d-8128-43b4-930a-db5f239f2f2c" data-share-badge-host="https://www.credly.com"></div>
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="21f8c5b1-a5f6-4e35-829f-306aee08e920" data-share-badge-host="https://www.credly.com"></div>
   <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a633445b-507c-42ad-bf5d-8284af80c1c7" data-share-badge-host="https://www.credly.com"></div>
   <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="09b4aa6f-f2cb-4a42-9bde-35da6cef248f" data-share-badge-host="https://www.credly.com"></div>
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c03a7d0d-8128-43b4-930a-db5f239f2f2c" data-share-badge-host="https://www.credly.com"></div>
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="21f8c5b1-a5f6-4e35-829f-306aee08e920" data-share-badge-host="https://www.credly.com"></div>
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2172a488-637b-4467-b8c9-e09a67aa2e43" data-share-badge-host="https://www.credly.com"></div>
 </div>
 <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
