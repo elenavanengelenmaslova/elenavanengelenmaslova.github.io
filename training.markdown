@@ -15,7 +15,7 @@ I provide Kotlin training sessions designed to help teams enhance their skills, 
 
 ## Student Testimonials 
 
-Here’s what participants have said about my training sessions (feedback collected via anonymous forms):
+Here is what participants have said about my training sessions (feedback collected via anonymous forms):
 
 - ⭐⭐⭐⭐⭐ *"Elena is very dedicated, helpful, and extremely knowledgeable. She breathes Kotlin and her enthusiasm is catching. The transition to Kotlin developer after working with Oracle PL/SQL for over 20 years was sometimes intimidating but thanks to the structured and practical approach of her training and the personal guidance, I look back on it with a lot of pride and pleasure."*
 **— Engineer, AZL (NN Group)**
