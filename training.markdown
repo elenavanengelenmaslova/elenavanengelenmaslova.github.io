@@ -23,6 +23,8 @@ Here’s what participants have said about my training sessions (feedback collec
 **— Developer, Version 1**
 - ⭐⭐⭐⭐⭐ *"A great balance between presentation and hands-on practice, making the training both engaging and effective."*
 **— Developer, EDSN**
+- ⭐⭐⭐⭐⭐ *"Elena was very enthusiastic and engaged. She was patient and took all her time to guide me, as a Kotlin-novice, through all rookie-mistakes. Some fun real-life examples made it even better to understand."*
+**— Engineer, AZL (NN Group)**
 
 ---
 
