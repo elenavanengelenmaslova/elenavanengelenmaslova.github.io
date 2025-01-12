@@ -18,7 +18,7 @@ Throughout my career, I have had the opportunity to work on a diverse range of p
 
 **Problem**: In response to the Dutch government's New Pension Law requirements, the organization needed to replace its aging on-premise Oracle system with a modern, scalable solution on Azure. The new system required robust security and compliance to handle pension-related data across diverse internal and external systems.
 
-**My Role**: Led the Kotlin development team in designing and implementing a greenfield integration system tailored to meet the requirements of the new pension framework and drive the migration to a cloud-native architecture.
+**My Role**: Leading the Kotlin development team in designing and implementing a greenfield integration system tailored to meet the requirements of the new pension framework and drive the migration to a cloud-native architecture.
 
 **Solution**:
 - Replaced the legacy on-premise Oracle system with a cloud-native solution hosted on Azure to support the new pension law implementation.
