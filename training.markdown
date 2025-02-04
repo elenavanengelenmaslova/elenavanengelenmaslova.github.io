@@ -43,11 +43,15 @@ I am the author of the book [*Kotlin Crash Course*](https://www.amazon.com/Kotli
 ---
 
 ## Sharing Knowledge
-I actively share my Kotlin expertise in my [**Medium Blog**](https://medium.com/@elenavanengelen), at conferences and community events, including:
+I actively share my Kotlin expertise in my [**Medium Blog**](https://medium.com/@elenavanengelen), at conferences and community events.
+
+### 🔥 Upcoming Talks
+- [**Voxxed Days Amsterdam (April 3, 2025)**](https://amsterdam.voxxeddays.com/talk/?id=5951): *Clean Architecture for Serverless: Business Logic You Can Take Anywhere*
+
+### 🎤 Past Talks (recorded)
 - [**Kotlin Dev Day Advanced**](https://kotlindevday.com/videos/kotlin-on-serverless-cloud-aws-lambda-unlimited-elena-van-engelen-maslova/): *Kotlin on Serverless Cloud - AWS Lambda, Unlimited!*
 - [**AWS Community Day**](https://www.youtube.com/watch?v=GvAyaJZzQ5M): *Kotlin on AWS Serverless Cloud.*
 
----
 
 ## Ready to Learn Kotlin?
 If you’re looking to upskill your team or want a customized Kotlin training session, feel free to [contact me](mailto:elenavanengelen@vintik.nl) to discuss your needs.
