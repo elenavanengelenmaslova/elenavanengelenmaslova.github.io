@@ -9,6 +9,8 @@ I provide Kotlin training sessions designed to help teams enhance their skills, 
 - **Intensive Kotlin Basics Training**: A fast-paced course, typically conducted over two days, designed to get your team up to speed with Kotlin fundamentals.
 - **Bite-Size Kotlin Sessions**: 4-hour weekly sessions, typically conducted over 3 months, designed for Kotlin teams who wish to learn incrementally and apply new concepts directly to their work as they progress.
 - **Kotlin Crash Course**: A comprehensive training program based on my book. This course guides developers from basics to advanced Kotlin concepts and can be conducted as an intensive week-long program or at a slower pace over an extended period.
+- **Kotlin on AWS Lambda**: A hands-on session for developers with an **intermediate level of Kotlin**. This course focuses on building Kotlin applications on AWS Lambda with different types of triggers, configuring infrastructure around these triggers, handling function outputs, and integrating with other AWS services.
+- **Kotlin on Azure Functions**: Designed for developers with an **intermediate level of Kotlin**, this training covers building Kotlin applications on Azure Functions. It explores different function triggers, setting up the necessary infrastructure, handling function outputs, and integrating with various Azure services.
 
 ---
 
