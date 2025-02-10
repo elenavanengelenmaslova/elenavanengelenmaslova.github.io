@@ -18,7 +18,6 @@ These certifications demonstrate my expertise in cloud-native solutions and soft
   <!-- Placeholder for AWS Certifications -->
   <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a633445b-507c-42ad-bf5d-8284af80c1c7" data-share-badge-host="https://www.credly.com"></div>
   <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="09b4aa6f-f2cb-4a42-9bde-35da6cef248f" data-share-badge-host="https://www.credly.com"></div>
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c03a7d0d-8128-43b4-930a-db5f239f2f2c" data-share-badge-host="https://www.credly.com"></div>
   <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="21f8c5b1-a5f6-4e35-829f-306aee08e920" data-share-badge-host="https://www.credly.com"></div>
   <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2172a488-637b-4467-b8c9-e09a67aa2e43" data-share-badge-host="https://www.credly.com"></div>
 </div>
@@ -26,13 +25,22 @@ These certifications demonstrate my expertise in cloud-native solutions and soft
 
 ### Azure Certifications
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
-  <!-- Azure Certifications -->
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5ae18e92-b259-4c50-a006-6f954ebd65df" data-share-badge-host="https://www.credly.com"></div>
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="azure-architect-badge-id" data-share-badge-host="https://www.credly.com"></div>
+
+  <!-- AZ-204 Certification -->
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/ElenavanEngelenMaslova-0197/4286A2C027D4FE0A?sharingId=5933D7DBC390B449" target="_blank">
+    <img src="/assets/images/azure-developer.png" alt="AZ-204: Developing Solutions for Microsoft Azure" width="150">
+  </a>
+
+  <!-- Microsoft Certified: Fundamentals -->
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/ElenavanEngelenMaslova-0197/7FD6237D8EF7FD45?sharingId=5933D7DBC390B449" target="_blank">
+    <img src="/assets/images/fundamentals.png" alt="Azure Solutions Architect Expert" width="150">
+  </a>
+
 </div>
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<br>
 
 ---
+
 
 ## Academic Achievements
 ### Degrees

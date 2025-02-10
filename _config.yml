@@ -20,7 +20,7 @@ minima:
 header_pages:
   - portfolio.markdown
   - training.markdown
-#  - credentials.markdown
+  - credentials.markdown
 
 plugins:
   - jekyll-sitemap
