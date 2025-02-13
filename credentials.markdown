@@ -9,9 +9,8 @@ This page highlights my verified certifications and academic achievements.
 ---
 
 ## Professional Certifications
-These certifications demonstrate my expertise in cloud-native solutions and software engineering, verified via Credly.
-
-[//]: # ([Credly]&#40;https://www.credly.com/users/elen-van-engelen-maslova&#41;.)
+These certifications demonstrate my expertise in cloud-native solutions and software engineering.  
+Click on the certification badges below to verify my credentials.
 
 ### AWS Certifications
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
