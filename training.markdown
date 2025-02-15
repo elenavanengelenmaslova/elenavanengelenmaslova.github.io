@@ -4,13 +4,17 @@ title: Training
 permalink: /training/
 ---
 
-I provide Kotlin training sessions designed to help teams enhance their skills, boost productivity, and build confidence in using Kotlin effectively. My training offerings cover a range of topics, from foundational concepts to advanced Kotlin techniques, and can be customized to meet your team’s specific needs. These sessions are available in various formats, including:
 
-- **Intensive Kotlin Basics Training**: A fast-paced course, typically conducted over two days, designed to get your team up to speed with Kotlin fundamentals.
-- **Bite-Size Kotlin Sessions**: 4-hour weekly sessions, typically conducted over 3 months, designed for Kotlin teams who wish to learn incrementally and apply new concepts directly to their work as they progress.
-- **Kotlin Crash Course**: A comprehensive training program based on my book. This course guides developers from basics to advanced Kotlin concepts and can be conducted as an intensive week-long program or at a slower pace over an extended period.
-- **Kotlin on AWS Lambda**: A hands-on session for developers with an **intermediate level of Kotlin**. This course focuses on building Kotlin applications on AWS Lambda with different types of triggers, configuring infrastructure around these triggers, handling function outputs, and integrating with other AWS services.
-- **Kotlin on Azure Functions**: Designed for developers with an **intermediate level of Kotlin**, this training covers building Kotlin applications on Azure Functions. It explores different function triggers, setting up the necessary infrastructure, handling function outputs, and integrating with various Azure services.
+I provide Kotlin training sessions designed to help teams enhance their skills, boost productivity, and build confidence in using Kotlin effectively. My training covers foundational concepts to advanced Kotlin techniques and can be customized to meet your team’s specific needs.
+
+Below are the available training programs. Click on each course for a detailed outline.
+
+### Training Cources
+- [Intensive Kotlin Basics Training](/training/kotlin-basics/)
+- [Bite-Size Kotlin Sessions](/training/bite-size-kotlin/)
+- [Kotlin Crash Course](/training/kotlin-crash-course/)
+- [Kotlin on AWS Lambda](/training/kotlin-aws-lambda/)
+- [Kotlin on Azure Functions](/training/kotlin-azure-functions/)
 
 ---
 

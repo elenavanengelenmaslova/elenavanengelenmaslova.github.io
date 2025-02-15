@@ -13,6 +13,7 @@ These certifications demonstrate my expertise in cloud-native solutions and soft
 Click on the certification badges below to verify my credentials.
 
 ### AWS Certifications
+_Verified via Credly_
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <!-- Placeholder for AWS Certifications -->
   <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a633445b-507c-42ad-bf5d-8284af80c1c7" data-share-badge-host="https://www.credly.com"></div>
@@ -23,6 +24,7 @@ Click on the certification badges below to verify my credentials.
 <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ### Azure Certifications
+_Verified via Microsoft Learn_
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
   <!-- AZ-204 Certification -->
