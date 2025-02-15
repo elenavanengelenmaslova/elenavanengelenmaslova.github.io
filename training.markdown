@@ -52,13 +52,16 @@ I am the author of the book [*Kotlin Crash Course*](https://www.amazon.com/Kotli
 I actively share my Kotlin expertise in my [**Medium Blog**](https://medium.com/@elenavanengelen), at conferences and community events.
 
 ### 🔥 Upcoming Talks
+
+- [**AWS Meetup at Picnic (March 11, 2025)**](https://awsug.nl/events/2025/03/11/aws-meetup-at-picnic/): *Testing Serverless Architecture*
+
 - [**Voxxed Days Amsterdam (April 3, 2025)**](https://amsterdam.voxxeddays.com/talk/?id=5951): *Clean Architecture for Serverless: Business Logic You Can Take Anywhere*
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
-  <a href="https://amsterdam.voxxeddays.com/talk/?id=5951" target="_blank">
-    <img src="{{ '/assets/images/voxxed.jpg' | relative_url }}" alt="Voxxed Days Amsterdam" style="max-width: 100%; height: auto; border: 1px solid #ddd; flex: 1 1 300px;">
-  </a>
-</div>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
+    <a href="https://amsterdam.voxxeddays.com/talk/?id=5951" target="_blank">
+      <img src="{{ '/assets/images/voxxed.jpg' | relative_url }}" alt="Voxxed Days Amsterdam" style="max-width: 100%; height: auto; border: 1px solid #ddd; flex: 1 1 300px;">
+    </a>
+  </div>
 
 
 ### 🎤 Past Talks (recorded)
