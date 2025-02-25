@@ -50,7 +50,7 @@ By the end of this training, participants will:
 ## Who Should Attend?
 - **Developers new to Kotlin** who want to learn the fundamentals.
 - **Java developers transitioning to Kotlin**.
-- **Teams adopting Kotlin for backend or cloud-based applications**.
+- **Teams transitioning from non-JVM languages to Kotlin**.
 
 ## Course Materials
 - Attendees receive a **structured course guide** based on the **first four chapters** of *[Kotlin Crash Course](https://www.amazon.com/Kotlin-Crash-Course-Fast-track-programming/dp/9355516304)*.
