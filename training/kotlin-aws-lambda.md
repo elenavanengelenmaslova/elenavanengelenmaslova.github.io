@@ -46,8 +46,7 @@ By the end of this training, participants will:
 - **Building a complete serverless application in Kotlin**.
 
 ## Who Should Attend?
-- **Intermediate Kotlin developers** looking to build AWS serverless applications.
-- **Backend engineers** who want to use **Kotlin with AWS CDK & Lambda**.
-- **Teams adopting Kotlin** for cloud-native applications.
+- **Intermediate Kotlin developers** who want to use **Kotlin on cloud native**.
+- **Teams adopting Kotlin** for serverless applications on AWS.
 
 For more details or to schedule this training for your team, [contact me](mailto:elenavanengelen@vintik.nl).
