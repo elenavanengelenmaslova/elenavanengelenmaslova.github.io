@@ -61,6 +61,7 @@ I actively share my Kotlin expertise in my [**Medium Blog**](https://medium.com/
     </a>
   </div>
 
+- [**KotlinConf 2025 (May 21–23)**](https://kotlinconf.com/speakers/2b9e0a69-6f25-4704-b819-bdbca519752f/): *Kotlin Clean Architecture for Serverless: Business Logic You Can Take Anywhere*
 
 ### 🎤 Past Talks (recorded)
 - [**Kotlin Dev Day Advanced**](https://kotlindevday.com/videos/kotlin-on-serverless-cloud-aws-lambda-unlimited-elena-van-engelen-maslova/): *Kotlin on Serverless Cloud - AWS Lambda, Unlimited!*
