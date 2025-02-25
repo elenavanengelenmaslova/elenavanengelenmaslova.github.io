@@ -53,8 +53,6 @@ I actively share my Kotlin expertise in my [**Medium Blog**](https://medium.com/
 
 ### 🔥 Upcoming Talks
 
-- [**AWS Meetup at Picnic (March 11, 2025)**](https://awsug.nl/events/2025/03/11/aws-meetup-at-picnic/): *Testing Serverless Architecture*
-
 - [**Voxxed Days Amsterdam (April 3, 2025)**](https://amsterdam.voxxeddays.com/talk/?id=5951): *Clean Architecture for Serverless: Business Logic You Can Take Anywhere*
 
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
