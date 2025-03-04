@@ -10,7 +10,7 @@ I have worked with leading organizations to deliver impactful solutions, leverag
 
 In addition to software engineering, I provide **Kotlin training sessions** to help teams enhance their skills and productivity. My training programs are based on practical, real-world experience and include content from my book, [*Kotlin Crash Course*](https://www.amazon.com/Kotlin-Crash-Course-Fast-track-programming/dp/9355516304)—a comprehensive guide to learning Kotlin, from basics to advanced concepts. Learn more about my tailored training programs on the [Training](/training/) page.
 
-Beyond my immediate projects, I write about Kotlin and cloud-native solutions on my [blog](https://medium.com/@elenavanengelen) and share insights at conferences like [Kotlin Dev Day Advanced](https://kotlindevday.com/videos/kotlin-on-serverless-cloud-aws-lambda-unlimited-elena-van-engelen-maslova/).
+Beyond my immediate projects, I write about Kotlin and cloud-native solutions on my [blog](https://medium.com/@elenavanengelen) and share insights at conferences like [KotlinConf](https://kotlinconf.com/schedule/?day=2025-05-23&session=e0af887d-db73-52c6-81c6-8f884d2a16f6), [Voxxeddays](https://amsterdam.voxxeddays.com/talk/?id=5951) and [Kotlin Dev Day Advanced](https://kotlindevday.com/videos/kotlin-on-serverless-cloud-aws-lambda-unlimited-elena-van-engelen-maslova/).
 
 Outside of work, I enjoy running, yoga, cross-country skiing, and spending time with my kids & family.
 
