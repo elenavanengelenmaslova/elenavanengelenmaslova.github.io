@@ -63,6 +63,14 @@ I actively share my Kotlin expertise in my [**Medium Blog**](https://medium.com/
 
 - [**KotlinConf 2025 (May 21–23)**](https://kotlinconf.com/speakers/2b9e0a69-6f25-4704-b819-bdbca519752f/): *Kotlin Clean Architecture for Serverless: Business Logic You Can Take Anywhere*
 
+- [**ING Kotlin Summit (June 19, 2025)**](https://amsterdam.voxxeddays.com/talk/?id=5951): *TBD*
+
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
+    <a href="https://www.linkedin.com/posts/ing-nederland_join-tech-meetupsing-welcome-to-the-activity-7303424388031270913-mLRj/?utm_source=share&utm_medium=member_ios&rcm=ACoAAACqz4QBGRKmpXgXg52mRY8CEbcKtspPjlI" target="_blank">
+      <img src="{{ '/assets/images/ing-kotlin-summit.jpeg' | relative_url }}" alt="ING Kotlin Summit 2025" style="max-width: 100%; height: auto; border: 1px solid #ddd; flex: 1 1 300px;">
+    </a>
+  </div>
+
 ### 🎤 Past Talks (recorded)
 - [**Kotlin Dev Day Advanced**](https://kotlindevday.com/videos/kotlin-on-serverless-cloud-aws-lambda-unlimited-elena-van-engelen-maslova/): *Kotlin on Serverless Cloud - AWS Lambda, Unlimited!*
 - [**AWS Community Day**](https://www.youtube.com/watch?v=GvAyaJZzQ5M): *Kotlin on AWS Serverless Cloud.*
