@@ -51,7 +51,7 @@ I am the author of the book [*Kotlin Crash Course*](https://www.amazon.com/Kotli
 ## Sharing Knowledge
 I actively share my Kotlin expertise in my [**Medium Blog**](https://medium.com/@elenavanengelen), at conferences and community events.
 
-### 🔥 Upcoming Talks
+### 🔥<a id="upcoming-talks"></a> Upcoming Talks
 
 - [**Voxxed Days Amsterdam (April 3, 2025)**](https://amsterdam.voxxeddays.com/talk/?id=5951): *Clean Architecture for Serverless: Business Logic You Can Take Anywhere*
 
