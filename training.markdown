@@ -9,7 +9,7 @@ I provide Kotlin training sessions designed to help teams enhance their skills, 
 
 Below are the available training programs. Click on each course for a detailed outline.
 
-### Training Cources
+### Training Courses
 - [Intensive Kotlin Basics Training](/training/kotlin-basics/)
 - [Bite-Size Kotlin Sessions](/training/bite-size-kotlin/)
 - [Kotlin Crash Course](/training/kotlin-crash-course/)
