@@ -5,9 +5,9 @@ permalink: /training/kotlin-crash-course/
 ---
 
 ## Course Overview
-This **intensive one-week training program** is designed for developers who want to **learn Kotlin quickly** with a hands-on approach. Based on **Kotlin Crash Course**, the training covers **Kotlin fundamentals, OOP, collections, functional programming, coroutines, delegation pattern, and unit testing**.
+This **intensive one-week training program** is designed for developers who want to **learn Kotlin quickly** with a hands-on approach. Based on [**Kotlin Crash Course**](https://www.amazon.com/Kotlin-Crash-Course-Fast-track-programming/dp/9355516304) book, the training covers **Kotlin fundamentals, OOP, collections, functional programming, coroutines, delegation pattern, and unit testing**.
 
-Participants will complete **practical exercises and build real-world applications** throughout the week.
+Participants will **develop hands-on projects** as they learn new concepts throughout the week.
 
 ## Learning Objectives
 By the end of this training, participants will:
@@ -20,7 +20,7 @@ By the end of this training, participants will:
 - Work with **coroutines** for efficient asynchronous programming.
 - Apply **delegation pattern** to simplify and reuse code.
 - Write **unit tests in Kotlin** using JUnit and MockK.
-- Develop a **real-world Kotlin application** using IntelliJ IDEA and Gradle.
+- Develop **a variety of Kotlin applications** using IntelliJ IDEA and Gradle.
 
 ## Course Structure
 **Duration**: 1 week (Full-day sessions)  
@@ -38,21 +38,21 @@ By the end of this training, participants will:
 - **Visibility Modifiers**: Understanding access control in Kotlin.
 - **Data Classes and Singleton Objects**.
 
-### **Day 3: Collections, Functional Programming & Coroutines**
+### **Day 3: Collections & Functional Programming**
 - **Working with Collections**: Lists, Sets, Maps, filtering, sorting.
 - **Lambdas and Higher-Order Functions**.
 - **Scope Functions**: `let`, `run`, `apply`, `also`, `with`.
-- **Introduction to Coroutines**: Suspending functions, structured concurrency, launching coroutines.
 
-### **Day 4: Delegation Pattern & Unit Testing**
+### **Day 4: Coroutines**
+- **Introduction to Coroutines**: Understanding coroutines and their benefits.
+- **Suspending Functions**: Writing and using suspending functions.
+- **Structured Concurrency**: CoroutineScope, Job hierarchy, and cancellation.
+- **Coroutine Context & Dispatchers**: Managing thread pools and contexts.
+
+### **Day 5: Delegation Pattern & Unit Testing**
 - **Delegation in Kotlin**: Using `by` keyword for cleaner architecture.
 - **Testing Kotlin Code**: Writing and running tests with JUnit & MockK.
 - **Mocking dependencies and verifying behavior**.
-
-### **Day 5: Real-World Kotlin Application**
-- **Applying all concepts in a hands-on project**.
-- **Refactoring and optimizing Kotlin code**.
-- **Writing clean documentation using KDoc**.
 
 ## Who Should Attend?
 - **Developers looking for an accelerated Kotlin training program**.
