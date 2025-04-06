@@ -63,7 +63,7 @@ I actively share my Kotlin expertise in my [**Medium Blog**](https://medium.com/
 
 - [**KotlinConf 2025 (May 21–23)**](https://kotlinconf.com/speakers/2b9e0a69-6f25-4704-b819-bdbca519752f/): *Kotlin Clean Architecture for Serverless: Business Logic You Can Take Anywhere*
 
-- [**ING Kotlin Summit (June 19, 2025)**](https://www.linkedin.com/posts/ing-nederland_join-tech-meetupsing-welcome-to-the-activity-7303424388031270913-mLRj): *TBD*
+- [**ING Kotlin Summit (June 19, 2025)**](https://events.xebia.com/joint-event-ing-kotlin-summit-19-june-202?ref=Xebia): *TBD*
 
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
     <a href="https://www.linkedin.com/posts/ing-nederland_join-tech-meetupsing-welcome-to-the-activity-7303424388031270913-mLRj" target="_blank">
