@@ -69,7 +69,7 @@ I actively share my Kotlin expertise in my [**Medium Blog**](https://medium.com/
   </div>
 
 ### 🎤 Past Talks (recorded)
-- [**Voxxed Days Amsterdam (April 3, 2025)**](https://amsterdam.voxxeddays.com/talk/?id=5951): *Clean Architecture for Serverless: Business Logic You Can Take Anywhere*
+- [**Voxxed Days Amsterdam (April 3, 2025)**](https://www.youtube.com/watch?v=wz0GQbkrr1Q&list=PLRsbF2sD7JVpZ3O01elefwrp9l4yBWoXu&index=45&pp=iAQB): *Clean Architecture for Serverless: Business Logic You Can Take Anywhere*
 - [**Kotlin Dev Day Advanced (2022)**](https://kotlindevday.com/videos/kotlin-on-serverless-cloud-aws-lambda-unlimited-elena-van-engelen-maslova/): *Kotlin on Serverless Cloud - AWS Lambda, Unlimited!*
 - [**AWS Community Day (2022)**](https://www.youtube.com/watch?v=GvAyaJZzQ5M): *Kotlin on AWS Serverless Cloud.*
 
