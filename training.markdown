@@ -61,8 +61,8 @@ I actively share my Kotlin expertise in my [**Medium Blog**](https://medium.com/
     </a>
   </div>
 
-- [**KotlinConf 2025 (May 21–23)**](https://kotlinconf.com/speakers/2b9e0a69-6f25-4704-b819-bdbca519752f/): *Kotlin Clean Architecture for Serverless: Business Logic You Can Take Anywhere*
-- [**AWS Meetup @ Luminis Amsterdam**](https://www.meetup.com/awsugnl/events/306912455/): *Simplifying Serverless Integration Testing: WireMock on AWS Lambda*
+- [**KotlinConf 2025 (May 21–23, 2025)**](https://kotlinconf.com/speakers/2b9e0a69-6f25-4704-b819-bdbca519752f/): *Kotlin Clean Architecture for Serverless: Business Logic You Can Take Anywhere*
+- [**AWS Meetup @ Luminis Amsterdam (May 27, 2025)**](https://www.meetup.com/awsugnl/events/306912455/): *Simplifying Serverless Integration Testing: WireMock on AWS Lambda*
 - [**ING Kotlin Summit (June 19, 2025)**](https://events.xebia.com/joint-event-ing-kotlin-summit-19-june-202?ref=Xebia): *TBD*
 
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
