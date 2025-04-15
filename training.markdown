@@ -59,14 +59,18 @@ I actively share my Kotlin expertise in my [**Medium Blog**](https://medium.com/
       <img src="{{ '/assets/images/MeKotlinConf.jpeg' | relative_url }}" alt="Voxxed Days Amsterdam" style="max-width: 100%; height: auto; border: 1px solid #ddd; flex: 1 1 300px;">
     </a>
 </div>
-- [**AWS Meetup @ Luminis Amsterdam (May 27, 2025)**](https://www.meetup.com/awsugnl/events/306912455/): *Simplifying Serverless Integration Testing: WireMock on AWS Lambda*
-- [**ING Kotlin Summit (June 19, 2025)**](https://events.xebia.com/joint-event-ing-kotlin-summit-19-june-202?ref=Xebia): *TBD*
 
+- [**AWS Meetup @ Luminis Amsterdam (May 27, 2025)**](https://www.meetup.com/awsugnl/events/306912455/): *Simplifying Serverless Integration Testing: WireMock on AWS Lambda*
+
+- [**ING Kotlin Summit (June 19, 2025)**](https://events.xebia.com/joint-event-ing-kotlin-summit-19-june-202?ref=Xebia): *TBD*
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
     <a href="https://www.linkedin.com/posts/ing-nederland_join-tech-meetupsing-welcome-to-the-activity-7303424388031270913-mLRj" target="_blank">
       <img src="{{ '/assets/images/ing-kotlin-summit.jpeg' | relative_url }}" alt="ING Kotlin Summit 2025" style="max-width: 100%; height: auto; border: 1px solid #ddd; flex: 1 1 300px;">
     </a>
   </div>
+
+- [**InfoQ Dev Summit Munich 2025 (October 15-16, 2025)**](https://devsummit.infoq.com/presentation/munich2025/clean-architecture-serverless-business-logic-you-can-take-anywhere): *Clean Architecture for Serverless: Business Logic You Can Take Anywhere*
+
 
 ### 🎤 Past Talks (recorded)
 - [**Voxxed Days Amsterdam (April 3, 2025)**](https://www.youtube.com/watch?v=wz0GQbkrr1Q&list=PLRsbF2sD7JVpZ3O01elefwrp9l4yBWoXu&index=45&pp=iAQB): *Clean Architecture for Serverless: Business Logic You Can Take Anywhere*
