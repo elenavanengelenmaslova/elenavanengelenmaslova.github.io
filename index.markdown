@@ -10,7 +10,7 @@ I have worked with leading organizations to deliver impactful solutions, leverag
 
 In addition to software engineering, I provide **Kotlin training sessions** to help teams enhance their skills and productivity. My training programs are based on practical, real-world experience and include content from my book, [*Kotlin Crash Course*](https://www.amazon.com/Kotlin-Crash-Course-Fast-track-programming/dp/9355516304)—a comprehensive guide to learning Kotlin, from basics to advanced concepts. Learn more about my tailored training programs on the [**Training**](/training/) page.
 
-Beyond my immediate projects, I write about Kotlin and cloud-native solutions on my [**blog**](https://medium.com/@elenavanengelen) and share insights at conferences like [KotlinConf](https://kotlinconf.com/schedule/?day=2025-05-23&session=e0af887d-db73-52c6-81c6-8f884d2a16f6), [Voxxeddays](https://amsterdam.voxxeddays.com/talk/?id=5951) and [Kotlin Dev Day Advanced](https://kotlindevday.com/videos/kotlin-on-serverless-cloud-aws-lambda-unlimited-elena-van-engelen-maslova/). Check out my **[upcoming talks.](/training/#upcoming-talks)**
+Beyond my immediate projects, I write about Kotlin and cloud-native solutions on my [**blog**](https://medium.com/@elenavanengelen) and share insights at conferences like [KotlinConf](https://kotlinconf.com/schedule/?day=2025-05-23&session=e0af887d-db73-52c6-81c6-8f884d2a16f6), [Voxxeddays](https://amsterdam.voxxeddays.com/talk/?id=5951) and [Kotlin Dev Day Advanced](https://kotlindevday.com/videos/kotlin-on-serverless-cloud-aws-lambda-unlimited-elena-van-engelen-maslova/). Check out my **[upcoming talks.](/speaking/#upcoming-talks)**
 
 Outside of work, I enjoy running, yoga, cross-country skiing, and spending time with my kids & family.
 
@@ -18,9 +18,10 @@ Outside of work, I enjoy running, yoga, cross-country skiing, and spending time 
 
 ## Get in Touch
 
-I’d love to hear from you! Whether you are looking to discuss a project, need Kotlin training, or just want to connect, feel free to reach out through any of the channels below:
+I’d love to hear from you! Whether you're looking to discuss a project, need Kotlin training, are interested in a guest talk, or just want to connect — feel free to reach out through any of the channels below:
 
 - **Email**: [elenavanengelen@vintik.nl](mailto:elenavanengelen@vintik.nl)
 - **LinkedIn**: [Elena van Engelen-Maslova](https://www.linkedin.com/in/elena-van-engelen-maslova/)
 - **Mastodon**: [@elenavanengelen@hachyderm.io](https://hachyderm.io/@elenavanengelen)
 - **X (formerly Twitter)**: [@elenavanengelen](https://twitter.com/elenavanengelen)
+

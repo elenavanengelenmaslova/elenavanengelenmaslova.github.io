@@ -20,6 +20,7 @@ minima:
 header_pages:
   - portfolio.markdown
   - training.markdown
+  - speaking.markdown
   - credentials.markdown
 
 plugins:
