@@ -34,7 +34,7 @@ Discover why organizations trust me as their Kotlin training expert:
   - [**Kotlin Weekly**](https://kotlinweekly.net/): Issues [#430](https://mailchi.mp/kotlinweekly/kotlin-weekly-430), [#433](https://mailchi.mp/kotlinweekly/kotlin-weekly-433), [#435](https://mailchi.mp/kotlinweekly/kotlin-weekly-435), [#437](https://mailchi.mp/kotlinweekly/kotlin-weekly-437), [#444](https://mailchi.mp/kotlinweekly/kotlin-weekly-444), [#448](https://mailchi.mp/kotlinweekly/kotlin-weekly-448), [#450](https://mailchi.mp/kotlinweekly/kotlin-weekly-450)
   - [**Android Weekly**](https://androidweekly.net): Issue [#665](https://androidweekly.net/issues/issue-665)
   - [**JetBrains Java Annotated Monthly**](https://www.jetbrains.com/lp/jam/): [December 2024](https://blog.jetbrains.com/idea/2024/12/java-annotated-monthly-december-2024/)
-  - [**Dear Architects (April 2025)**](https://www.deararchitects.xyz/): Issue [#234](https://preview.mailerlite.io/preview/1235400/emails/152141748292813924)
+  - [**Dear Architects**](https://www.deararchitects.xyz/): Issue [#234](https://preview.mailerlite.io/preview/1235400/emails/152141748292813924)
 
 ---
 
