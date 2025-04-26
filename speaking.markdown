@@ -12,7 +12,7 @@ I regularly speak at conferences and meetups about Kotlin and cloud-native devel
 
 - [**KotlinConf 2025 (May 21–23, 2025)**](https://kotlinconf.com/speakers/2b9e0a69-6f25-4704-b819-bdbca519752f/):  
   *Kotlin Clean Architecture for Serverless: Business Logic You Can Take Anywhere*  
-  ![KotlinConf 2025](/assets/images/MeKotlinConf.jpeg)
+  ![KotlinConf 2025](/assets/images/MeKotlinConfOfficial.jpeg)
 
 - [**AWS Meetup @ Luminis Amsterdam (May 27, 2025)**](https://www.meetup.com/awsugnl/events/306912455/):  
   *Simplifying Serverless Integration Testing: WireMock on AWS Lambda*
