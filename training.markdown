@@ -35,6 +35,7 @@ Discover why organizations trust me as their Kotlin training expert:
   - [**Android Weekly**](https://androidweekly.net): Issue [#665](https://androidweekly.net/issues/issue-665)
   - [**JetBrains Java Annotated Monthly**](https://www.jetbrains.com/lp/jam/): [December 2024](https://blog.jetbrains.com/idea/2024/12/java-annotated-monthly-december-2024/)
   - [**Dear Architects**](https://www.deararchitects.xyz/): Issue [#234](https://preview.mailerlite.io/preview/1235400/emails/152141748292813924)
+  - [**Serverless Advocate**](https://serverlessadvocate.substack.com/): Issue [#35](https://serverlessadvocate.substack.com/p/35-cheaper-serverless)
 
 ---
 
