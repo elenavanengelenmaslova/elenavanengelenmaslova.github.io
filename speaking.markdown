@@ -18,7 +18,7 @@ I regularly speak at conferences and meetups about Kotlin and cloud-native devel
   *Simplifying Serverless Integration Testing: WireMock on AWS Lambda*
 
 - [**ING Kotlin Summit (June 19, 2025)**](https://events.xebia.com/joint-event-ing-kotlin-summit-19-june-202?ref=Xebia):  
-  *TBD*  
+  *7 ± 2 Kotlin Features That Can Work For or Against You*  
   ![ING Kotlin Summit 2025](/assets/images/ing-kotlin-summit.jpeg)
 
 - [**InfoQ Dev Summit Munich 2025 (October 15–16, 2025)**](https://devsummit.infoq.com/presentation/munich2025/clean-architecture-serverless-business-logic-you-can-take-anywhere):  
