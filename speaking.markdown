@@ -10,24 +10,22 @@ I regularly speak at conferences and meetups about Kotlin and cloud-native devel
 
 ## 🎤 Upcoming Talks
 
-- [**KotlinConf 2025 (May 21–23, 2025)**](https://kotlinconf.com/speakers/2b9e0a69-6f25-4704-b819-bdbca519752f/):  
-  *Kotlin Clean Architecture for Serverless: Business Logic You Can Take Anywhere*  
-  ![KotlinConf 2025](/assets/images/MeKotlinConfOfficial.jpeg)
-
-- [**AWS Meetup @ Luminis Amsterdam (May 27, 2025)**](https://www.meetup.com/awsugnl/events/306912455/):  
-  *Simplifying Serverless Integration Testing: WireMock on AWS Lambda*
-
 - [**ING Kotlin Summit (June 19, 2025)**](https://events.xebia.com/joint-event-ing-kotlin-summit-19-june-202?ref=Xebia):  
   *7 ± 2 Kotlin Features That Can Work For or Against You*  
   ![ING Kotlin Summit 2025](/assets/images/ing-kotlin-summit.jpeg)
 
 - [**InfoQ Dev Summit Munich 2025 (October 15–16, 2025)**](https://devsummit.infoq.com/presentation/munich2025/clean-architecture-serverless-business-logic-you-can-take-anywhere):  
   *Clean Architecture for Serverless: Business Logic You Can Take Anywhere*
-- ![InfoQ Dev Summit](/assets/images/InfoQDev.png)
+  ![InfoQ Dev Summit](/assets/images/InfoQDev.png)
+  <span style="color:gray;">Use discount code <strong>ElenaVanEngelenIDS1025</strong> for <strong>$35 off the current price</strong>.</span>
 
 ---
 
 ## 🎬 Past Talks (recorded)
+
+- [**KotlinConf 2025 (May 21–23, 2025)**](https://kotlinconf.com/speakers/2b9e0a69-6f25-4704-b819-bdbca519752f/):  
+  *Kotlin Clean Architecture for Serverless: Business Logic You Can Take Anywhere.*
+  <span style="color:gray">Video available soon.</span>
 
 - [**Voxxed Days Amsterdam (April 3, 2025)**](https://www.youtube.com/watch?v=wz0GQbkrr1Q):  
   *Clean Architecture for Serverless: Business Logic You Can Take Anywhere.*  
