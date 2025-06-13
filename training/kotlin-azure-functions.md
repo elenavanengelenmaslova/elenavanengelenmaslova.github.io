@@ -14,7 +14,7 @@ By the end of this training, participants will:
 - Learn how to **write Kotlin-based Azure Functions** and manage dependencies.
 - Deploy **Azure Functions using Kotlin and Infrastructure as Code (Terraform)**.
 - Work with **various Azure Function triggers**: HTTP, Timer (cron jobs), Service Bus, Blob Storage, and Event Hubs.
-- Implement **output integrations**, allowing Azure Functions to send data to **Service Bus, Cosmos DB, and S3**.
+- Implement **output integrations**, allowing Azure Functions to send data to **Service Bus, Cosmos DB, and Blob Storage**.
 - Implement **error handling and logging** using **Application Insights**.
 
 ## Course Structure
@@ -36,7 +36,7 @@ By the end of this training, participants will:
 - **Azure Function Output Integrations**:
     - **Sending messages to Service Bus** for further processing.
     - **Writing to Cosmos DB** for database persistence.
-    - **Saving files to S3** for cloud storage.
+    - **Saving files to Blob Storage** for cloud storage.
 - **Error handling & logging**: Application Insights integration.
 - **Building a complete serverless application in Kotlin**.
 
