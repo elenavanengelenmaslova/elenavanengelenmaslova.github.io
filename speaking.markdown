@@ -29,7 +29,7 @@ I regularly speak at conferences and meetups about Kotlin and cloud-native devel
 
 - [**Voxxed Days Amsterdam (April 3, 2025)**](https://www.youtube.com/watch?v=wz0GQbkrr1Q):  
   *Clean Architecture for Serverless: Business Logic You Can Take Anywhere.*  
-  <span style="color:gray">Among the top 3 most-viewed talks from Voxxed Days Amsterdam 2025.</span>
+  <span style="color:gray">Among the top 4 most-viewed talks from Voxxed Days Amsterdam 2025.</span>
 
 - [**Kotlin Dev Day Advanced (2022)**](https://kotlindevday.com/videos/kotlin-on-serverless-cloud-aws-lambda-unlimited-elena-van-engelen-maslova/):  
   *Kotlin on Serverless Cloud - AWS Lambda, Unlimited!*
