@@ -23,9 +23,8 @@ I regularly speak at conferences and meetups about Kotlin and cloud-native devel
 
 ## 🎬 Past Talks (recorded)
 
-- [**KotlinConf 2025 (May 21–23, 2025)**](https://kotlinconf.com/speakers/2b9e0a69-6f25-4704-b819-bdbca519752f/):  
+- [**KotlinConf 2025 (May 21–23, 2025)**](https://kotlinconf.com/talks/774210//):  
   *Kotlin Clean Architecture for Serverless: Business Logic You Can Take Anywhere.*
-  <span style="color:gray">Video available soon.</span>
 
 - [**Voxxed Days Amsterdam (April 3, 2025)**](https://www.youtube.com/watch?v=wz0GQbkrr1Q):  
   *Clean Architecture for Serverless: Business Logic You Can Take Anywhere.*  
