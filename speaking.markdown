@@ -4,15 +4,14 @@ title: Speaking
 permalink: /speaking/
 ---
 
-I regularly speak at conferences and meetups about Kotlin and cloud-native development and design. My sessions focus on practical insights, developer experience, and building real-world systems with serverless technologies across AWS and Azure — typically featuring live coding and/or a demo.
+I regularly speak at conferences and meetups about Kotlin and cloud-native development and design. My sessions focus on practical insights, developer experience, and building real-world systems with serverless technologies across AWS and Azure, typically featuring live coding and a live demo.
+**Available for guest speaking on Kotlin and/or Serverless Cloud Topics**, [get in touch](mailto:elenavanengelen@vintik.nl).
+
+ ![KotlinConf 2025](/assets/images/SpeakingKotlinConf2025.JPG)
 
 ---
 
 ## 🎤 Upcoming Talks
-
-- [**ING Kotlin Summit (June 19, 2025)**](https://events.xebia.com/joint-event-ing-kotlin-summit-19-june-202?ref=Xebia):  
-  *7 ± 2 Kotlin Features That Can Work For or Against You*  
-  ![ING Kotlin Summit 2025](/assets/images/ing-kotlin-summit.jpeg)
 
 - [**InfoQ Dev Summit Munich 2025 (October 15–16, 2025)**](https://devsummit.infoq.com/presentation/munich2025/clean-architecture-serverless-business-logic-you-can-take-anywhere):  
   *Clean Architecture for Serverless: Business Logic You Can Take Anywhere*
@@ -23,8 +22,13 @@ I regularly speak at conferences and meetups about Kotlin and cloud-native devel
 
 ## 🎬 Past Talks (recorded)
 
-- [**KotlinConf 2025 (May 21–23, 2025)**](https://kotlinconf.com/talks/774210//):  
-  *Kotlin Clean Architecture for Serverless: Business Logic You Can Take Anywhere.*
+- [**ING Kotlin Summit (June 19, 2025)**](https://events.xebia.com/joint-event-ing-kotlin-summit-19-june-202?ref=Xebia):  
+  *7 ± 2 Kotlin Features That Can Work For or Against You*  
+  <span style="color:gray">Video available soon</span>
+
+- [**KotlinConf 2025 (May 21–23, 2025)**](https://kotlinconf.com/talks/774210/):  
+  *Kotlin Clean Architecture for Serverless: Business Logic You Can Take Anywhere.* <BR>
+  <span style="color:gray">Featuring another example than Voxxed Days Amsterdam</span>
 
 - [**Voxxed Days Amsterdam (April 3, 2025)**](https://www.youtube.com/watch?v=wz0GQbkrr1Q):  
   *Clean Architecture for Serverless: Business Logic You Can Take Anywhere.*  
