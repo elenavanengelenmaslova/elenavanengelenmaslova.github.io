@@ -4,7 +4,7 @@ title: Speaking
 permalink: /speaking/
 ---
 
-I regularly speak at conferences and meetups about Kotlin and cloud-native development and design. My sessions focus on practical insights, developer experience, and building real-world systems with serverless technologies across AWS and Azure, typically featuring live coding and a live demo.
+I regularly speak at conferences and meetups about Kotlin, cloud-native development and design. My sessions focus on practical insights, developer experience, and building real-world systems with serverless technologies across AWS and Azure, typically featuring live coding and a live demo.
 **Available for guest speaking on Kotlin and/or Serverless Cloud Topics**, [get in touch](mailto:elenavanengelen@vintik.nl).
 
  ![KotlinConf 2025](/assets/images/SpeakingKotlinConf2025.JPG)
@@ -13,6 +13,7 @@ I regularly speak at conferences and meetups about Kotlin and cloud-native devel
 
 ## 🎤 Upcoming Talks
 
+- [**Azure Fest (September 17, 2025)**](https://www.azurefest.nl/): *Simplifying Serverless Integration Testing: WireMock on Azure Functions*
 - [**InfoQ Dev Summit Munich 2025 (October 15–16, 2025)**](https://devsummit.infoq.com/presentation/munich2025/clean-architecture-serverless-business-logic-you-can-take-anywhere):  
   *Clean Architecture for Serverless: Business Logic You Can Take Anywhere*
   ![InfoQ Dev Summit](/assets/images/InfoQDev.png)
