@@ -23,9 +23,8 @@ I regularly speak at conferences and meetups about Kotlin, cloud-native developm
 
 ## 🎬 Past Talks (recorded)
 
-- [**ING Kotlin Summit (June 19, 2025)**](https://events.xebia.com/joint-event-ing-kotlin-summit-19-june-202?ref=Xebia):  
-  *7 ± 2 Kotlin Features That Can Work For or Against You*  
-  <span style="color:gray">Video available soon</span>
+- [**ING Kotlin Summit (June 19, 2025)**](https://www.youtube.com/watch?app=desktop&v=0j5vhVn3nRs):  
+  *7 ± 2 Kotlin Features That Can Work For or Against You* 
 
 - [**KotlinConf 2025 (May 21–23, 2025)**](https://kotlinconf.com/talks/774210/):  
   *Kotlin Clean Architecture for Serverless: Business Logic You Can Take Anywhere.* <BR>
