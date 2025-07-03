@@ -10,7 +10,7 @@ I have worked with leading organizations to deliver impactful solutions, leverag
 
 In addition to software engineering, I provide **Kotlin training sessions** to help teams enhance their skills and productivity. My training programs are based on practical, real-world experience and include content from my book, [*Kotlin Crash Course*](https://www.amazon.com/Kotlin-Crash-Course-Fast-track-programming/dp/9355516304)—a comprehensive guide to learning Kotlin, from basics to advanced concepts. Learn more about my tailored training programs on the [**Training**](/training/) page.
 
-Beyond my immediate projects, I write about Kotlin and cloud-native solutions on my [**blog**](https://medium.com/@elenavanengelen) and share insights at conferences like [KotlinConf](https://kotlinconf.com/schedule/?day=2025-05-23&session=e0af887d-db73-52c6-81c6-8f884d2a16f6), [Voxxeddays](https://www.youtube.com/watch?v=wz0GQbkrr1Q) and [Kotlin Dev Day Advanced](https://kotlindevday.com/videos/kotlin-on-serverless-cloud-aws-lambda-unlimited-elena-van-engelen-maslova/). Check out my **[upcoming talks.](/speaking/#upcoming-talks)**
+Beyond my immediate projects, I write about Kotlin and cloud-native solutions on my [**blog**](https://medium.com/@elenavanengelen) and share insights at conferences like [KotlinConf](https://kotlinconf.com/talks/774210/), [Voxxeddays](https://www.youtube.com/watch?v=wz0GQbkrr1Q) and [Kotlin Dev Day Advanced](https://kotlindevday.com/videos/kotlin-on-serverless-cloud-aws-lambda-unlimited-elena-van-engelen-maslova/). Check out my **[upcoming talks.](/speaking/#upcoming-talks)**
 
 Outside of work, I enjoy running, yoga, cross-country skiing, and spending time with my kids & family.
 
