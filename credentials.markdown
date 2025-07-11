@@ -27,6 +27,11 @@ _Verified via Credly_
 _Verified via Microsoft Learn_
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
+<!-- AZ-400 Certification -->
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/ElenavanEngelenMaslova-0197/C60B78B2E25DEAC?sharingId=5933D7DBC390B449" target="_blank">
+    <img src="/assets/images/microsoft-certified-expert-badge.png" alt="AZ-400: Microsoft Certified DevOps Engineer Expert" width="150">
+  </a>
+
   <!-- AZ-204 Certification -->
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/ElenavanEngelenMaslova-0197/4286A2C027D4FE0A?sharingId=5933D7DBC390B449" target="_blank">
     <img src="/assets/images/azure-developer.png" alt="AZ-204: Developing Solutions for Microsoft Azure" width="150">
