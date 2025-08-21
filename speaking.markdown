@@ -40,3 +40,8 @@ I regularly speak at conferences and meetups about Kotlin, cloud-native developm
 
 - [**AWS Community Day (2022)**](https://www.youtube.com/watch?v=GvAyaJZzQ5M):  
   *Kotlin on AWS Serverless Cloud.*
+
+## 🎙️ Podcasts
+
+- [**InfoQ Podcast (2025)**](https://www.infoq.com/podcasts/sovereign-clouds-hyperscalers-european-alternatives/):  
+*Sovereign Clouds, Hyperscalers and European Alternatives*
