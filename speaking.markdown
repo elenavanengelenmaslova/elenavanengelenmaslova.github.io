@@ -43,5 +43,5 @@ I regularly speak at conferences and meetups about Kotlin, cloud-native developm
 
 ## 🎙️ Podcasts
 
-- [**InfoQ Podcast (2025)**](https://www.infoq.com/podcasts/sovereign-clouds-hyperscalers-european-alternatives/):  
+- [**InfoQ Podcast (August 6, 2025)**](https://www.infoq.com/podcasts/sovereign-clouds-hyperscalers-european-alternatives/):  
 *Sovereign Clouds, Hyperscalers and European Alternatives*
