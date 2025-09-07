@@ -4,6 +4,8 @@ title: Elena van Engelen-Maslova
 subtitle: Independent Senior / Lead Software Engineer
 ---
 
+*Based in the Netherlands · Available for speaking & training: remote worldwide or on-site in Europe. Project work: remote worldwide, on-site only in NL (next availability April 2026).*
+
 As an independent **Senior/Lead Software Engineer** working on a freelance basis, I help businesses **design and implement scalable, maintainable backend systems** using **Kotlin**. I specialize in **cloud-native architectures**, **microservices**, and **event-driven patterns**, ensuring high-quality results tailored to meet business needs. I lead by example, coaching developers within my team to improve their skills while driving projects forward.
 
 I have worked with leading organizations to deliver impactful solutions, leveraging my [**AWS and Azure certifications**](/credentials/) and extensive expertise in building secure, efficient systems. I am also an AWS Community Builder in the Serverless category, contributing to the AWS community by sharing insights and best practices in cloud-native development. Explore my recent projects and achievements in my [**Portfolio**](/portfolio/).
