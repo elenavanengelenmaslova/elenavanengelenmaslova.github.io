@@ -5,15 +5,22 @@ permalink: /training/
 ---
 
 
-I provide Kotlin training sessions designed to help teams enhance their skills, boost productivity, and build confidence in using Kotlin effectively. My courses cover everything from Kotlin foundations to advanced serverless topics, and can be tailored to your team's needs.
+# Kotlin Training for Teams
+
+Upskill your team with **practical, hands-on Kotlin training** that boosts productivity and builds real-world confidence. From Kotlin foundations to advanced serverless topics on AWS and Azure, I design sessions that fit your team’s context and needs.
+
+**Looking to bring Kotlin expertise into your team? [Get in touch](mailto:elenavanengelen@vintik.nl)**
 
 ---
 
 ## Available Courses
 
+### Foundations
 - [Intensive Kotlin Basics Training](/training/kotlin-basics/)
 - [Bite-Size Kotlin Sessions](/training/bite-size-kotlin/)
 - [Kotlin Crash Course](/training/kotlin-crash-course/)
+
+### Cloud & Serverless
 - [Kotlin on AWS Lambda](/training/kotlin-aws-lambda/)
 - [Kotlin on Azure Functions](/training/kotlin-azure-functions/)
 
@@ -21,8 +28,7 @@ I provide Kotlin training sessions designed to help teams enhance their skills, 
 
 ## Why Train with Me?
 
-I offer practical, hands-on Kotlin training: from developer to developer. I focus on real-world applications, very hands-on, with an on-the-job like feel.
-Discover why organizations trust me as their Kotlin training expert:
+I offer training **by a developer, for developers**. My sessions are interactive, real-world focused, and feel like working on the job, because that’s what helps skills stick.
 
 - **Author** of [*Kotlin Crash Course*](https://www.amazon.com/Kotlin-Crash-Course-Fast-track-programming/dp/9355516304), a hands-on book guiding developers from Kotlin basics to advanced backend and cloud topics.
 
