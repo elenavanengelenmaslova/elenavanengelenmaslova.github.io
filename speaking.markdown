@@ -13,7 +13,6 @@ I regularly speak at conferences and meetups about Kotlin, cloud-native developm
 
 ## 🎤 Upcoming Talks
 
-- [**Azure Fest (September 17, 2025)**](https://www.azurefest.nl/): *Simplifying Serverless Integration Testing: WireMock on Azure Functions*
 - [**AWS Community Day (September 24, 2025)**](https://awscommunityday.nl/2025/): *Simplifying Serverless Integration Testing: WireMock on AWS Lambda*
 - [**InfoQ Dev Summit Munich 2025 (October 15–16, 2025)**](https://devsummit.infoq.com/presentation/munich2025/clean-architecture-serverless-business-logic-you-can-take-anywhere):  
   *Clean Architecture for Serverless: Business Logic You Can Take Anywhere*
