@@ -11,13 +11,14 @@ I regularly speak at conferences and meetups about Kotlin, cloud-native developm
 
 ---
 
-## 🎤 Upcoming Talks
+## 🎤 Upcoming Talksadd
 
-- [**AWS Community Day (September 24, 2025)**](https://awscommunityday.nl/2025/): *Simplifying Serverless Integration Testing: WireMock on AWS Lambda*
 - [**InfoQ Dev Summit Munich 2025 (October 15–16, 2025)**](https://devsummit.infoq.com/presentation/munich2025/clean-architecture-serverless-business-logic-you-can-take-anywhere):  
   *Clean Architecture for Serverless: Business Logic You Can Take Anywhere*
   ![InfoQ Dev Summit](/assets/images/InfoQDev.png)
-  <span style="color:gray;">Use discount code <strong>ElenaVanEngelenIDS1025</strong> for <strong>$35 off the current price</strong>.</span>
+
+- [**Kotlin Dev Day 2025 (November 27, 2025)**](https://kotlindevday.com/program/):  
+  *Kotlin Clean Architecture for Serverless: Business Logic You Can Take Anywhere*
 
 ---
 
