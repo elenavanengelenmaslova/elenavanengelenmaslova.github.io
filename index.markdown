@@ -4,7 +4,7 @@ title: Elena van Engelen-Maslova
 subtitle: Independent Senior / Lead Software Engineer
 ---
 
-*Based in the Netherlands · Available for speaking & training: remote worldwide or on-site in Europe. Project work: remote worldwide, on-site only in NL (next availability April 2026).*
+*Based in the Netherlands · Available for speaking & training: remote worldwide or on-site in Europe. Project work: remote worldwide (EU timezone), on-site only in the Netherlands. Next availability: April 2026.*
 
 As an independent **Senior/Lead Software Engineer** working on a freelance basis, I help businesses **design and implement scalable, maintainable backend systems** using **Kotlin**. I specialize in **cloud-native architectures**, **microservices**, and **event-driven patterns**, ensuring high-quality results tailored to meet business needs. I lead by example, coaching developers within my team to improve their skills while driving projects forward.
 

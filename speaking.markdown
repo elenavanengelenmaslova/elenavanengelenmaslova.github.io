@@ -13,16 +13,18 @@ I regularly speak at conferences and meetups about Kotlin, cloud-native developm
 
 ## 🎤 Upcoming Talks
 
-- [**InfoQ Dev Summit Munich 2025 (October 15–16, 2025)**](https://devsummit.infoq.com/presentation/munich2025/clean-architecture-serverless-business-logic-you-can-take-anywhere):  
-  *Clean Architecture for Serverless: Business Logic You Can Take Anywhere*
-  ![InfoQ Dev Summit](/assets/images/InfoQDev.png)
-
 - [**Kotlin Dev Day 2025 (November 27, 2025)**](https://kotlindevday.com/program/):  
   *Kotlin Clean Architecture for Serverless: Business Logic You Can Take Anywhere*
+  ![Kotlin Dev Day](/assets/images/kotlin-clean-architecture-for-serverless-business_van-engelen_955160_banner.jpeg)
+<br/><span style="color:gray">10% off single tickets with code <code>elena-speaking@kdd25</code> — Please note that this code is valid on single conference tickets only and can be applied by entering it into the top of the screen when selecting the number of tickets you wish to buy.</span>
 
 ---
 
 ## 🎬 Past Talks (recorded)
+
+- [**InfoQ Dev Summit Munich 2025 (October 15–16, 2025)**](https://devsummit.infoq.com/presentation/munich2025/clean-architecture-serverless-business-logic-you-can-take-anywhere):  
+  *Clean Architecture for Serverless: Business Logic You Can Take Anywhere*
+  <br/><span style="color:gray">Recording available soon</span>
 
 - [**ING Kotlin Summit (June 19, 2025)**](https://www.youtube.com/watch?app=desktop&v=0j5vhVn3nRs):  
   *7 ± 2 Kotlin Features That Can Work For or Against You* 
@@ -40,6 +42,8 @@ I regularly speak at conferences and meetups about Kotlin, cloud-native developm
 
 - [**AWS Community Day (2022)**](https://www.youtube.com/watch?v=GvAyaJZzQ5M):  
   *Kotlin on AWS Serverless Cloud.*
+
+---
 
 ## 🎙️ Podcasts
 
