@@ -4,7 +4,8 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-Throughout my career, I have had the opportunity to work on a diverse range of projects, from building secure integration layers for enterprise systems to architecting scalable serverless applications in the cloud. Below, I have highlighted some of the key projects where I have made a measurable impact, showcasing my expertise in Kotlin, cloud-native solutions, and backend development.
+I partner with enterprise engineering teams to design and deliver cloud-native, Kotlin-based systems on AWS and Azure, supporting scalability, reliability, and clear architecture practices.
+I have worked across a wide spectrum of projects, from secure enterprise integrations to event-driven and serverless platforms. Below are selected examples that highlight practical results and hands-on impact in modern cloud environments.
 
 ---
 
@@ -25,6 +26,7 @@ Throughout my career, I have had the opportunity to work on a diverse range of p
 - Designed and implemented a robust event-driven integration system from scratch, leveraging modern security measures, including mTLS connections, OAuth2, encryption, signing, and message-level authentication.
 - Integrated diverse systems, such as Salesforce, Festina, Unit4, Visma, ING, and other financial and government institutions, ensuring secure and compliant data exchange.
 - Implemented transformation and adaptation layers to handle data interchange between SOAP, REST, event-driven systems, and batch files in various formats, including legacy systems.
+- Implemented Sivi-standard messaging for regulated asset-management data exchange, aligning with Dutch financial industry interoperability standards
 - Leveraged Azure Blob Storage, Service Bus, Cosmos DB, and Functions to build a scalable, secure, and efficient architecture for pension data processing.
 
 **Impact**:
