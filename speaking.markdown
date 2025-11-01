@@ -24,7 +24,6 @@ I regularly speak at conferences and meetups about Kotlin, cloud-native developm
 
 - [**InfoQ Dev Summit Munich 2025 (October 15–16, 2025)**](https://devsummit.infoq.com/presentation/munich2025/clean-architecture-serverless-business-logic-you-can-take-anywhere):  
   *Clean Architecture for Serverless: Business Logic You Can Take Anywhere*
-  <br/><span style="color:gray">Recording available soon</span>
 
 - [**ING Kotlin Summit (June 19, 2025)**](https://www.youtube.com/watch?app=desktop&v=0j5vhVn3nRs):  
   *7 ± 2 Kotlin Features That Can Work For or Against You* 
