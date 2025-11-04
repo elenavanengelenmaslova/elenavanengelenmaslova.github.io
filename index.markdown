@@ -25,5 +25,5 @@ I’d love to hear from you! Whether you are looking to discuss a project, need 
 - **Email**: [elenavanengelen@vintik.nl](mailto:elenavanengelen@vintik.nl)
 - **LinkedIn**: [Elena van Engelen-Maslova](https://www.linkedin.com/in/elena-van-engelen-maslova/)
 - **Mastodon**: [@elenavanengelen@hachyderm.io](https://hachyderm.io/@elenavanengelen)
-- **X (formerly Twitter)**: [@elenavanengelen](https://twitter.com/elenavanengelen)
+- **X**: [@elenavanengelen](https://twitter.com/elenavanengelen)
 
