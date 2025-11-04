@@ -7,6 +7,8 @@ permalink: /speaking/
 I regularly speak at conferences and meetups about Kotlin, cloud-native development and design. My sessions focus on practical insights, developer experience, and building real-world systems with serverless technologies across AWS and Azure, typically featuring live coding and a live demo.
 **Available for guest speaking on Kotlin and/or Serverless Cloud Topics**, [get in touch](mailto:elenavanengelen@vintik.nl).
 
+<script type="text/javascript" src="https://sessionize.com/api/speaker/sessions/uzdb2hu0tx/0x0x3fb393x"></script>
+
  ![KotlinConf 2025](/assets/images/SpeakingKotlinConf2025.JPG)
 
 ---
