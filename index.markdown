@@ -4,7 +4,6 @@ title: Elena van Engelen-Maslova
 subtitle: Independent Senior / Lead Software Engineer
 ---
 
-*Based in the Netherlands · Available for speaking & training: remote worldwide or on-site in Europe. Project work: remote worldwide (EU timezone), on-site only in the Netherlands. Next availability: April 2026.*
 
 As an independent **Senior/Lead Software Engineer** working on a freelance basis, I help businesses **design and implement scalable, maintainable backend systems** using **Kotlin**. I specialize in **cloud-native architectures**, **microservices**, and **event-driven patterns**, ensuring high-quality results tailored to meet business needs. I lead by example, coaching developers within my team to improve their skills while driving projects forward.
 
@@ -13,6 +12,8 @@ I have worked with leading organizations to deliver impactful solutions, leverag
 In addition to software engineering, I provide **Kotlin training sessions** to help teams enhance their skills and productivity. My training programs are based on practical, real-world experience and include content from my book, [*Kotlin Crash Course*](https://www.amazon.com/Kotlin-Crash-Course-Fast-track-programming/dp/9355516304)—a comprehensive guide to learning Kotlin, from basics to advanced concepts. Learn more about my tailored training programs on the [**Training**](/training/) page.
 
 Beyond my immediate projects, I write about Kotlin and cloud-native solutions on my [**blog**](https://medium.com/@elenavanengelen) and share insights at conferences like [KotlinConf](https://youtu.be/6jZa4B-If-I), [Voxxeddays](https://www.youtube.com/watch?v=wz0GQbkrr1Q) and [Kotlin Dev Day Advanced](https://kotlindevday.com/videos/kotlin-on-serverless-cloud-aws-lambda-unlimited-elena-van-engelen-maslova/). Check out my **[upcoming talks.](/speaking/#upcoming-talks)**
+
+*Based in the Netherlands · Available for speaking & training: remote worldwide or on-site in Europe. Project work: remote worldwide (EU timezone), on-site only in the Netherlands. Next availability: April 2026.*
 
 Outside of work, I enjoy running, yoga, cross-country skiing, and spending time with my kids & family.
 
