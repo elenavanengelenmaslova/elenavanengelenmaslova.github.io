@@ -13,7 +13,7 @@ In addition to software engineering, I provide **Kotlin training sessions** to h
 
 Beyond my immediate projects, I write about Kotlin and cloud-native solutions on my [**blog**](https://medium.com/@elenavanengelen) and share insights at conferences like [KotlinConf](https://youtu.be/6jZa4B-If-I), [Voxxeddays](https://www.youtube.com/watch?v=wz0GQbkrr1Q) and [Kotlin Dev Day Advanced](https://kotlindevday.com/videos/kotlin-on-serverless-cloud-aws-lambda-unlimited-elena-van-engelen-maslova/). Check out my **[upcoming talks.](/speaking/#upcoming-talks)**
 
-*Based in the Netherlands · Available for speaking & training: remote worldwide or on-site in Europe. Project work: remote worldwide (EU timezone), on-site only in the Netherlands. Next availability: April 2026.*
+*Based in the Netherlands · Available for speaking & training: remote worldwide or on-site in Europe. Project work: remote worldwide (EU timezone), hybrid only in the Netherlands. Next availability: April 2026.*
 
 Outside of work, I enjoy running, yoga, cross-country skiing, and spending time with my kids & family.
 
