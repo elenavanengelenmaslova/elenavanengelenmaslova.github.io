@@ -15,7 +15,7 @@ I have worked across a wide spectrum of projects, from secure enterprise integra
 **Employer**: [AZL (NN Group)](https://www.azl.eu/)  
 **Role**: Lead Software Engineer / Kotlin Tech Lead  
 **Dates**: 2023–Present  
-**Tech Stack**: Kotlin, Azure Functions, Azure Service Bus, Azure Event Hubs, Azure Blob Storage, Azure Cosmos DB, Spring Boot, Spring Cloud Function, OAuth2, mTLS, IntelliJ, Azure DevOps, Git
+**Tech Stack**: Kotlin, Azure Functions, Azure Service Bus, Azure Event Hubs, Azure Blob Storage, Azure Cosmos DB, Azure Key Vault, Azure App Configuration, Spring Boot, Spring Cloud Function, OAuth2, mTLS, IntelliJ, Azure DevOps, Git
 
 **Problem**: In response to the Dutch government's New Pension Law requirements, the organization needed to replace its aging on-premise Oracle system with a modern, scalable solution on Azure. The new system required robust security and compliance to handle pension-related data across diverse internal and external systems.
 
@@ -27,7 +27,7 @@ I have worked across a wide spectrum of projects, from secure enterprise integra
 - Integrated diverse systems, such as Salesforce, Festina, Unit4, Visma, and ING (using PAIN standards for financial messaging), along with other financial and government institutions, ensuring secure and compliant data exchange.
 - Implemented transformation and adaptation layers to handle data interchange between SOAP, REST, event-driven systems, and batch files in various formats, including legacy systems.
 - Implemented Sivi-standard messaging for regulated asset-management data exchange, aligning with Dutch financial industry interoperability standards.
-- Leveraged Azure Blob Storage, Service Bus, Cosmos DB, and Functions to build a scalable, secure, and efficient architecture for pension data processing.
+- Leveraged Azure Blob Storage, Azure Service Bus, Azure Cosmos DB, Azure App Configuration, Azure Key Vault, and Azure Functions to build a scalable, secure, and efficient architecture for pension data processing.
 
 **Impact**:
 - Delivered a highly secure and scalable integration layer critical to the implementation of the New Pension Law.
