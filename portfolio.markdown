@@ -24,9 +24,9 @@ I have worked across a wide spectrum of projects, from secure enterprise integra
 **Solution**:
 - Replaced the legacy on-premise Oracle system with a cloud-native solution hosted on Azure to support the new pension law implementation.
 - Designed and implemented a robust event-driven integration system from scratch, leveraging modern security measures, including mTLS connections, OAuth2, encryption, signing, and message-level authentication.
-- Integrated diverse systems, such as Salesforce, Festina, Unit4, Visma, ING, and other financial and government institutions, ensuring secure and compliant data exchange.
+- Integrated diverse systems, such as Salesforce, Festina, Unit4, Visma, and ING (using PAIN standards for financial messaging), along with other financial and government institutions, ensuring secure and compliant data exchange.
 - Implemented transformation and adaptation layers to handle data interchange between SOAP, REST, event-driven systems, and batch files in various formats, including legacy systems.
-- Implemented Sivi-standard messaging for regulated asset-management data exchange, aligning with Dutch financial industry interoperability standards
+- Implemented Sivi-standard messaging for regulated asset-management data exchange, aligning with Dutch financial industry interoperability standards.
 - Leveraged Azure Blob Storage, Service Bus, Cosmos DB, and Functions to build a scalable, secure, and efficient architecture for pension data processing.
 
 **Impact**:
