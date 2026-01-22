@@ -15,10 +15,6 @@ I regularly speak at conferences and meetups about Kotlin, cloud-native developm
 
 ## 🎤 Upcoming Talks
 
-- [**Kotlin Dev Day 2025 (November 27, 2025)**](https://kotlindevday.com/program/):  
-  *Kotlin Clean Architecture for Serverless: Business Logic You Can Take Anywhere*
-  ![Kotlin Dev Day](/assets/images/kotlin-clean-architecture-for-serverless-business_van-engelen_955160_banner.jpeg)
-<br/><span style="color:gray">10% off single tickets with code <code>elena-speaking@kdd25</code> — Please note that this code is valid on single conference tickets only and can be applied by entering it into the top of the screen when selecting the number of tickets you wish to buy.</span>
 
 ---
 
