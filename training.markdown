@@ -28,7 +28,7 @@ Upskill your team with **practical, hands-on Kotlin training** that boosts produ
 
 ## Why Train with Me?
 
-I offer training **by a developer, for developers**. My sessions are interactive, real-world focused, and feel like working on the job, because that’s what helps skills stick.
+I offer training **by a developer, for developers**. Sessions are _interactive_ and _practical_, designed to feel like real work. You **learn by doing** 🧪, with enough context to understand what is happening and why it matters. 
 
 - **Author** of [*Kotlin Crash Course*](https://www.amazon.com/Kotlin-Crash-Course-Fast-track-programming/dp/9355516304), a hands-on book guiding developers from Kotlin basics to advanced backend and cloud topics.
 
@@ -43,6 +43,7 @@ I offer training **by a developer, for developers**. My sessions are interactive
   - [**JetBrains Blog**](https://blog.jetbrains.com): [Kotlin for Server-Side Development: Community Content Roundup #2](https://blog.jetbrains.com/kotlin/2025/06/kotlin-for-server-side-development-community-content-roundup-2/)
   - [**Dear Architects**](https://www.deararchitects.xyz/): Issue [#234](https://preview.mailerlite.io/preview/1235400/emails/152141748292813924)
   - [**Serverless Advocate**](https://serverlessadvocate.substack.com/): Issue [#35](https://serverlessadvocate.substack.com/p/35-cheaper-serverless)
+  - [**Ready, Set, Cloud**](https://www.readysetcloud.io/): Issue [#202](https://www.readysetcloud.io/newsletter/202)
 
 ---
 
