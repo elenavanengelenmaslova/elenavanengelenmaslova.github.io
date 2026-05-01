@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: single
 title: Speaking
 permalink: /speaking/
+classes: wide
 ---
 
 I regularly speak at conferences and meetups about Kotlin, cloud-native development and design. My sessions focus on practical insights, developer experience, and building real-world systems with serverless technologies across AWS and Azure, typically featuring live coding and a live demo.

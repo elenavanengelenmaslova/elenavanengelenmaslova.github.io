@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: single
 title: Credentials
 permalink: /credentials/
+classes: wide
 ---
 
 This page highlights my verified certifications and academic achievements.

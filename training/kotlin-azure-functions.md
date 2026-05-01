@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: Kotlin on Azure Functions
 permalink: /training/kotlin-azure-functions/
 ---

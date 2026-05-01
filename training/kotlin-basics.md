@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: Intensive Kotlin Basics Training
 permalink: /training/kotlin-basics/
 ---

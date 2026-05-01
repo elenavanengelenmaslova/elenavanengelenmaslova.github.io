@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: Bite-Size Kotlin Training
 permalink: /training/bite-size-kotlin/
 ---

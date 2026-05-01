@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: Kotlin on AWS Lambda
 permalink: /training/kotlin-aws-lambda/
 ---

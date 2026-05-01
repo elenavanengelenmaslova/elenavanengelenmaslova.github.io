@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: single
 title: Portfolio
 permalink: /portfolio/
+classes: wide
 ---
 
 I partner with enterprise engineering teams to design and deliver cloud-native, Kotlin-based systems on AWS and Azure, supporting scalability, reliability, and clear architecture practices.

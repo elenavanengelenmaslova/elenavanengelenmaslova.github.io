@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: single
 title: Training
 permalink: /training/
+classes: wide
 ---
 
 

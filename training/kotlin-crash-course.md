@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: Kotlin Crash Course Training
 permalink: /training/kotlin-crash-course/
 ---

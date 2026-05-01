@@ -1,0 +1,85 @@
+---
+# Only the main Sass file needs front matter dashes
+---
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+
+// Custom font stack
+html {
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif;
+}
+
+// Social proof strip
+.social-proof-strip {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+  padding: 2rem 0;
+  border-top: 1px solid #eee;
+  border-bottom: 1px solid #eee;
+  margin: 2rem 0;
+
+  span {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: #555;
+  }
+}
+
+// CTA button enhancements
+.btn--cta {
+  font-size: 1.1rem;
+  padding: 0.75rem 1.5rem;
+}
+
+// Hero overlay — position and mirror background image so face is on the right
+.page__hero--overlay {
+  background-position: center 30% !important;
+  min-height: 400px;
+  transform: scaleX(-1);
+
+  > * {
+    transform: scaleX(-1);
+  }
+}
+
+// Feature row — align buttons at the bottom
+.feature__wrapper {
+  .feature__item {
+    .archive__item {
+      display: flex;
+      flex-direction: column;
+      height: 100%;
+    }
+
+    .archive__item-body {
+      display: flex;
+      flex-direction: column;
+      flex-grow: 1;
+    }
+
+    .archive__item-excerpt {
+      flex-grow: 1;
+    }
+  }
+}
+
+// Social proof strip links
+.social-proof-strip {
+  a {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: #555;
+    text-decoration: none;
+    transition: color 0.2s ease;
+
+    &:hover {
+      color: #1a1a2e;
+      text-decoration: underline;
+    }
+  }
+}
