@@ -5,6 +5,11 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
 
+// Hide the RSS feed link in the footer
+.page__footer a[href*="feed.xml"] {
+  display: none;
+}
+
 // Custom font stack
 html {
   font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
@@ -80,6 +85,12 @@ html {
     &:hover {
       color: #1a1a2e;
       text-decoration: underline;
+    }
+
+    img {
+      background: #fff;
+      padding: 6px 10px;
+      border-radius: 6px;
     }
   }
 }

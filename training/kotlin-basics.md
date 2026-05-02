@@ -5,18 +5,20 @@ permalink: /training/kotlin-basics/
 ---
 
 ## Course Overview
-This **intensive two-day training** is designed to equip developers with Kotlin fundamentals. Whether your team is new to Kotlin or transitioning from Java, this course provides hands-on experience with **practical exercises** and real-world applications.
+This **intensive two-day training** gives your developers a solid foundation in Kotlin. Whether your team is new to Kotlin or transitioning from Java, this course provides hands-on experience with **practical exercises** and real-world applications.
 
-The content is structured around the **first four chapters** of *Kotlin Crash Course*, ensuring a **solid foundation in Kotlin’s core features**.
+The content is structured around the **first four chapters** of *[Kotlin Crash Course](https://www.amazon.com/Kotlin-Crash-Course-Fast-track-programming/dp/9355516304){:target="_blank" rel="noopener"}*, ensuring your team builds a **strong grasp of Kotlin's core features** from day one.
 
-## Learning Objectives
-By the end of this training, participants will:
-- Set up and configure a **Kotlin development environment** with IntelliJ IDEA and Gradle.
-- Understand **Kotlin syntax**, including variables, functions, and type system.
-- Apply **null safety mechanisms** to write robust and error-free code.
-- Use **control flow statements** effectively, such as `if`, `when`, loops, and exception handling.
-- Work with **basic Kotlin types** and apply best practices for writing maintainable code.
-- Write and execute a **Kotlin program** from scratch.
+[Book This Training](mailto:elenavanengelen@vintik.nl){: .btn .btn--primary .btn--large}
+
+## What Your Team Will Be Able to Do
+After completing this training, your developers will:
+- **Set up and configure** a Kotlin development environment with IntelliJ IDEA and Gradle — ready to start building immediately.
+- **Write clean, type-safe Kotlin code** using variables, functions, and Kotlin's expressive type system.
+- **Eliminate null pointer exceptions** by applying Kotlin's null safety mechanisms to write robust, error-free code.
+- **Handle complex logic confidently** using control flow statements such as `if`, `when`, loops, and structured exception handling.
+- **Apply best practices** for working with basic Kotlin types and writing maintainable code your team can build on.
+- **Build and run a Kotlin program from scratch** — taking concepts from the classroom straight into your codebase.
 
 ## Course Contents
 ### **Day 1: Kotlin Fundamentals**
@@ -53,9 +55,11 @@ By the end of this training, participants will:
 - **Teams transitioning from non-JVM languages to Kotlin**.
 
 ## Course Materials
-- Attendees receive a **structured course guide** based on the **first four chapters** of *[Kotlin Crash Course](https://www.amazon.com/Kotlin-Crash-Course-Fast-track-programming/dp/9355516304)*.
+- Attendees receive a **structured course guide** based on the **first four chapters** of *[Kotlin Crash Course](https://www.amazon.com/Kotlin-Crash-Course-Fast-track-programming/dp/9355516304){:target="_blank" rel="noopener"}*.
 - Practical **hands-on exercises** to reinforce learning.
 
 ---
 
-For more details or to schedule this training for your team, [contact me](mailto:elenavanengelen@vintik.nl).
+Ready to get your team started with Kotlin?
+
+[Book This Training](mailto:elenavanengelen@vintik.nl){: .btn .btn--primary .btn--large}

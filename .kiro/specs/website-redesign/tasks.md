@@ -97,7 +97,7 @@ This plan migrates Elena van Engelen-Maslova's freelance professional website fr
 - [x] 4. Checkpoint — Verify homepage
   - Ensure the site builds without errors. Run `bundle exec jekyll serve` and visually confirm the homepage splash layout, hero section, feature row pillars, social proof strip, and CTAs. Ask the user if questions arise.
 
-- [ ] 5. Training page and detail pages (Milestone 3)
+- [x] 5. Training page and detail pages (Milestone 3)
   - [x] 5.1 Rewrite training.markdown with outcome-oriented content
     - Lead with outcome-oriented headline and value proposition emphasizing business value and team productivity
     - Move student testimonials to a prominent position near the top (above course listings)
@@ -109,7 +109,7 @@ This plan migrates Elena van Engelen-Maslova's freelance professional website fr
     - Use second-person language addressing team leads and L&D managers
     - _Requirements: 4.1, 4.2, 4.3, 4.4, 4.5, 4.6, 4.7, 4.8, 11.1, 11.2, 11.3, 11.4_
 
-  - [~] 5.2 Rewrite all training detail pages with outcome framing and CTAs
+  - [x] 5.2 Rewrite all training detail pages with outcome framing and CTAs
     - Update all five training detail pages (kotlin-basics.md, kotlin-crash-course.md, kotlin-aws-lambda.md, kotlin-azure-functions.md, bite-size-kotlin.md)
     - Reframe "Learning Objectives" as "What your team will be able to do" with outcome-oriented descriptions
     - Add CTA button at top and bottom of each page ("Book This Training" → mailto)
@@ -117,17 +117,17 @@ This plan migrates Elena van Engelen-Maslova's freelance professional website fr
     - Ensure `layout: single` and existing `permalink:` values are preserved
     - _Requirements: 5.1, 5.2, 5.3, 10.3_
 
-  - [~] 5.3 Verify Milestone 3 — training pages render correctly
+  - [x] 5.3 Verify Milestone 3 — training pages render correctly
     - Run `bundle exec jekyll build` and confirm zero errors
     - Verify `_site/training/index.html` contains pricing text "€2,000", testimonials, CTA links, training client names, and links to detail pages
     - Verify all five training detail pages exist at their original permalinks in `_site/`
     - _Requirements: 4.1–4.8, 5.1–5.3, 10.1, 10.3_
 
-- [ ] 6. Checkpoint — Verify training pages
+- [x] 6. Checkpoint — Verify training pages
   - Ensure the site builds without errors. Run `bundle exec jekyll serve` and visually confirm the training page layout, testimonials placement, pricing, CTAs, and training detail pages. Ask the user if questions arise.
 
-- [ ] 7. Speaking page redesign (Milestone 4)
-  - [~] 7.1 Rewrite speaking.markdown for conference organizers
+- [x] 7. Speaking page redesign (Milestone 4)
+  - [x] 7.1 Rewrite speaking.markdown for conference organizers
     - Add Speaker Bio Section with concise, copy-paste-ready biography for organizers
     - Add available talk topics with formats (keynote, session, workshop, live coding demo)
     - Add "What you get" section (audience experience, live coding, practical content)
@@ -140,16 +140,16 @@ This plan migrates Elena van Engelen-Maslova's freelance professional website fr
     - Use `layout: single` with `classes: wide`
     - _Requirements: 6.1, 6.2, 6.3, 6.4, 6.5, 6.6, 6.7, 6.8, 11.1, 11.3_
 
-  - [~] 7.2 Verify Milestone 4 — speaking page renders correctly
+  - [x] 7.2 Verify Milestone 4 — speaking page renders correctly
     - Run `bundle exec jekyll build` and confirm zero errors
     - Verify `_site/speaking/index.html` contains speaker bio, talk topics, Sessionize script tag, CTA mailto link, speaking metrics text, and video links
     - _Requirements: 6.1–6.8, 10.1_
 
-- [ ] 8. Checkpoint — Verify speaking page
+- [x] 8. Checkpoint — Verify speaking page
   - Ensure the site builds without errors. Run `bundle exec jekyll serve` and visually confirm the speaking page layout, speaker bio, talk topics, Sessionize widget, and CTAs. Ask the user if questions arise.
 
-- [ ] 9. Open Source page creation (Milestone 5 — new page)
-  - [~] 9.1 Create open-source.markdown
+- [x] 9. Open Source page creation (Milestone 5 — new page)
+  - [x] 9.1 Create open-source.markdown
     - Create new file `open-source.markdown` in project root
     - Set `layout: single`, `title: Open Source`, `permalink: /open-source/`, `classes: wide`
     - Write page intro explaining open source involvement
@@ -163,13 +163,13 @@ This plan migrates Elena van Engelen-Maslova's freelance professional website fr
     - Use heading + description pattern that scales to additional projects
     - _Requirements: 7.1, 7.2, 7.3, 7.4, 7.5_
 
-  - [~] 9.2 Verify Milestone 5 — open source page renders correctly
+  - [x] 9.2 Verify Milestone 5 — open source page renders correctly
     - Run `bundle exec jekyll build` and confirm zero errors
     - Verify `_site/open-source/index.html` exists and contains "MockNest Serverless", GitHub link, key features, tech stack, "Creative Track Award" text, and CTA link
     - _Requirements: 7.1–7.5, 10.1, 10.3_
 
-- [ ] 10. Portfolio page refinement (Milestone 6)
-  - [~] 10.1 Rewrite portfolio.markdown with impact-first descriptions
+- [x] 10. Portfolio page refinement (Milestone 6)
+  - [x] 10.1 Rewrite portfolio.markdown with impact-first descriptions
     - Tighten each project to concise format: Client name, Role, Key business outcome (1-2 sentences), Technologies
     - Remove lengthy problem/solution/impact narratives
     - Retain all four clients: AZL/NN Group, PostNL, Bol.com, KPN
@@ -178,16 +178,16 @@ This plan migrates Elena van Engelen-Maslova's freelance professional website fr
     - Use `layout: single` with `classes: wide`
     - _Requirements: 8.1, 8.2, 8.3, 8.4, 11.1_
 
-  - [~] 10.2 Verify Milestone 6 — portfolio page renders correctly
+  - [x] 10.2 Verify Milestone 6 — portfolio page renders correctly
     - Run `bundle exec jekyll build` and confirm zero errors
     - Verify `_site/portfolio/index.html` contains all four client names, MockNest Serverless cross-reference with link to `/open-source/`, and concise project descriptions
     - _Requirements: 8.1–8.4, 10.1_
 
-- [ ] 11. Checkpoint — Verify open source and portfolio pages
+- [x] 11. Checkpoint — Verify open source and portfolio pages
   - Ensure the site builds without errors. Run `bundle exec jekyll serve` and visually confirm the new Open Source page and the refined Portfolio page. Ask the user if questions arise.
 
-- [ ] 12. Final polish (Milestone 7 — credentials, 404, cleanup)
-  - [~] 12.1 Update credentials.markdown for Minimal Mistakes compatibility
+- [x] 12. Final polish (Milestone 7 — credentials, 404, cleanup)
+  - [x] 12.1 Update credentials.markdown for Minimal Mistakes compatibility
     - Ensure `layout: single` with `classes: wide`
     - Preserve Credly badge scripts inline exactly
     - Preserve Azure certification images with links
@@ -196,14 +196,14 @@ This plan migrates Elena van Engelen-Maslova's freelance professional website fr
     - Ensure all `<img>` tags have `alt` attributes
     - _Requirements: 1.8, 10.3, 10.7_
 
-  - [~] 12.2 Update 404.html for Minimal Mistakes
+  - [x] 12.2 Update 404.html for Minimal Mistakes
     - Change `layout: default` to `layout: single` (or appropriate Minimal Mistakes layout)
     - Preserve `permalink: /404.html`
     - Keep user-friendly 404 message
     - Remove custom inline CSS that conflicts with theme styling (or keep if compatible)
     - _Requirements: 10.3_
 
-  - [~] 12.3 Final build verification and permalink check
+  - [x] 12.3 Final build verification and permalink check
     - Run `JEKYLL_ENV=production bundle exec jekyll build` and confirm zero errors
     - Verify all existing permalinks produce output files: `/`, `/portfolio/`, `/training/`, `/speaking/`, `/credentials/`, `/open-source/` (new), `/404.html`, and all five `/training/{slug}/` pages
     - Verify `_site/sitemap.xml` exists and contains all page URLs
@@ -212,7 +212,7 @@ This plan migrates Elena van Engelen-Maslova's freelance professional website fr
     - Verify favicon link tag references `assets/images/logo.png`
     - _Requirements: 10.1, 10.2, 10.3, 10.5, 10.6, 10.7, 1.6, 1.7_
 
-- [ ] 13. Final checkpoint — Ensure all pages pass
+- [x] 13. Final checkpoint — Ensure all pages pass
   - Ensure the site builds without errors with `JEKYLL_ENV=production bundle exec jekyll build`. Run `bundle exec jekyll serve` and do a full visual walkthrough of every page: homepage, portfolio, training (main + all 5 detail pages), speaking, open source, credentials, and 404. Verify navigation, CTAs, third-party widgets (Credly, Sessionize), analytics, and responsive layout. Ask the user if questions arise.
 
 ## Notes

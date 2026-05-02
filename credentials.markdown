@@ -14,7 +14,7 @@ These certifications demonstrate my expertise in cloud-native solutions and soft
 Click on the certification badges below to verify my credentials.
 
 ### AWS Certifications
-_Verified via Credly_
+_Verified via Credly — badges may take a moment to load._
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <!-- Placeholder for AWS Certifications -->
   <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a633445b-507c-42ad-bf5d-8284af80c1c7" data-share-badge-host="https://www.credly.com"></div>
@@ -29,17 +29,17 @@ _Verified via Microsoft Learn_
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
 <!-- AZ-400 Certification -->
-  <a href="https://learn.microsoft.com/api/credentials/share/en-us/ElenavanEngelenMaslova-0197/C60B78B2E25DEAC?sharingId=5933D7DBC390B449" target="_blank">
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/ElenavanEngelenMaslova-0197/C60B78B2E25DEAC?sharingId=5933D7DBC390B449" target="_blank" rel="noopener">
     <img src="/assets/images/microsoft-certified-expert-badge.png" alt="AZ-400: Microsoft Certified DevOps Engineer Expert" width="150">
   </a>
 
   <!-- AZ-204 Certification -->
-  <a href="https://learn.microsoft.com/api/credentials/share/en-us/ElenavanEngelenMaslova-0197/4286A2C027D4FE0A?sharingId=5933D7DBC390B449" target="_blank">
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/ElenavanEngelenMaslova-0197/4286A2C027D4FE0A?sharingId=5933D7DBC390B449" target="_blank" rel="noopener">
     <img src="/assets/images/azure-developer.png" alt="AZ-204: Developing Solutions for Microsoft Azure" width="150">
   </a>
 
   <!-- Microsoft Certified: Fundamentals -->
-  <a href="https://learn.microsoft.com/api/credentials/share/en-us/ElenavanEngelenMaslova-0197/7FD6237D8EF7FD45?sharingId=5933D7DBC390B449" target="_blank">
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/ElenavanEngelenMaslova-0197/7FD6237D8EF7FD45?sharingId=5933D7DBC390B449" target="_blank" rel="noopener">
     <img src="/assets/images/fundamentals.png" alt="Azure Solutions Architect Expert" width="150">
   </a>
 

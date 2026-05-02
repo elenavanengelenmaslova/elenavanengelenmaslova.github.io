@@ -5,25 +5,26 @@ permalink: /training/bite-size-kotlin/
 ---
 
 ## Course Overview
-This **remote training program** is designed for teams who want to **gradually master Kotlin** over **three months**. The training follows a structured approach based on **Kotlin Crash Course**, covering **fundamentals, object-oriented programming, collections, functional programming, coroutines, delegation pattern, and unit testing**.
+This **remote training program** is designed for teams who want to **master Kotlin gradually** over **three months** — without pulling your developers away from project work for a full week. The training follows a structured approach based on **[Kotlin Crash Course](https://www.amazon.com/Kotlin-Crash-Course-Fast-track-programming/dp/9355516304){:target="_blank" rel="noopener"}**, covering **fundamentals, object-oriented programming, collections, functional programming, coroutines, delegation pattern, and unit testing**.
 
-Each session includes **practical exercises and real-world applications**, ensuring that participants **apply their learning incrementally**.
+Each session includes **practical exercises and real-world applications**, so your team **applies what they learn incrementally** to your codebase.
 
-## Learning Objectives
-By the end of this training, participants will:
-- Gain a **deep understanding of Kotlin fundamentals** and best practices.
-- Learn how to **write idiomatic and maintainable Kotlin code**.
-- Master **null safety** techniques and avoid common pitfalls.
-- Work with **control flow statements** (`if`, `when`, loops) to manage logic.
-- Use **Kotlin collections** effectively for data manipulation.
-- Apply **object-oriented principles**, including classes, interfaces, and inheritance.
-- Understand **functional programming concepts** and write concise Kotlin code.
-- Work with **coroutines** for efficient asynchronous programming.
-- Implement the **delegation pattern** to improve code structure.
-- Gain hands-on experience with **unit testing** using Kotlin test frameworks.
+[Book This Training](mailto:elenavanengelen@vintik.nl){: .btn .btn--primary .btn--large}
+
+## What Your Team Will Be Able to Do
+After completing this training, your developers will:
+- **Write idiomatic, maintainable Kotlin code** grounded in a deep understanding of the language fundamentals and best practices.
+- **Eliminate null pointer exceptions** by mastering Kotlin's null safety techniques and avoiding common pitfalls.
+- **Handle complex business logic** confidently using control flow statements (`if`, `when`, loops) and structured error handling.
+- **Process and transform data efficiently** using Kotlin collections for filtering, sorting, mapping, and aggregation.
+- **Design modular, reusable systems** by applying object-oriented principles — classes, interfaces, and inheritance.
+- **Write concise, expressive code** using functional programming concepts including lambdas and higher-order functions.
+- **Build responsive, non-blocking applications** with coroutines for efficient asynchronous programming.
+- **Simplify code architecture** using the delegation pattern to reduce boilerplate and improve maintainability.
+- **Ship with confidence** by writing and running unit tests using Kotlin test frameworks.
 
 ## Course Structure
-**Duration**: 3 months (1 session per week, 4 hours per session)  
+**Duration**: 3 months (1 session per week, 4 hours per session)
 **Format**: Remote (live interactive sessions)
 
 ### **Month 1: Kotlin Fundamentals**
@@ -51,4 +52,8 @@ By the end of this training, participants will:
 - **Java developers** transitioning to Kotlin.
 - **Teams adopting Kotlin for backend or cloud-based applications**.
 
-For more details or to schedule this training for your team, [contact me](mailto:elenavanengelen@vintik.nl).
+---
+
+Ready to upskill your team at a pace that works?
+
+[Book This Training](mailto:elenavanengelen@vintik.nl){: .btn .btn--primary .btn--large}
