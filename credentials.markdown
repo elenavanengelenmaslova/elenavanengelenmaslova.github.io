@@ -40,7 +40,7 @@ _Verified via Microsoft Learn_
 
   <!-- Microsoft Certified: Fundamentals -->
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/ElenavanEngelenMaslova-0197/7FD6237D8EF7FD45?sharingId=5933D7DBC390B449" target="_blank" rel="noopener">
-    <img src="/assets/images/fundamentals.png" alt="Azure Solutions Architect Expert" width="150">
+    <img src="/assets/images/fundamentals.png" alt="Microsoft Certified: Azure Fundamentals" width="150">
   </a>
 
 </div>
