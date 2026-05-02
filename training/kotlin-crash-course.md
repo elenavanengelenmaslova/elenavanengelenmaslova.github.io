@@ -1,29 +1,31 @@
 ---
-layout: page
+layout: single
 title: Kotlin Crash Course Training
 permalink: /training/kotlin-crash-course/
 ---
 
 ## Course Overview
-This **intensive one-week training program** is designed for developers who want to **learn Kotlin quickly** with a hands-on approach. Based on [**Kotlin Crash Course**](https://www.amazon.com/Kotlin-Crash-Course-Fast-track-programming/dp/9355516304) book, the training covers **Kotlin fundamentals, OOP, collections, functional programming, coroutines, delegation pattern, and unit testing**.
+This **intensive one-week training program** takes your developers from Kotlin beginners to confident, productive team members. Based on [**Kotlin Crash Course**](https://www.amazon.com/Kotlin-Crash-Course-Fast-track-programming/dp/9355516304){:target="_blank" rel="noopener"}, the training covers **Kotlin fundamentals, OOP, collections, functional programming, coroutines, delegation pattern, and unit testing**.
 
-Participants will **develop hands-on projects** as they learn new concepts throughout the week.
+Your team will **develop hands-on projects** as they learn, so they can apply new skills to your codebase immediately.
 
-## Learning Objectives
-By the end of this training, participants will:
-- Gain **proficiency in Kotlin’s core syntax** and best practices.
-- Write **clean, maintainable Kotlin code** following industry standards.
-- Use **null safety mechanisms** to prevent common runtime errors.
-- Apply **object-oriented programming** principles in Kotlin.
-- Work with **Kotlin collections** to manage and process data efficiently.
-- Implement **functional programming** techniques using lambdas and higher-order functions.
-- Work with **coroutines** for efficient asynchronous programming.
-- Apply **delegation pattern** to simplify and reuse code.
-- Write **unit tests in Kotlin** using JUnit and MockK.
-- Develop **a variety of Kotlin applications** using IntelliJ IDEA and Gradle.
+[Book This Training](mailto:elenavanengelen@vintik.nl){: .btn .btn--primary .btn--large}
+
+## What Your Team Will Be Able to Do
+After completing this training, your developers will:
+- **Write production-ready Kotlin code** using core syntax and industry best practices.
+- **Produce clean, maintainable code** that follows idiomatic Kotlin standards your whole team can work with.
+- **Eliminate null pointer exceptions** by applying Kotlin's null safety mechanisms consistently.
+- **Design modular systems** using object-oriented programming principles in Kotlin — classes, interfaces, and inheritance.
+- **Process and transform data efficiently** using Kotlin collections, filtering, sorting, and mapping.
+- **Write concise, expressive logic** with functional programming techniques including lambdas and higher-order functions.
+- **Build responsive, non-blocking applications** using coroutines for efficient asynchronous programming.
+- **Simplify code architecture** by applying the delegation pattern to reduce boilerplate and improve reuse.
+- **Ship with confidence** by writing unit tests in Kotlin using JUnit and MockK.
+- **Develop complete Kotlin applications** using IntelliJ IDEA and Gradle from project setup to running code.
 
 ## Course Structure
-**Duration**: 1 week (Full-day sessions)  
+**Duration**: 1 week (Full-day sessions)
 **Format**: Onsite or Remote
 
 ### **Day 1: Kotlin Fundamentals**
@@ -59,4 +61,8 @@ By the end of this training, participants will:
 - **Java developers** transitioning to Kotlin.
 - **Teams needing a deep dive into Kotlin fundamentals in a short time**.
 
-For more details or to schedule this training for your team, [contact me](mailto:elenavanengelen@vintik.nl).
+---
+
+Ready to fast-track your team's Kotlin skills?
+
+[Book This Training](mailto:elenavanengelen@vintik.nl){: .btn .btn--primary .btn--large}

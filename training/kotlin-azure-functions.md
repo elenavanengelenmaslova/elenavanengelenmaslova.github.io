@@ -1,24 +1,26 @@
 ---
-layout: page
+layout: single
 title: Kotlin on Azure Functions
 permalink: /training/kotlin-azure-functions/
 ---
 
 ## Course Overview
-This **practical training** focuses on building **serverless applications with Kotlin on Azure Functions**. Designed for **intermediate Kotlin developers**, this course teaches how to **write, deploy, and manage event-driven functions in a cloud-native environment**.
+This **practical training** equips your team to build **serverless applications with Kotlin on Azure Functions**. Designed for **intermediate Kotlin developers**, this course teaches how to **write, deploy, and manage event-driven functions in a cloud-native environment**.
 
-This training assumes **prior Kotlin knowledge** (completion of **Kotlin Crash Course** or **Bite-Size Kotlin Training**, or equivalent experience).
+This training assumes **prior Kotlin knowledge** (completion of **[Kotlin Crash Course](/training/kotlin-crash-course/)** or **Bite-Size Kotlin Training**, or equivalent experience).
 
-## Learning Objectives
-By the end of this training, participants will:
-- Learn how to **write Kotlin-based Azure Functions** and manage dependencies.
-- Deploy **Azure Functions using Kotlin and Infrastructure as Code (Terraform)**.
-- Work with **various Azure Functions triggers**: HTTP, Timer (cron jobs), Service Bus, Blob Storage, and Event Hubs.
-- Implement **output integrations**, allowing Azure Functions to send data to **Service Bus, Cosmos DB, and Blob Storage**.
-- Implement **error handling and logging** using **Application Insights**.
+[Book This Training](mailto:elenavanengelen@vintik.nl){: .btn .btn--primary .btn--large}
+
+## What Your Team Will Be Able to Do
+After completing this training, your developers will:
+- **Build and deploy Kotlin-based Azure Functions** with proper dependency management — ready for production use.
+- **Automate infrastructure provisioning** using Terraform to deploy Azure Functions and supporting resources as code.
+- **Connect functions to any Azure event source** — HTTP triggers, Timer (cron) triggers, Service Bus, Blob Storage, and Event Hubs — to build event-driven architectures.
+- **Integrate functions with downstream Azure services** — sending messages to Service Bus, writing to Cosmos DB, and saving files to Blob Storage for complete serverless workflows.
+- **Monitor and debug functions in production** using Application Insights for structured error handling and logging.
 
 ## Course Structure
-**Duration**: 2 days  
+**Duration**: 2 days
 **Format**: Onsite or Remote
 
 ### **Day 1: Writing & Deploying Kotlin Functions on Azure**
@@ -45,4 +47,8 @@ By the end of this training, participants will:
 - **Backend engineers** who want to use **Kotlin with Azure Functions**.
 - **Teams transitioning to serverless development** on Microsoft Azure.
 
-For more details or to schedule this training for your team, [contact me](mailto:elenavanengelen@vintik.nl).
+---
+
+Ready to bring Kotlin to your Azure cloud stack?
+
+[Book This Training](mailto:elenavanengelen@vintik.nl){: .btn .btn--primary .btn--large}

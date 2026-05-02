@@ -1,0 +1,15 @@
+main:
+  - title: "Portfolio"
+    url: /portfolio/
+  - title: "Training"
+    url: /training/
+  - title: "Speaking"
+    url: /speaking/
+  - title: "Open Source"
+    url: /open-source/
+  - title: "Credentials"
+    url: /credentials/
+  - title: "Blog"
+    url: "https://medium.com/@elenavanengelen"
+    target: "_blank"
+    rel: "noopener"
