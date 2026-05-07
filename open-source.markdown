@@ -13,7 +13,7 @@ I believe in building in the open. Open source is where I experiment with new id
 
 A serverless, WireMock-compatible mock runtime for AWS with AI-powered mock generation using Amazon Bedrock. MockNest Serverless lets your team spin up realistic API mocks in minutes — no infrastructure to manage, no complex setup.
 
-🏆 **Creative Track Award** — <a href="https://builder.aws.com/content/3D5gTWIjP2zvKncBZBCs849xRqn/aws-10000-aideas-competition-meet-the-winners" target="_blank" rel="noopener">AWS 10,000 AIdeas 2026 Competition</a>
+🏆 **Creative Track Award** — <a href="https://builder.aws.com/content/3D5gTWIjP2zvKncBZBCs849xRqn/aws-10000-aideas-competition-meet-the-winners" target="_blank" rel="noopener">AWS 10,000 AIdeas Competition (2025)</a>
 
 **Key Features:**
 
