@@ -21,9 +21,9 @@ Designed and delivered a greenfield event-driven integration system on Azure to 
 ---
 
 #### <img src="/assets/images/logos/MockNestServerless-logo.png" alt="MockNest Serverless logo" style="height: 30px; width: auto; vertical-align: middle; margin-right: 8px;">MockNest Serverless — AI-Powered Mock Runtime
-**Role:** Creator & Maintainer · 2026–Present
+**Role:** Creator & Maintainer · 2025–Present (open-sourced March 2026)
 
-A serverless, WireMock-compatible mock runtime for AWS with AI-powered mock generation using Amazon Bedrock. Winner of the Creative Track Award in the <a href="https://builder.aws.com/content/3D5gTWIjP2zvKncBZBCs849xRqn/aws-10000-aideas-competition-meet-the-winners" target="_blank" rel="noopener">AWS 10,000 AIdeas 2026 Competition</a>.
+A serverless, WireMock-compatible mock runtime for AWS with AI-powered mock generation using Amazon Bedrock. Winner of the Creative Track Award in the <a href="https://builder.aws.com/content/3D5gTWIjP2zvKncBZBCs849xRqn/aws-10000-aideas-competition-meet-the-winners" target="_blank" rel="noopener">AWS 10,000 AIdeas Competition (2025)</a>.
 
 **Technologies:** Kotlin, AWS Lambda (SnapStart), Amazon S3, Amazon Bedrock (Nova Pro), SQS, API Gateway, AWS SAM, Koog Agent, Kiro
 
