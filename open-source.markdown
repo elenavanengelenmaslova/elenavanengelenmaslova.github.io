@@ -23,6 +23,6 @@ A serverless, WireMock-compatible mock runtime for AWS with AI-powered mock gene
 - **Webhook support** — Simulate asynchronous callback flows for realistic integration testing
 - **Persistent mocks across cold starts** — Mocks survive Lambda cold starts, ensuring consistent behavior in serverless environments
 
-**Tech Stack:** Kotlin · AWS Lambda (SnapStart) · Amazon S3 · Amazon Bedrock (Nova Pro) · SQS · API Gateway · AWS SAM · Koog Agent
+**Tech Stack:** Kotlin · AWS Lambda (SnapStart) · Amazon S3 · Amazon Bedrock (Nova Pro) · SQS · API Gateway · AWS SAM · Koog Agent · Kiro
 
 [Explore on GitHub](https://github.com/elenavanengelenmaslova/mocknest-serverless){:target="_blank" rel="noopener" .btn .btn--primary .btn--large}
