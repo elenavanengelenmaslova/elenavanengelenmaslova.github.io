@@ -60,6 +60,13 @@ Elena is available for both **paid and unpaid speaking engagements** at select c
 
 ---
 
+## Upcoming Talks
+
+- [**J-Spring (June 2026)**](https://jspring.nl/#speakers){:target="_blank" rel="noopener"} — Room 4, 11:35  
+  *Clean Architecture for Serverless: Business Logic You Can Take Anywhere*
+
+---
+
 ## Past Talks (Recorded)
 
 - [**InfoQ Dev Summit Munich 2025 (October 15–16, 2025)**](https://devsummit.infoq.com/presentation/munich2025/clean-architecture-serverless-business-logic-you-can-take-anywhere){:target="_blank" rel="noopener"}:  
