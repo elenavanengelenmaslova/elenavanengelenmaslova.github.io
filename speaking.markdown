@@ -25,9 +25,8 @@ Elena delivers talks in multiple formats to suit your event's needs:
 ### Current & Recent Topics
 
 - Clean Architecture for Serverless: Business Logic You Can Take Anywhere
-- Kotlin on Serverless Cloud — AWS Lambda, Unlimited!
 - 7 ± 2 Kotlin Features That Can Work For or Against You
-- Kotlin on AWS Serverless Cloud
+- Beyond the Demo: Testing Strategies for Production AI Agents
 
 Have a topic in mind? Elena is open to tailoring talks to your event's theme.
 
@@ -56,7 +55,7 @@ Elena is available for both **paid and unpaid speaking engagements** at select c
 
 <script type="text/javascript" src="https://sessionize.com/api/speaker/sessions/uzdb2hu0tx/0x0x3fb393x"></script>
 
-![KotlinConf 2025](/assets/images/SpeakingKotlinConf2025.JPG)
+![J-Spring-2026](/assets/images/speakerPhotos.jpeg)
 
 ---
 
