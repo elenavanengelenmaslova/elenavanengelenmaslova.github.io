@@ -39,7 +39,7 @@ When you book Elena for your event, your audience gets:
 - **Practical, real-world content** — No slides-only theory. Every talk is grounded in production experience from enterprise clients like PostNL, Bol.com, KPN, and AZL (NN Group).
 - **Live coding & live demos** — Elena codes on stage, building and deploying working applications so attendees see concepts in action.
 - **Actionable takeaways** — Attendees leave with patterns and techniques they can apply to their own projects immediately.
-- **Proven audience engagement** — Her Voxxed Days Amsterdam 2025 talk was among the **top 4 most-viewed** sessions, and she has spoken to audiences at KotlinConf, InfoQ Dev Summit, and more.
+- **Proven audience engagement** — Her Voxxed Days Amsterdam 2025 talk was among the **top 4 most-viewed** sessions, and she has spoken to audiences at KotlinConf, InfoQ Dev Summit, J-Spring and more.
 
 ---
 
