@@ -1,0 +1,29 @@
+# Elena van Engelen-Maslova
+
+> Freelance Kotlin consultant, tech lead, and corporate trainer based in the Netherlands. Available for hire internationally.
+
+Elena van Engelen-Maslova is a freelance software consultant and trainer specialising in Kotlin and cloud-native development on AWS and Azure. She is the author of *Kotlin Crash Course* (BPB Publications), an AWS Community Builder, and a winner of the AWS 10,000 AIdeas Competition (2025, Creative Track).
+
+## Services
+
+- **Kotlin training**: Practical, outcome-focused corporate training for development teams. Courses range from Kotlin basics to serverless cloud on AWS and Azure. Available on-site or remotely.
+- **Kotlin consulting**: Hands-on Kotlin tech lead and senior engineer for hire. Embeds with enterprise teams to design and deliver event-driven, serverless, microservice, and AI-integrated architectures.
+- **Conference speaking**: Engaging talks with live coding on Kotlin and cloud-native topics. Featured at KotlinConf, Voxxed Days, InfoQ Dev Summit, and J-Spring.
+
+## Training courses
+
+- [Kotlin Basics](https://elenavanengelenmaslova.github.io/training/kotlin-basics/)
+- [Kotlin Crash Course](https://elenavanengelenmaslova.github.io/training/kotlin-crash-course/)
+- [Bite-size Kotlin](https://elenavanengelenmaslova.github.io/training/bite-size-kotlin/)
+- [Kotlin AWS Lambda](https://elenavanengelenmaslova.github.io/training/kotlin-aws-lambda/)
+- [Kotlin Azure Functions](https://elenavanengelenmaslova.github.io/training/kotlin-azure-functions/)
+
+## Key facts
+
+- Location: Netherlands, available internationally
+- Specialisms: Kotlin, AWS Lambda, serverless, cloud-native architecture, microservices, event-driven systems, AI integration
+- Certifications: AWS and Azure certified
+- Book: *Kotlin Crash Course* — https://www.amazon.com/Kotlin-Crash-Course-Fast-track-programming/dp/9355516304
+- LinkedIn: https://www.linkedin.com/in/elena-van-engelen-maslova/
+- GitHub: https://github.com/elenavanengelenmaslova
+- Contact: elenavanengelen@vintik.nl
