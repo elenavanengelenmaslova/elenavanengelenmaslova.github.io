@@ -4,11 +4,23 @@ subtitle: "Kotlin & Cloud-Native Consultant · Trainer · Speaker"
 name: Elena van Engelen-Maslova
 email: elenavanengelen@vintik.nl
 description: >-
-  Freelance Kotlin and cloud-native consultant helping teams build scalable
-  systems on AWS and Azure. Corporate training, conference speaking, and
-  hands-on engineering.
+  Freelance Kotlin consultant, tech lead, and trainer available for hire.
+  Corporate Kotlin training for development teams, hands-on cloud-native
+  engineering on AWS and Azure, and conference speaking. Based in the
+  Netherlands, working internationally. Author of Kotlin Crash Course.
 url: "https://elenavanengelenmaslova.github.io"
 repository: "elenavanengelenmaslova/elenavanengelenmaslova.github.io"
+logo: "/assets/images/profile.jpeg"
+
+twitter:
+  username: "elenavanengelen"
+
+social:
+  name: Elena van Engelen-Maslova
+  links:
+    - "https://www.linkedin.com/in/elena-van-engelen-maslova/"
+    - "https://github.com/elenavanengelenmaslova"
+    - "https://hachyderm.io/@elenavanengelen"
 
 # Theme
 remote_theme: "mmistakes/minimal-mistakes@4.28.0"

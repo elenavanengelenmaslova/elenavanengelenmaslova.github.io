@@ -1,1 +1,56 @@
 <link rel="icon" href="{{ '/assets/images/logo.png' | relative_url }}" type="image/png">
+
+{% if page.url == "/" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Elena van Engelen-Maslova",
+  "jobTitle": "Freelance Kotlin Consultant, Trainer & Tech Lead",
+  "description": "Freelance Kotlin consultant, tech lead, and corporate trainer available for hire. Kotlin training for development teams, cloud-native engineering on AWS and Azure.",
+  "url": "https://elenavanengelenmaslova.github.io",
+  "image": "https://elenavanengelenmaslova.github.io/assets/images/profile.jpeg",
+  "email": "elenavanengelen@vintik.nl",
+  "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "NL"
+  },
+  "sameAs": [
+    "https://www.linkedin.com/in/elena-van-engelen-maslova/",
+    "https://github.com/elenavanengelenmaslova",
+    "https://hachyderm.io/@elenavanengelen"
+  ],
+  "knowsAbout": [
+    "Kotlin",
+    "Kotlin training",
+    "Kotlin development",
+    "AWS Lambda",
+    "Serverless",
+    "Cloud-native architecture",
+    "Microservices",
+    "AWS",
+    "Azure",
+    "Event-driven architecture",
+    "AI integration"
+  ],
+  "hasOccupation": [
+    {
+      "@type": "Occupation",
+      "name": "Kotlin Consultant",
+      "occupationLocation": {
+        "@type": "Country",
+        "name": "Netherlands"
+      }
+    },
+    {
+      "@type": "Occupation",
+      "name": "Kotlin Trainer",
+      "occupationLocation": {
+        "@type": "Country",
+        "name": "Netherlands"
+      }
+    }
+  ]
+}
+</script>
+{% endif %}
