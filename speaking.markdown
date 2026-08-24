@@ -7,7 +7,7 @@ classes: wide
 
 ## Speaker Bio
 
-Elena van Engelen-Maslova is a freelance Kotlin and cloud-native consultant, published author of <a href="https://www.amazon.com/Kotlin-Crash-Course-Fast-track-programming/dp/9355516304" target="_blank" rel="noopener"><em>Kotlin Crash Course</em></a> (BPB Publications), and AWS Community Builder. She speaks at international conferences including <a href="https://kotlinconf.com/" target="_blank" rel="noopener">KotlinConf</a>, <a href="https://voxxeddays.com/amsterdam/" target="_blank" rel="noopener">Voxxed Days</a>, <a href="https://devsummit.infoq.com/" target="_blank" rel="noopener">InfoQ Dev Summit</a>, and <a href="https://awscommunityday.nl/" target="_blank" rel="noopener">AWS Community Day NL</a>, delivering practical sessions on Kotlin, serverless architecture, and clean architecture patterns across AWS and Azure. Her Voxxed Days Amsterdam 2025 talk ranked among the top 4 most-viewed sessions. Elena brings live coding, real-world examples, and actionable takeaways to every talk.
+Elena van Engelen-Maslova is a freelance Kotlin and cloud-native consultant, published author of <a href="https://www.amazon.com/Kotlin-Crash-Course-Fast-track-programming/dp/9355516304" target="_blank" rel="noopener"><em>Kotlin Crash Course</em></a> (BPB Publications), and AWS Community Builder. She speaks at international conferences including <a href="https://kotlinconf.com/" target="_blank" rel="noopener">KotlinConf</a>, <a href="https://voxxeddays.com/amsterdam/" target="_blank" rel="noopener">Voxxed Days</a>, <a href="https://devsummit.infoq.com/" target="_blank" rel="noopener">InfoQ Dev Summit</a>, and <a href="https://awscommunityday.nl/" target="_blank" rel="noopener">AWS Community Day NL</a>, delivering practical sessions on Kotlin, serverless architecture, and clean architecture patterns across AWS and Azure. Elena brings live coding, real-world examples, and actionable takeaways to every talk.
 
 *Feel free to copy and adapt this bio for your event materials.*
 
@@ -24,9 +24,9 @@ Elena delivers talks in multiple formats to suit your event's needs:
 
 ### Current & Recent Topics
 
-- Clean Architecture for Serverless: Business Logic You Can Take Anywhere
-- 7 ± 2 Kotlin Features That Can Work For or Against You
-- Beyond the Demo: Testing Strategies for Production AI Agents
+<script type="text/javascript" src="https://sessionize.com/api/speaker/sessions/uzdb2hu0tx/0x0x3fb393x"></script>
+
+![J-Spring-2026](/assets/images/speakerPhotos.jpeg)
 
 Have a topic in mind? Elena is open to tailoring talks to your event's theme.
 
@@ -39,7 +39,7 @@ When you book Elena for your event, your audience gets:
 - **Practical, real-world content** — No slides-only theory. Every talk is grounded in production experience from enterprise clients like PostNL, Bol.com, KPN, and AZL (NN Group).
 - **Live coding & live demos** — Elena codes on stage, building and deploying working applications so attendees see concepts in action.
 - **Actionable takeaways** — Attendees leave with patterns and techniques they can apply to their own projects immediately.
-- **Proven audience engagement** — Her Voxxed Days Amsterdam 2025 talk was among the **top 4 most-viewed** sessions, and she has spoken to audiences at KotlinConf, InfoQ Dev Summit, J-Spring and more.
+- **Proven audience engagement** — Her Voxxed Days Amsterdam 2025 talk was among the **top 4 most-viewed** YouTube sessions from that conference, and she has spoken to audiences at KotlinConf, InfoQ Dev Summit, J-Spring and more.
 
 ---
 
@@ -48,14 +48,6 @@ When you book Elena for your event, your audience gets:
 Elena is available for both **paid and unpaid speaking engagements** at select conferences and meetups. She is based in the Netherlands and speaks at events worldwide. Also available for podcast guest appearances on Kotlin, serverless, AI, and cloud-native topics.
 
 [Invite Me to Speak](mailto:elenavanengelen@vintik.nl){: .btn .btn--primary .btn--large}
-
----
-
-## Talks & Sessions
-
-<script type="text/javascript" src="https://sessionize.com/api/speaker/sessions/uzdb2hu0tx/0x0x3fb393x"></script>
-
-![J-Spring-2026](/assets/images/speakerPhotos.jpeg)
 
 ---
 
@@ -84,7 +76,7 @@ Elena is available for both **paid and unpaid speaking engagements** at select c
 
 - [**Voxxed Days Amsterdam (April 3, 2025)**](https://www.youtube.com/watch?v=wz0GQbkrr1Q){:target="_blank" rel="noopener"}:  
   *Clean Architecture for Serverless: Business Logic You Can Take Anywhere.*  
-  <span style="color:gray">Among the top 4 most-viewed talks from Voxxed Days Amsterdam 2025.</span>
+  <span style="color:gray">Among the top 4 most-viewed YouTube talks from Voxxed Days Amsterdam 2025.</span>
 
 - [**Kotlin Dev Day Advanced (2022)**](https://kotlindevday.com/videos/kotlin-on-serverless-cloud-aws-lambda-unlimited-elena-van-engelen-maslova/){:target="_blank" rel="noopener"}:  
   *Kotlin on Serverless Cloud - AWS Lambda, Unlimited!*
