@@ -6,45 +6,43 @@ classes: wide
 author_profile: true
 ---
 
-Your team has a hard problem that needs to ship — a cloud-native platform to stand up, a legacy system to migrate, or an event-driven architecture that has to scale without falling over. I help engineering teams deliver exactly that: production-ready Kotlin and cloud-native systems on AWS and Azure that move your roadmap forward and leave your engineers stronger than they were before.
-
-I work alongside your people, not around them. You get senior engineering capacity when you need it, a clear outcome to point at, and knowledge that stays with your team after I leave.
+Senior Kotlin and cloud-native engineering embedded with your team. I design, deliver, and tech-lead event-driven, serverless, microservice, and AI-integrated systems on AWS and Azure for enterprise teams. I work in two formats, depending on what your team needs.
 
 ---
 
-## Long-Term Engagements
+## Long-term consulting
 
-When a few weeks is not enough, a long-term engagement gives your team sustained senior engineering leadership — architecting a platform from the ground up, driving a multi-quarter migration, or acting as a long-running Kotlin and cloud-native tech lead.
+Sustained senior engineering leadership when a few weeks is not enough — architecting a platform from the ground up, driving a multi-quarter migration, or acting as a lead or senior engineer on your team over the long haul. Deeper ownership of your architecture, ongoing mentoring of your engineers, and a partner who stays invested across the full arc of the work.
 
-I embed with enterprise teams to design and deliver event-driven, serverless, microservice, and AI-integrated architectures on AWS and Azure. Beyond shipping the system, I bring continuity: deeper ownership of your architecture, ongoing mentoring of your engineers, and a partner who stays invested across the full arc of the work.
+**Pricing:** per hour.
 
-**Pricing:** scoped to your engagement and agreed up front — [get in touch](mailto:elenavanengelen@vintik.nl) and we'll work out the right arrangement.
+**Availability:** from April 2027.
 
-**Availability:** starting April 2027.
-
-[Discuss a Long-Term Engagement](mailto:elenavanengelen@vintik.nl?subject=Long-term%20consulting%20engagement){: .btn .btn--primary .btn--large}
+[View Portfolio](/portfolio/){: .btn .btn--primary .btn--large}
 
 ---
 
-## Need Something Shorter?
+## Short-term projects
 
-If your team is at capacity but a deadline is not moving, a focused, forward-deployed short-term project may be the better fit — available now.
+Forward-deployed engineering when your team is at capacity but the deadline is not moving. I embed directly in your workflow, ramp up fast, deliver a focused, well-scoped outcome, and hand it back so your engineers can own and extend it. Up to two weeks full-time, or longer part-time.
 
-[See Short-Term Projects](/short-term-projects/){: .btn .btn--primary .btn--large}
+**Pricing:** per deliverable, or per hour.
 
----
+**Availability:** at short notice.
 
-## Proven on Real Teams
-
-This is not theory. I've delivered cloud-native systems for enterprise teams including AZL (NN Group), PostNL, Bol.com, and KPN — from a greenfield event-driven pension platform on Azure to serverless parcel processing on AWS.
-
-See the details on the [Portfolio page](/portfolio/).
+[View Portfolio](/portfolio/){: .btn .btn--primary .btn--large}
 
 ---
 
-## Let's Talk
+## Proven on real teams
 
-Have a project in mind for your team? Tell me what you're trying to ship and I'll tell you how I can help.
+I've delivered cloud-native systems for enterprise teams including AZL (NN Group), PostNL, Bol.com, and KPN — from a greenfield event-driven pension platform on Azure to serverless parcel processing on AWS. See the details on the [Portfolio page](/portfolio/).
+
+---
+
+## Let's talk
+
+Have a project in mind — a focused short-term build, or a longer engagement? Tell me what you're trying to ship and I'll tell you how I can help.
 
 [Get in Touch on LinkedIn](https://www.linkedin.com/in/elena-van-engelen-maslova/){: .btn .btn--primary .btn--large target="_blank" rel="noopener"}
 

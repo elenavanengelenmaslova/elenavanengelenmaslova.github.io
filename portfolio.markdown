@@ -7,6 +7,13 @@ classes: wide
 
 Selected projects where I helped enterprise teams deliver scalable, cloud-native systems — from greenfield builds to complex migrations.
 
+**How I can help your team:**
+
+- **Long-term engagements** — senior Kotlin and cloud-native engineering embedded with your team. I design, deliver, and tech-lead event-driven, serverless, microservice, and AI-integrated systems on AWS and Azure, as a lead or senior engineer. Available from April 2027.
+- **Short-term projects** — forward-deployed engineering when your team is at capacity but the deadline is not moving. I embed, deliver a focused, well-scoped outcome, and hand it back to your engineers. Up to two weeks full-time, or longer part-time. Available at short notice.
+
+[Get in Touch](https://www.linkedin.com/in/elena-van-engelen-maslova/){: .btn .btn--primary .btn--large target="_blank" rel="noopener"}
+
 ---
 
 ### Recent Projects
@@ -62,3 +69,13 @@ Beyond client work, I build in the open. MockNest Serverless is a WireMock-compa
 ### LinkedIn Recommendations
 
 Colleagues and clients have shared feedback on my work. View recommendations on my <a href="https://www.linkedin.com/in/elena-van-engelen-maslova/" target="_blank" rel="noopener">LinkedIn profile</a>.
+
+---
+
+## Let's Work Together
+
+Have a project in mind — a focused short-term build now, or a longer engagement down the line? Tell me what you're trying to ship and I'll tell you how I can help.
+
+[Get in Touch on LinkedIn](https://www.linkedin.com/in/elena-van-engelen-maslova/){: .btn .btn--primary .btn--large target="_blank" rel="noopener"}
+
+Prefer email? You can also reach me at <a href="mailto:elenavanengelen@vintik.nl">elenavanengelen@vintik.nl</a>.
