@@ -26,7 +26,7 @@ Elena delivers talks in multiple formats to suit your event's needs:
 
 <script type="text/javascript" src="https://sessionize.com/api/speaker/sessions/uzdb2hu0tx/0x0x3fb393x"></script>
 
-![J-Spring-2026](/assets/images/speakerPhotos.jpeg)
+![Elena van Engelen-Maslova speaking at KotlinConf 2025](/assets/images/SpeakingKotlinConf2025-web.jpg)
 
 Have a topic in mind? Elena is open to tailoring talks to your event's theme.
 
@@ -45,7 +45,7 @@ When you book Elena for your event, your audience gets:
 
 ## Availability
 
-Elena is available for both **paid and unpaid speaking engagements** at select conferences and meetups. She is based in the Netherlands and speaks at events worldwide. Also available for podcast guest appearances on Kotlin, serverless, AI, and cloud-native topics.
+Elena is available for new speaking engagements from **March 2027**. She is open to both **paid and unpaid speaking engagements** at select conferences and meetups, is based in the Netherlands, and speaks at events worldwide. Also available for podcast guest appearances on Kotlin, serverless, AI, and cloud-native topics. Get in touch now to line up a date.
 
 [Invite Me to Speak](mailto:elenavanengelen@vintik.nl){: .btn .btn--primary .btn--large}
 
@@ -53,9 +53,11 @@ Elena is available for both **paid and unpaid speaking engagements** at select c
 
 ## Upcoming Talks
 
-- [**AWS Community Day NL (September 23, 2026)**](https://awscommunityday.nl/2026/){:target="_blank" rel="noopener"} — two sessions:
+- [**J-Fall (November 12, 2026)**](https://jfall.nl/){:target="_blank" rel="noopener"} — Room 4, 16:55–17:45:
+  - *Beyond the Demo: Testing Strategies for Production AI Agents*
+
+- [**AWS UG Women Utrecht Meetup (November 24, 2026)**](https://www.meetup.com/aws-usergroup-women-utrecht/events/316922695/){:target="_blank" rel="noopener"} — Qstars IT, Nieuwegein, 20:00–20:30:
   - *AI-Powered API Mocking with MockNest Serverless: An AWS 10,000 AIdeas Winner*
-  - *Beyond the Demo: Testing Production AI Applications on AWS*
 
 ---
 

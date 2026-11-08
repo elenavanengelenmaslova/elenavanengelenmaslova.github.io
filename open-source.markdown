@@ -26,3 +26,23 @@ A serverless, WireMock-compatible mock runtime for AWS with AI-powered mock gene
 **Tech Stack:** Kotlin · AWS Lambda (SnapStart) · Amazon S3 · Amazon Bedrock (Nova Pro) · SQS · API Gateway · AWS SAM · Koog Agent · Kiro
 
 [Explore on GitHub](https://github.com/elenavanengelenmaslova/mocknest-serverless){:target="_blank" rel="noopener" .btn .btn--primary .btn--large}
+---
+
+## AWS Lambda Response Streaming for JVM
+
+A JVM library that implements the AWS Lambda and Amazon API Gateway HTTP response streaming protocol for Kotlin and Java. AWS only ships Node.js helpers for the response-streaming wire format, so JVM developers are left to hand-roll it — this library fills that gap. The headline use case is streaming Server-Sent Events (SSE), including token-by-token LLM output from Amazon Bedrock.
+
+Published dependency coordinate: `nl.vintik:aws-lambda-streaming-core`
+
+**Key Features:**
+
+- **API Gateway response-streaming wire protocol** — Implements the full wire format (metadata JSON + 8-byte delimiter + body) so JVM developers do not have to hand-roll it
+- **Memory-bounded streaming** — A fixed 1 MB buffer keeps memory usage flat regardless of payload size
+- **SSE streaming** — Stream Server-Sent Events, including token-by-token LLM output from Amazon Bedrock
+- **Minimal dependencies** — Only `kotlinx-serialization-json`, with no AWS artifacts pulled in
+- **Modern runtime support** — Compiled for Java 21 and runs on the `java21` and `java25` Lambda runtimes
+- **Kotlin and Java examples** — Includes both Kotlin and Java example modules
+
+**Tech Stack:** Kotlin · Java · AWS Lambda · Amazon API Gateway · kotlinx-serialization · Amazon Bedrock (SSE/LLM example)
+
+[Explore on GitHub](https://github.com/elenavanengelenmaslova/aws-lambda-response-streaming-jvm){:target="_blank" rel="noopener" .btn .btn--primary .btn--large}

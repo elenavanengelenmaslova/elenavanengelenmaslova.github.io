@@ -47,6 +47,12 @@ Led the integration of Telfort's fiber and copper infrastructure into KPN's plat
 
 ---
 
+#### <img src="/assets/images/logos/MockNestServerless-logo.png" alt="MockNest Serverless logo" style="height: 30px; width: auto; vertical-align: middle; margin-right: 8px;">MockNest Serverless — Open Source
+
+Beyond client work, I build in the open. MockNest Serverless is a WireMock-compatible, AI-powered mock runtime for AWS that won the Creative Track Award in the AWS 10,000 AIdeas Competition. See this and other projects on the <a href="/open-source/">Open Source</a> page.
+
+---
+
 ### Earlier Experience (2000–2013)
 
 **Senior Java Backend Developer**, various roles — focused on Java backend development, REST APIs, and enterprise integrations across e-commerce, logistics, telecoms, airlines, and the energy sector.

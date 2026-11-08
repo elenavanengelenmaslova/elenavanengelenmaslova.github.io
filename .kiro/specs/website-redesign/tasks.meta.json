@@ -1,0 +1,354 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "4. Checkpoint — Approval gate after Milestone 2 (navigation + config)": [
+      {
+        "executionId": "c6e328b3-7cd9-4d2f-9328-20e5556b56f2",
+        "chatSessionId": "sess_eea3f232-5398-4ce3-ac4c-0456831ddb15",
+        "timestamp": 1794047507362
+      }
+    ],
+    "5.1 Create `consulting.markdown`": [
+      {
+        "executionId": "c6e328b3-7cd9-4d2f-9328-20e5556b56f2",
+        "chatSessionId": "sess_eea3f232-5398-4ce3-ac4c-0456831ddb15",
+        "timestamp": 1794047511533
+      },
+      {
+        "executionId": "c6e328b3-7cd9-4d2f-9328-20e5556b56f2",
+        "chatSessionId": "sess_eea3f232-5398-4ce3-ac4c-0456831ddb15",
+        "timestamp": 1794047514883
+      },
+      {
+        "executionId": "c6e328b3-7cd9-4d2f-9328-20e5556b56f2",
+        "chatSessionId": "sess_eea3f232-5398-4ce3-ac4c-0456831ddb15",
+        "timestamp": 1794050083059
+      }
+    ],
+    "5.2 Verify Milestone 3 — consulting page renders correctly": [
+      {
+        "executionId": "c6e328b3-7cd9-4d2f-9328-20e5556b56f2",
+        "chatSessionId": "sess_eea3f232-5398-4ce3-ac4c-0456831ddb15",
+        "timestamp": 1794047511606
+      },
+      {
+        "executionId": "c6e328b3-7cd9-4d2f-9328-20e5556b56f2",
+        "chatSessionId": "sess_eea3f232-5398-4ce3-ac4c-0456831ddb15",
+        "timestamp": 1794050085424
+      },
+      {
+        "executionId": "c6e328b3-7cd9-4d2f-9328-20e5556b56f2",
+        "chatSessionId": "sess_eea3f232-5398-4ce3-ac4c-0456831ddb15",
+        "timestamp": 1794050195710
+      },
+      {
+        "executionId": "bf0d166d-518c-456f-bab9-533fa4cc3fa4",
+        "chatSessionId": "sess_c6d4cdfc-7a3e-42f0-9915-ffafa5cd35c8",
+        "timestamp": 1794059745759
+      },
+      {
+        "executionId": "bf0d166d-518c-456f-bab9-533fa4cc3fa4",
+        "chatSessionId": "sess_c6d4cdfc-7a3e-42f0-9915-ffafa5cd35c8",
+        "timestamp": 1794061041776
+      },
+      {
+        "executionId": "bf0d166d-518c-456f-bab9-533fa4cc3fa4",
+        "chatSessionId": "sess_c6d4cdfc-7a3e-42f0-9915-ffafa5cd35c8",
+        "timestamp": 1794073513726
+      }
+    ],
+    "6. Checkpoint — Approval gate after Milestone 3 (Consulting page)": [
+      {
+        "executionId": "c6e328b3-7cd9-4d2f-9328-20e5556b56f2",
+        "chatSessionId": "sess_eea3f232-5398-4ce3-ac4c-0456831ddb15",
+        "timestamp": 1794047511646
+      },
+      {
+        "executionId": "bf0d166d-518c-456f-bab9-533fa4cc3fa4",
+        "chatSessionId": "sess_c6d4cdfc-7a3e-42f0-9915-ffafa5cd35c8",
+        "timestamp": 1794059745849
+      }
+    ],
+    "7.1 Update `index.html` feature_row and hero": [
+      {
+        "executionId": "c6e328b3-7cd9-4d2f-9328-20e5556b56f2",
+        "chatSessionId": "sess_eea3f232-5398-4ce3-ac4c-0456831ddb15",
+        "timestamp": 1794047511693
+      },
+      {
+        "executionId": "bf0d166d-518c-456f-bab9-533fa4cc3fa4",
+        "chatSessionId": "sess_c6d4cdfc-7a3e-42f0-9915-ffafa5cd35c8",
+        "timestamp": 1794059745891
+      },
+      {
+        "executionId": "bf0d166d-518c-456f-bab9-533fa4cc3fa4",
+        "chatSessionId": "sess_c6d4cdfc-7a3e-42f0-9915-ffafa5cd35c8",
+        "timestamp": 1794061043140
+      },
+      {
+        "executionId": "bf0d166d-518c-456f-bab9-533fa4cc3fa4",
+        "chatSessionId": "sess_c6d4cdfc-7a3e-42f0-9915-ffafa5cd35c8",
+        "timestamp": 1794073514596
+      }
+    ],
+    "7.2 Update homepage body availability note and remove training references": [
+      {
+        "executionId": "c6e328b3-7cd9-4d2f-9328-20e5556b56f2",
+        "chatSessionId": "sess_eea3f232-5398-4ce3-ac4c-0456831ddb15",
+        "timestamp": 1794047511770
+      },
+      {
+        "executionId": "bf0d166d-518c-456f-bab9-533fa4cc3fa4",
+        "chatSessionId": "sess_c6d4cdfc-7a3e-42f0-9915-ffafa5cd35c8",
+        "timestamp": 1794059745934
+      },
+      {
+        "executionId": "bf0d166d-518c-456f-bab9-533fa4cc3fa4",
+        "chatSessionId": "sess_c6d4cdfc-7a3e-42f0-9915-ffafa5cd35c8",
+        "timestamp": 1794073519914
+      },
+      {
+        "executionId": "bf0d166d-518c-456f-bab9-533fa4cc3fa4",
+        "chatSessionId": "sess_c6d4cdfc-7a3e-42f0-9915-ffafa5cd35c8",
+        "timestamp": 1794073932986
+      }
+    ],
+    "7.3 Verify Milestone 4 — homepage renders correctly": [
+      {
+        "executionId": "c6e328b3-7cd9-4d2f-9328-20e5556b56f2",
+        "chatSessionId": "sess_eea3f232-5398-4ce3-ac4c-0456831ddb15",
+        "timestamp": 1794047511814
+      },
+      {
+        "executionId": "bf0d166d-518c-456f-bab9-533fa4cc3fa4",
+        "chatSessionId": "sess_c6d4cdfc-7a3e-42f0-9915-ffafa5cd35c8",
+        "timestamp": 1794059745975
+      },
+      {
+        "executionId": "bf0d166d-518c-456f-bab9-533fa4cc3fa4",
+        "chatSessionId": "sess_c6d4cdfc-7a3e-42f0-9915-ffafa5cd35c8",
+        "timestamp": 1794073937686
+      },
+      {
+        "executionId": "bf0d166d-518c-456f-bab9-533fa4cc3fa4",
+        "chatSessionId": "sess_c6d4cdfc-7a3e-42f0-9915-ffafa5cd35c8",
+        "timestamp": 1794074073835
+      }
+    ],
+    "8. Checkpoint — Approval gate after Milestone 4 (homepage)": [
+      {
+        "executionId": "c6e328b3-7cd9-4d2f-9328-20e5556b56f2",
+        "chatSessionId": "sess_eea3f232-5398-4ce3-ac4c-0456831ddb15",
+        "timestamp": 1794047511855
+      },
+      {
+        "executionId": "bf0d166d-518c-456f-bab9-533fa4cc3fa4",
+        "chatSessionId": "sess_c6d4cdfc-7a3e-42f0-9915-ffafa5cd35c8",
+        "timestamp": 1794059746010
+      }
+    ],
+    "9.1 Clean up `portfolio.markdown` training references": [
+      {
+        "executionId": "c6e328b3-7cd9-4d2f-9328-20e5556b56f2",
+        "chatSessionId": "sess_eea3f232-5398-4ce3-ac4c-0456831ddb15",
+        "timestamp": 1794047511908
+      },
+      {
+        "executionId": "bf0d166d-518c-456f-bab9-533fa4cc3fa4",
+        "chatSessionId": "sess_c6d4cdfc-7a3e-42f0-9915-ffafa5cd35c8",
+        "timestamp": 1794059746076
+      },
+      {
+        "executionId": "bf0d166d-518c-456f-bab9-533fa4cc3fa4",
+        "chatSessionId": "sess_c6d4cdfc-7a3e-42f0-9915-ffafa5cd35c8",
+        "timestamp": 1794073520782
+      },
+      {
+        "executionId": "bf0d166d-518c-456f-bab9-533fa4cc3fa4",
+        "chatSessionId": "sess_c6d4cdfc-7a3e-42f0-9915-ffafa5cd35c8",
+        "timestamp": 1794073933773
+      }
+    ],
+    "9.2 Verify Milestone 5 — portfolio page renders correctly": [
+      {
+        "executionId": "c6e328b3-7cd9-4d2f-9328-20e5556b56f2",
+        "chatSessionId": "sess_eea3f232-5398-4ce3-ac4c-0456831ddb15",
+        "timestamp": 1794047511950
+      },
+      {
+        "executionId": "bf0d166d-518c-456f-bab9-533fa4cc3fa4",
+        "chatSessionId": "sess_c6d4cdfc-7a3e-42f0-9915-ffafa5cd35c8",
+        "timestamp": 1794059746125
+      },
+      {
+        "executionId": "bf0d166d-518c-456f-bab9-533fa4cc3fa4",
+        "chatSessionId": "sess_c6d4cdfc-7a3e-42f0-9915-ffafa5cd35c8",
+        "timestamp": 1794073936856
+      },
+      {
+        "executionId": "bf0d166d-518c-456f-bab9-533fa4cc3fa4",
+        "chatSessionId": "sess_c6d4cdfc-7a3e-42f0-9915-ffafa5cd35c8",
+        "timestamp": 1794074072941
+      }
+    ],
+    "10. Checkpoint — Approval gate after Milestone 5 (portfolio cleanup)": [
+      {
+        "executionId": "c6e328b3-7cd9-4d2f-9328-20e5556b56f2",
+        "chatSessionId": "sess_eea3f232-5398-4ce3-ac4c-0456831ddb15",
+        "timestamp": 1794047511990
+      },
+      {
+        "executionId": "bf0d166d-518c-456f-bab9-533fa4cc3fa4",
+        "chatSessionId": "sess_c6d4cdfc-7a3e-42f0-9915-ffafa5cd35c8",
+        "timestamp": 1794059746162
+      }
+    ],
+    "11.1 Add \"AWS Lambda Response Streaming for JVM\" entry to `open-source.markdown`": [
+      {
+        "executionId": "c6e328b3-7cd9-4d2f-9328-20e5556b56f2",
+        "chatSessionId": "sess_eea3f232-5398-4ce3-ac4c-0456831ddb15",
+        "timestamp": 1794047512032
+      },
+      {
+        "executionId": "bf0d166d-518c-456f-bab9-533fa4cc3fa4",
+        "chatSessionId": "sess_c6d4cdfc-7a3e-42f0-9915-ffafa5cd35c8",
+        "timestamp": 1794059746202
+      },
+      {
+        "executionId": "bf0d166d-518c-456f-bab9-533fa4cc3fa4",
+        "chatSessionId": "sess_c6d4cdfc-7a3e-42f0-9915-ffafa5cd35c8",
+        "timestamp": 1794059752620
+      },
+      {
+        "executionId": "bf0d166d-518c-456f-bab9-533fa4cc3fa4",
+        "chatSessionId": "sess_c6d4cdfc-7a3e-42f0-9915-ffafa5cd35c8",
+        "timestamp": 1794061036130
+      }
+    ],
+    "11.2 Verify Milestone 6 — open source page renders both projects": [
+      {
+        "executionId": "c6e328b3-7cd9-4d2f-9328-20e5556b56f2",
+        "chatSessionId": "sess_eea3f232-5398-4ce3-ac4c-0456831ddb15",
+        "timestamp": 1794047512075
+      },
+      {
+        "executionId": "bf0d166d-518c-456f-bab9-533fa4cc3fa4",
+        "chatSessionId": "sess_c6d4cdfc-7a3e-42f0-9915-ffafa5cd35c8",
+        "timestamp": 1794059746237
+      },
+      {
+        "executionId": "bf0d166d-518c-456f-bab9-533fa4cc3fa4",
+        "chatSessionId": "sess_c6d4cdfc-7a3e-42f0-9915-ffafa5cd35c8",
+        "timestamp": 1794061044120
+      },
+      {
+        "executionId": "bf0d166d-518c-456f-bab9-533fa4cc3fa4",
+        "chatSessionId": "sess_c6d4cdfc-7a3e-42f0-9915-ffafa5cd35c8",
+        "timestamp": 1794073512360
+      }
+    ],
+    "12. Checkpoint — Approval gate after Milestone 6 (Open Source second project)": [
+      {
+        "executionId": "c6e328b3-7cd9-4d2f-9328-20e5556b56f2",
+        "chatSessionId": "sess_eea3f232-5398-4ce3-ac4c-0456831ddb15",
+        "timestamp": 1794047512114
+      },
+      {
+        "executionId": "bf0d166d-518c-456f-bab9-533fa4cc3fa4",
+        "chatSessionId": "sess_c6d4cdfc-7a3e-42f0-9915-ffafa5cd35c8",
+        "timestamp": 1794059746275
+      }
+    ],
+    "13.1 Production build and permalink/removal verification": [
+      {
+        "executionId": "c6e328b3-7cd9-4d2f-9328-20e5556b56f2",
+        "chatSessionId": "sess_eea3f232-5398-4ce3-ac4c-0456831ddb15",
+        "timestamp": 1794047512158
+      },
+      {
+        "executionId": "bf0d166d-518c-456f-bab9-533fa4cc3fa4",
+        "chatSessionId": "sess_c6d4cdfc-7a3e-42f0-9915-ffafa5cd35c8",
+        "timestamp": 1794059746311
+      },
+      {
+        "executionId": "bf0d166d-518c-456f-bab9-533fa4cc3fa4",
+        "chatSessionId": "sess_c6d4cdfc-7a3e-42f0-9915-ffafa5cd35c8",
+        "timestamp": 1794074076827
+      },
+      {
+        "executionId": "bf0d166d-518c-456f-bab9-533fa4cc3fa4",
+        "chatSessionId": "sess_c6d4cdfc-7a3e-42f0-9915-ffafa5cd35c8",
+        "timestamp": 1794075546062
+      }
+    ],
+    "13.2 Verify SEO, analytics, favicon, sitemap, and accessibility": [
+      {
+        "executionId": "c6e328b3-7cd9-4d2f-9328-20e5556b56f2",
+        "chatSessionId": "sess_eea3f232-5398-4ce3-ac4c-0456831ddb15",
+        "timestamp": 1794047512198
+      },
+      {
+        "executionId": "bf0d166d-518c-456f-bab9-533fa4cc3fa4",
+        "chatSessionId": "sess_c6d4cdfc-7a3e-42f0-9915-ffafa5cd35c8",
+        "timestamp": 1794059746350
+      },
+      {
+        "executionId": "bf0d166d-518c-456f-bab9-533fa4cc3fa4",
+        "chatSessionId": "sess_c6d4cdfc-7a3e-42f0-9915-ffafa5cd35c8",
+        "timestamp": 1794075549108
+      },
+      {
+        "executionId": "bf0d166d-518c-456f-bab9-533fa4cc3fa4",
+        "chatSessionId": "sess_c6d4cdfc-7a3e-42f0-9915-ffafa5cd35c8",
+        "timestamp": 1794080088843
+      }
+    ],
+    "14. Final checkpoint — Full visual walkthrough and approval gate": [
+      {
+        "executionId": "c6e328b3-7cd9-4d2f-9328-20e5556b56f2",
+        "chatSessionId": "sess_eea3f232-5398-4ce3-ac4c-0456831ddb15",
+        "timestamp": 1794047512242
+      },
+      {
+        "executionId": "bf0d166d-518c-456f-bab9-533fa4cc3fa4",
+        "chatSessionId": "sess_c6d4cdfc-7a3e-42f0-9915-ffafa5cd35c8",
+        "timestamp": 1794059746406
+      }
+    ],
+    "5. Create the Consulting page (Milestone 3 — new /consulting/ page)": [
+      {
+        "executionId": "c6e328b3-7cd9-4d2f-9328-20e5556b56f2",
+        "chatSessionId": "sess_eea3f232-5398-4ce3-ac4c-0456831ddb15",
+        "timestamp": 1794050195756
+      }
+    ],
+    "11. Add second open source project (Milestone 6 — Open Source page lists two projects)": [
+      {
+        "executionId": "bf0d166d-518c-456f-bab9-533fa4cc3fa4",
+        "chatSessionId": "sess_c6d4cdfc-7a3e-42f0-9915-ffafa5cd35c8",
+        "timestamp": 1794073512642
+      }
+    ],
+    "9. Portfolio cleanup (Milestone 5 — no dangling training references)": [
+      {
+        "executionId": "bf0d166d-518c-456f-bab9-533fa4cc3fa4",
+        "chatSessionId": "sess_c6d4cdfc-7a3e-42f0-9915-ffafa5cd35c8",
+        "timestamp": 1794074073078
+      }
+    ],
+    "7. Update homepage for two-pillar positioning (Milestone 4 — homepage reflects Consulting + Speaking)": [
+      {
+        "executionId": "bf0d166d-518c-456f-bab9-533fa4cc3fa4",
+        "chatSessionId": "sess_c6d4cdfc-7a3e-42f0-9915-ffafa5cd35c8",
+        "timestamp": 1794074073949
+      }
+    ],
+    "13. Final verification (Milestone 7 — full integrity check)": [
+      {
+        "executionId": "bf0d166d-518c-456f-bab9-533fa4cc3fa4",
+        "chatSessionId": "sess_c6d4cdfc-7a3e-42f0-9915-ffafa5cd35c8",
+        "timestamp": 1794080088905
+      }
+    ]
+  }
+}

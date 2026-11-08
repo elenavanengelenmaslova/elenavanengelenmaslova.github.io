@@ -1,14 +1,16 @@
 main:
+  - title: "Consulting"
+    url: /consulting/
+  - title: "Short-Term Projects"
+    url: /short-term-projects/
   - title: "Portfolio"
     url: /portfolio/
-  - title: "Training"
-    url: /training/
   - title: "Speaking"
     url: /speaking/
-  - title: "Open Source"
-    url: /open-source/
   - title: "Credentials"
     url: /credentials/
+  - title: "Open Source"
+    url: /open-source/
   - title: "Blog"
     url: "https://medium.com/@elenavanengelen"
     target: "_blank"

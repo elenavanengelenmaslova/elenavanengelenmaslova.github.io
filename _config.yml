@@ -1,13 +1,13 @@
 # Site settings
 title: Elena van Engelen-Maslova
-subtitle: "Kotlin & Cloud-Native Consultant · Trainer · Speaker"
+subtitle: "Kotlin & Cloud-Native Consultant · Speaker"
 name: Elena van Engelen-Maslova
 email: elenavanengelen@vintik.nl
 description: >-
-  Freelance Kotlin consultant, tech lead, and trainer available for hire.
-  Corporate Kotlin training for development teams, hands-on cloud-native
-  engineering on AWS and Azure, and conference speaking. Based in the
-  Netherlands, working internationally. Author of Kotlin Crash Course.
+  Freelance Kotlin and cloud-native consultant helping teams build scalable
+  systems on AWS and Azure. Short-term deployed-forward projects, long-term
+  engagements, and conference speaking. Based in the Netherlands, working
+  internationally. Author of Kotlin Crash Course.
 url: "https://elenavanengelenmaslova.github.io"
 repository: "elenavanengelenmaslova/elenavanengelenmaslova.github.io"
 logo: "/assets/images/profile.jpeg"
@@ -20,7 +20,7 @@ social:
   links:
     - "https://www.linkedin.com/in/elena-van-engelen-maslova/"
     - "https://github.com/elenavanengelenmaslova"
-    - "https://hachyderm.io/@elenavanengelen"
+    - "https://builder.aws.com/community/@elenavanengelen"
 
 # Theme
 remote_theme: "mmistakes/minimal-mistakes@4.28.0"
@@ -42,9 +42,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/elenavanengelenmaslova"
-    - label: "Mastodon"
-      icon: "fab fa-fw fa-mastodon"
-      url: "https://hachyderm.io/@elenavanengelen"
+    - label: "AWS Builder"
+      icon: "fab fa-fw fa-aws"
+      url: "https://builder.aws.com/community/@elenavanengelen"
 
 # Analytics
 analytics:
@@ -81,9 +81,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/elenavanengelenmaslova"
-    - label: "Mastodon"
-      icon: "fab fa-fw fa-mastodon"
-      url: "https://hachyderm.io/@elenavanengelen"
+    - label: "AWS Builder"
+      icon: "fab fa-fw fa-aws"
+      url: "https://builder.aws.com/community/@elenavanengelen"
 
 # Exclude from processing
 exclude:
