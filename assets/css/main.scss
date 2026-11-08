@@ -43,8 +43,8 @@ html {
 
 // Hero overlay — position and mirror background image so face is on the right
 .page__hero--overlay {
-  background-position: center 30% !important;
-  min-height: 400px;
+  background-position: center 22% !important;
+  min-height: 600px;
   transform: scaleX(-1);
 
   > * {

@@ -20,7 +20,7 @@ social:
   links:
     - "https://www.linkedin.com/in/elena-van-engelen-maslova/"
     - "https://github.com/elenavanengelenmaslova"
-    - "https://hachyderm.io/@elenavanengelen"
+    - "https://builder.aws.com/community/@elenavanengelen"
 
 # Theme
 remote_theme: "mmistakes/minimal-mistakes@4.28.0"
@@ -42,9 +42,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/elenavanengelenmaslova"
-    - label: "Mastodon"
-      icon: "fab fa-fw fa-mastodon"
-      url: "https://hachyderm.io/@elenavanengelen"
+    - label: "AWS Builder"
+      icon: "fab fa-fw fa-aws"
+      url: "https://builder.aws.com/community/@elenavanengelen"
 
 # Analytics
 analytics:
@@ -81,9 +81,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/elenavanengelenmaslova"
-    - label: "Mastodon"
-      icon: "fab fa-fw fa-mastodon"
-      url: "https://hachyderm.io/@elenavanengelen"
+    - label: "AWS Builder"
+      icon: "fab fa-fw fa-aws"
+      url: "https://builder.aws.com/community/@elenavanengelen"
 
 # Exclude from processing
 exclude:

@@ -26,7 +26,7 @@ Elena delivers talks in multiple formats to suit your event's needs:
 
 <script type="text/javascript" src="https://sessionize.com/api/speaker/sessions/uzdb2hu0tx/0x0x3fb393x"></script>
 
-![J-Spring-2026](/assets/images/speakerPhotos.jpeg)
+![Elena van Engelen-Maslova speaking at KotlinConf 2025](/assets/images/SpeakingKotlinConf2025-web.jpg)
 
 Have a topic in mind? Elena is open to tailoring talks to your event's theme.
 
@@ -45,7 +45,7 @@ When you book Elena for your event, your audience gets:
 
 ## Availability
 
-Elena is available for both **paid and unpaid speaking engagements** at select conferences and meetups. She is based in the Netherlands and speaks at events worldwide. Also available for podcast guest appearances on Kotlin, serverless, AI, and cloud-native topics.
+Elena is available for new speaking engagements from **March 2027**. She is open to both **paid and unpaid speaking engagements** at select conferences and meetups, is based in the Netherlands, and speaks at events worldwide. Also available for podcast guest appearances on Kotlin, serverless, AI, and cloud-native topics. Get in touch now to line up a date.
 
 [Invite Me to Speak](mailto:elenavanengelen@vintik.nl){: .btn .btn--primary .btn--large}
 

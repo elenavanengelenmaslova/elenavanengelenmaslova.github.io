@@ -7,10 +7,10 @@ main:
     url: /portfolio/
   - title: "Speaking"
     url: /speaking/
-  - title: "Open Source"
-    url: /open-source/
   - title: "Credentials"
     url: /credentials/
+  - title: "Open Source"
+    url: /open-source/
   - title: "Blog"
     url: "https://medium.com/@elenavanengelen"
     target: "_blank"
