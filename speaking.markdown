@@ -53,9 +53,11 @@ Elena is available for both **paid and unpaid speaking engagements** at select c
 
 ## Upcoming Talks
 
-- [**AWS Community Day NL (September 23, 2026)**](https://awscommunityday.nl/2026/){:target="_blank" rel="noopener"} — two sessions:
+- [**J-Fall (November 12, 2026)**](https://jfall.nl/){:target="_blank" rel="noopener"} — Room 4, 16:55–17:45:
+  - *Beyond the Demo: Testing Strategies for Production AI Agents*
+
+- [**AWS UG Women Utrecht Meetup (November 24, 2026)**](https://www.meetup.com/aws-usergroup-women-utrecht/events/316922695/){:target="_blank" rel="noopener"} — Qstars IT, Nieuwegein, 20:00–20:30:
   - *AI-Powered API Mocking with MockNest Serverless: An AWS 10,000 AIdeas Winner*
-  - *Beyond the Demo: Testing Production AI Applications on AWS*
 
 ---
 

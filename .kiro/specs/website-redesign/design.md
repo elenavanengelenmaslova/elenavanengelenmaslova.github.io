@@ -4,17 +4,21 @@
 
 This design describes the comprehensive redesign of Elena van Engelen-Maslova's freelance professional website from a CV-style Jekyll site using the default Minima theme into a modern, client-acquisition-focused site using the Minimal Mistakes theme. The redesign touches every page, restructures navigation, adds a new Open Source page, and rewrites content with sales-oriented copy — all while preserving existing SEO, analytics, third-party integrations, and GitHub Pages compatibility.
 
+This revision repositions the site's service offering. Training is removed entirely (page, five detail pages, and `/training/` permalinks). In its place, the site presents a single **Consulting** offering built around a "deployed forward engineer" short-term model alongside long-term engagements. The site now presents two service pillars — **Consulting** (most prominent) and **Speaking** — and adds a dedicated Consulting page. The theme-migration strategy, Minimal Mistakes configuration approach, and all third-party integrations established in the prior iteration are preserved.
+
 ### Key Design Decisions
 
 1. **Theme: Minimal Mistakes via remote_theme** — Rather than heavily customizing Minima or building from scratch, we adopt Minimal Mistakes. It is 100% compatible with GitHub Pages as a remote theme, provides built-in responsive layouts (splash, single, archive), feature rows, header overlays, author profiles, and card-based styling out of the box. This eliminates the need to write custom CSS for layout primitives. The `remote_theme` approach avoids Gemfile whitelisting issues on GitHub Pages.
 
-2. **Homepage as splash layout** — The Minimal Mistakes `splash` layout provides full-width header overlays with CTA buttons and `feature_row` blocks, which map directly to the hero section and service pillar requirements. No custom layout needed.
+2. **Homepage as splash layout** — The Minimal Mistakes `splash` layout provides full-width header overlays with CTA buttons and `feature_row` blocks, which map directly to the hero section and two service pillar requirements (Consulting and Speaking). No custom layout needed.
 
 3. **Custom CSS layer for brand refinements** — A custom `assets/css/main.scss` file will import the theme's Sass and add overrides for the Inter font stack, social proof strip styling, and minor spacing adjustments. This keeps customizations minimal and maintainable.
 
-4. **Preserve all permalinks** — Every existing page keeps its current `permalink` front matter value. The new Open Source page gets `/open-source/`. No existing URLs change.
+4. **Preserve all remaining permalinks** — Every existing page that remains keeps its current `permalink` front matter value. The new Consulting page gets `/consulting/`. The Open Source page keeps `/open-source/`. The `/training/` permalinks are intentionally removed and will return the site's standard 404.
 
 5. **Content-first approach** — Each page's Markdown content is rewritten in place. The theme handles visual presentation through layouts and front matter configuration, so the migration is primarily a theme swap + content rewrite rather than a structural rebuild.
+
+6. **Single Consulting offering, two delivery modes** — Short-term deployed-forward projects and long-term engagements are consolidated under one Consulting_Offering. The homepage presents this as a single Consulting pillar; the dedicated Consulting page distinguishes the two delivery modes visually and textually.
 
 ## Architecture
 
@@ -33,12 +37,11 @@ graph TD
 
     subgraph "Content Pages"
         HOME["index.html<br/>layout: splash"]
+        CONSULTING["consulting.markdown<br/>layout: single, wide"]
         PORTFOLIO["portfolio.markdown<br/>layout: single, wide"]
-        TRAINING["training.markdown<br/>layout: single, wide"]
         SPEAKING["speaking.markdown<br/>layout: single, wide"]
         OPENSOURCE["open-source.markdown<br/>layout: single, wide"]
         CREDENTIALS["credentials.markdown<br/>layout: single, wide"]
-        TRAINING_DETAIL["training/*.md<br/>layout: single"]
     end
 
     subgraph "Third-Party Integrations"
@@ -52,12 +55,11 @@ graph TD
     CONFIG --> DATA
     GEMFILE --> CONFIG
     LAYOUTS --> HOME
+    LAYOUTS --> CONSULTING
     LAYOUTS --> PORTFOLIO
-    LAYOUTS --> TRAINING
     LAYOUTS --> SPEAKING
     LAYOUTS --> OPENSOURCE
     LAYOUTS --> CREDENTIALS
-    LAYOUTS --> TRAINING_DETAIL
     INCLUDES --> GA
     INCLUDES --> CREDLY
     INCLUDES --> SESSIONIZE
@@ -85,18 +87,18 @@ The migration from Minima to Minimal Mistakes follows this approach:
 
 ### 1. Configuration (`_config.yml`)
 
-The central configuration file is restructured for Minimal Mistakes:
+The central configuration file is restructured for Minimal Mistakes. Subtitle, description, and bio reflect the Consulting · Speaking positioning (no training references):
 
 ```yaml
 # Site settings
 title: Elena van Engelen-Maslova
-subtitle: "Kotlin & Cloud-Native Consultant · Trainer · Speaker"
+subtitle: "Kotlin & Cloud-Native Consultant · Speaker"
 name: Elena van Engelen-Maslova
 email: elenavanengelen@vintik.nl
 description: >-
   Freelance Kotlin and cloud-native consultant helping teams build scalable
-  systems on AWS and Azure. Corporate training, conference speaking, and
-  hands-on engineering.
+  systems on AWS and Azure. Short-term deployed-forward projects, long-term
+  engagements, and conference speaking.
 url: "https://elenavanengelenmaslova.github.io"
 repository: "elenavanengelenmaslova/elenavanengelenmaslova.github.io"
 
@@ -167,14 +169,14 @@ footer:
 
 ### 2. Navigation (`_data/navigation.yml`)
 
-Minimal Mistakes uses a data file for masthead navigation instead of `header_pages`:
+Minimal Mistakes uses a data file for masthead navigation instead of `header_pages`. Consulting replaces Training and leads the list:
 
 ```yaml
 main:
+  - title: "Consulting"
+    url: /consulting/
   - title: "Portfolio"
     url: /portfolio/
-  - title: "Training"
-    url: /training/
   - title: "Speaking"
     url: /speaking/
   - title: "Open Source"
@@ -189,7 +191,7 @@ main:
 
 ### 3. Homepage (`index.html`)
 
-Converted from Markdown to HTML front matter to leverage the `splash` layout with `feature_row`:
+Converted from Markdown to HTML front matter to leverage the `splash` layout with `feature_row`. The hero value proposition names Kotlin and cloud-native and references both consulting and speaking. The `feature_row` has exactly two entries — Consulting (first, most prominent) and Speaking:
 
 ```yaml
 ---
@@ -204,18 +206,13 @@ header:
       url: "mailto:elenavanengelen@vintik.nl"
 excerpt: >
   Helping teams build scalable Kotlin and cloud-native systems on AWS and Azure.
-  Consulting · Training · Speaking
+  Consulting · Speaking
 feature_row:
   - title: "Consulting"
-    excerpt: "Hands-on Kotlin and cloud-native engineering for your team. I embed with enterprise teams to design and deliver event-driven, serverless, and microservice architectures on AWS and Azure."
-    url: "/portfolio/"
-    btn_label: "View Portfolio"
+    excerpt: "Deployed-forward engineering for your team. I join, deliver a focused short-term project, then roll off — or take on a longer engagement. Short-term projects available now; long-term engagements from April 2027."
+    url: "/consulting/"
+    btn_label: "Explore Consulting"
     btn_class: "btn--primary btn--large"
-  - title: "Training"
-    excerpt: "Practical, outcome-focused Kotlin training from €2,000/day. Your team learns by building real systems — from Kotlin basics to serverless cloud on AWS and Azure."
-    url: "/training/"
-    btn_label: "Explore Training"
-    btn_class: "btn--primary"
   - title: "Speaking"
     excerpt: "Engaging conference talks with live coding on Kotlin and serverless cloud. Featured at KotlinConf, Voxxed Days, InfoQ Dev Summit, and more."
     url: "/speaking/"
@@ -224,68 +221,90 @@ feature_row:
 ---
 ```
 
+The Consulting pillar is rendered first in source order and uses `btn--primary btn--large` for greater visual prominence than the Speaking pillar (satisfying the prominence requirement through both higher position and distinct emphasis styling).
+
 The homepage body content (below front matter) includes:
-- Social proof strip with client logos/names (PostNL, Bol.com, KPN, AZL/NN Group)
-- Credibility indicators (book author, AWS Community Builder, certifications, conference speaker)
-- Availability note (project work from April 2027, training/speaking now)
-- Secondary CTA
+- Social proof strip with client logos/names (PostNL, Bol.com, KPN, AZL/NN Group), with text fallback if a logo image fails to load
+- Credibility indicators (published author of "Kotlin Crash Course", AWS Community Builder, conference speaker referencing KotlinConf, AWS and Azure certifications)
+- Availability note with three distinct statements: short-term deployed-forward projects available now, long-term consulting engagements available from April 2027, speaking engagements available now
+- At least two secondary CTA elements linking to the contact mechanism or a service page
+- Profile image referenced from `assets/images/profile.jpeg`
 
-### 4. Training Page (`training.markdown`)
+### 4. Consulting Page (`consulting.markdown`) — NEW
 
-Uses `layout: single` with `classes: wide`. Content restructured to lead with outcomes and social proof:
+Uses `layout: single` with `classes: wide` and `permalink: /consulting/`. It presents the single Consulting_Offering with two clearly distinguished delivery modes:
 
-- Outcome-oriented headline and value proposition
-- Student testimonials moved to top (above course listings)
-- Pricing: "Starting from €2,000 per day for corporate training"
-- Logistics: remote worldwide, on-site in Europe, travel costs for outside NL
-- Training client list (AZL/NN Group, Version 1, EDSN)
-- Course listings with links to detail pages
-- CTA buttons ("Book a Call")
+```yaml
+---
+layout: single
+title: "Consulting"
+permalink: /consulting/
+classes: wide
+author_profile: true
+---
+```
 
-### 5. Training Detail Pages (`training/*.md`)
+Content structure:
+- **Outcome-oriented opening copy** describing business value and delivery, placed *before* any technology listing (no tech list appears above this copy)
+- **Deployed-forward model section** — describes the short-term consultancy approach stating all three phases: Elena joins a team, delivers a focused short-term project, and then rolls off
+- **Long-term engagements section** — presented as a separate, clearly labeled option within the same Consulting_Offering, visually and textually distinct from the deployed-forward model
+- **Pricing statement** — short-term projects are priced either per hour or per finished fixed-price project; directs visitors to contact Elena for pricing; displays no specific rate, price amount, or numeric cost figure
+- **Availability statement** — short-term deployed-forward projects available now; long-term engagements available starting April 2027
+- **Relevant client work reference** with a link to the Portfolio page
+- **CTA element** with action-oriented visible text (e.g., "Get in Touch" or "Book a Call") linking to a contact method (`mailto:`), with an alternative contact method presented if the primary link target cannot be resolved
 
-Each detail page uses `layout: single`. Content reframed:
-- Lead with "What your team will be able to do" instead of "Learning Objectives"
-- Add CTA button at top and bottom ("Book This Training")
-- Retain course structure and content details
-
-### 6. Speaking Page (`speaking.markdown`)
+### 5. Speaking Page (`speaking.markdown`)
 
 Uses `layout: single` with `classes: wide`. Restructured for conference organizers:
 
 - Speaker bio section (concise, copy-paste ready for organizers)
 - Available talk topics with formats (keynote, session, workshop, live coding demo)
 - "What you get" section (audience experience, live coding, practical content)
-- Speaking metrics (Voxxed Days top 4 most-viewed)
+- Speaking metrics (Voxxed Days Amsterdam 2025 top 4 most-viewed)
 - Availability statement (paid and unpaid at select conferences)
 - Sessionize widget preserved (inline script)
 - Past recorded talks with video links
 - CTA for organizers ("Invite Me to Speak" → mailto)
 
-### 7. Open Source Page (`open-source.markdown`) — NEW
+### 6. Open Source Page (`open-source.markdown`)
 
-Uses `layout: single` with `classes: wide`. Structure supports multiple projects:
+Uses `layout: single` with `classes: wide` and `permalink: /open-source/`. The page is built from a repeatable **heading + description entry-block** pattern: each project is a discrete block (a project heading followed by description, key features, tech stack, optional award line, and a GitHub CTA). Because every project reuses the same block structure, the page scales to multiple projects without changing the page layout. The page now documents **two projects**, and both entries render on the same page in source order.
 
 - Page intro explaining open source involvement
-- MockNest Serverless as first project entry:
-  - Description: serverless WireMock-compatible mock runtime for AWS with AI-powered mock generation
+- **Project 1 — MockNest Serverless** (first entry block, with logo image):
+  - Description: serverless WireMock-compatible mock runtime for AWS with AI-powered mock generation using Amazon Bedrock
   - GitHub link: https://github.com/elenavanengelenmaslova/mocknest-serverless
-  - Key features list
-  - Tech stack
+  - Key features list (WireMock-compatible, AI mock generation from OpenAPI/WSDL/GraphQL specs, one-click SAR deployment)
+  - Tech stack (Kotlin, AWS Lambda with SnapStart, Amazon S3, Amazon Bedrock, SQS, API Gateway, AWS SAM, Koog Agent)
   - Award: Creative Track Award, AWS 10,000 AIdeas Competition (text only, no badge)
-- CTA: "Explore on GitHub"
-- Structure uses heading + description pattern that scales to additional projects
+  - CTA: "Explore on GitHub" → MockNest GitHub repository
+- **Project 2 — AWS Lambda Response Streaming for JVM** (second entry block, same structure as Project 1; text heading only, **no logo image** for this entry — unlike MockNest, which has a logo):
+  - Description: a JVM library implementing the AWS Lambda / Amazon API Gateway HTTP response streaming protocol for Kotlin and Java, filling the gap where AWS only ships Node.js helpers for the wire format. Primary use case: streaming Server-Sent Events (SSE), including token-by-token LLM output from Amazon Bedrock.
+  - GitHub link: https://github.com/elenavanengelenmaslova/aws-lambda-response-streaming-jvm
+  - Published dependency coordinate: `nl.vintik:aws-lambda-streaming-core`
+  - Key features list:
+    - Implements the API Gateway response-streaming wire protocol (metadata JSON + 8-byte delimiter + body) so JVM developers do not hand-roll it
+    - Memory-bounded streaming via a fixed 1 MB buffer — flat memory usage regardless of payload size
+    - SSE streaming, including Bedrock token-by-token LLM output
+    - Minimal dependencies (only `kotlinx-serialization-json`; no AWS artifacts)
+    - Compiled for Java 21; runs on the `java21`/`java25` runtimes
+    - Kotlin and Java example modules
+  - Tech stack: Kotlin, Java, AWS Lambda, Amazon API Gateway, kotlinx-serialization, Amazon Bedrock (SSE/LLM example)
+  - No award for this entry
+  - CTA: "Explore on GitHub" → AWS Lambda Response Streaming for JVM GitHub repository
 
-### 8. Portfolio Page (`portfolio.markdown`)
+The entry-block/heading pattern is the extension point for open source growth: adding a project means adding another block, not restructuring the page.
 
-Uses `layout: single` with `classes: wide`. Descriptions tightened to impact-first format:
+### 7. Portfolio Page (`portfolio.markdown`)
+
+Uses `layout: single` with `classes: wide`. Descriptions tightened to impact-first format. The Portfolio page is now also linked from the Consulting page:
 
 - Each project: Client name, Role, Key business outcome (1-2 sentences), Technologies
 - Removes lengthy problem/solution/impact narratives
 - Adds MockNest Serverless cross-reference linking to Open Source page
 - Retains all four clients: AZL/NN Group, PostNL, Bol.com, KPN
 
-### 9. Credentials Page (`credentials.markdown`)
+### 8. Credentials Page (`credentials.markdown`)
 
 Uses `layout: single` with `classes: wide`. Minimal changes:
 - Credly badge scripts preserved inline
@@ -293,7 +312,7 @@ Uses `layout: single` with `classes: wide`. Minimal changes:
 - Academic achievements preserved
 - Styling adjusted to work with Minimal Mistakes (flex layouts remain as inline styles)
 
-### 10. Custom Styling (`assets/css/main.scss`)
+### 9. Custom Styling (`assets/css/main.scss`)
 
 ```scss
 ---
@@ -335,7 +354,7 @@ html {
 }
 ```
 
-### 11. Google Analytics Integration
+### 10. Google Analytics Integration
 
 Minimal Mistakes has built-in Google Analytics support via `_config.yml`:
 
@@ -348,7 +367,7 @@ analytics:
 
 This replaces the custom `_includes/google-analytics.html` include. The theme handles the gtag.js injection automatically. The custom include file can be removed.
 
-### 12. Include Files Cleanup
+### 11. Include Files Cleanup
 
 **Remove** (replaced by theme):
 - `_includes/header.html` — Minimal Mistakes provides its own masthead
@@ -366,7 +385,7 @@ This replaces the custom `_includes/google-analytics.html` include. The theme ha
 **Keep/Create**:
 - `_includes/head/custom.html` — for any additional head tags (favicon)
 
-### 13. Favicon Preservation
+### 12. Favicon Preservation
 
 Create `_includes/head/custom.html`:
 
@@ -392,7 +411,7 @@ header:
     - label: string
       url: string
 excerpt: string             # tagline text displayed in overlay
-feature_row:                # service pillar cards
+feature_row:                # service pillar cards (exactly two: Consulting, Speaking)
   - title: string
     excerpt: string
     url: string
@@ -404,16 +423,9 @@ feature_row:                # service pillar cards
 ```yaml
 layout: single
 title: string
-permalink: string           # must match existing permalink
+permalink: string           # must match existing permalink (or /consulting/ for the new page)
 classes: wide               # optional, for full-width content
 author_profile: true|false  # show/hide sidebar author profile
-```
-
-**Training detail pages**:
-```yaml
-layout: single
-title: string
-permalink: /training/{slug}/  # must match existing permalink
 ```
 
 ### Navigation Data (`_data/navigation.yml`)
@@ -446,7 +458,7 @@ author:
 .
 ├── _config.yml                    # Updated for Minimal Mistakes
 ├── _data/
-│   └── navigation.yml             # NEW: masthead navigation
+│   └── navigation.yml             # NEW: masthead navigation (Consulting replaces Training)
 ├── _includes/
 │   └── head/
 │       └── custom.html            # NEW: favicon + any custom head tags
@@ -458,19 +470,13 @@ author:
 │       ├── logo.png
 │       └── ...
 ├── Gemfile                        # Updated: github-pages gem
-├── index.html                     # CHANGED: .markdown → .html, splash layout
-├── portfolio.markdown             # UPDATED: impact-first content
-├── training.markdown              # UPDATED: outcome-oriented content
+├── index.html                     # CHANGED: splash layout, two feature_row entries
+├── consulting.markdown            # NEW: Consulting offering (deployed-forward + long-term)
+├── portfolio.markdown             # UPDATED: impact-first content, linked from Consulting
 ├── speaking.markdown              # UPDATED: organizer-focused content
-├── open-source.markdown           # NEW: open source showcase
+├── open-source.markdown           # Open source showcase (MockNest Serverless)
 ├── credentials.markdown           # MINOR UPDATES: styling compatibility
-├── training/
-│   ├── kotlin-basics.md           # UPDATED: outcome framing + CTA
-│   ├── kotlin-crash-course.md     # UPDATED: outcome framing + CTA
-│   ├── kotlin-aws-lambda.md       # UPDATED: outcome framing + CTA
-│   ├── kotlin-azure-functions.md  # UPDATED: outcome framing + CTA
-│   └── bite-size-kotlin.md        # UPDATED: outcome framing + CTA
-├── 404.html                       # UPDATED: use default layout from theme
+├── 404.html                       # Uses default layout from theme
 └── README.md                      # UNCHANGED
 ```
 
@@ -483,6 +489,15 @@ author:
 - `_layouts/home.html`
 - `assets/minima-social-icons.svg`
 
+**Removed files** (intentional deletions for the training removal):
+- `training.markdown` — training landing page removed
+- `training/kotlin-basics.md` — course detail page removed
+- `training/kotlin-crash-course.md` — course detail page removed
+- `training/kotlin-aws-lambda.md` — course detail page removed
+- `training/kotlin-azure-functions.md` — course detail page removed
+- `training/bite-size-kotlin.md` — course detail page removed
+
+The entire `training/` directory is removed. All `/training/` permalinks (the landing page and the five course detail pages) are intentionally removed; requests to those paths return the site's standard 404 response.
 
 ## Error Handling
 
@@ -496,7 +511,8 @@ Since this is a static site built by Jekyll, errors manifest at build time rathe
 | **Missing include file** | Jekyll build error: "Could not locate the included file" | Ensure all referenced includes exist; Minimal Mistakes provides its own includes, so remove Minima-specific references |
 | **Invalid front matter** | Jekyll build error with YAML parse failure | Validate YAML syntax in front matter; use quotes around strings with special characters |
 | **Plugin not found** | Bundler/Jekyll error for missing gem | Ensure all plugins are listed in Gemfile and `_config.yml` plugins array; use only GitHub Pages whitelisted plugins |
-| **Broken permalink** | 404 on previously working URL | Verify `permalink` front matter matches original value on every existing page; test all existing URLs after migration |
+| **Broken permalink** | 404 on previously working URL | Verify `permalink` front matter matches original value on every remaining page; test all remaining URLs after migration |
+| **Stale /training/ reference** | A retained link points to a removed `/training/` path | Remove or repoint any internal links that targeted training; `/training/` paths are expected to 404 by design |
 | **Credly/Sessionize script failure** | Third-party widget doesn't render | Scripts are loaded client-side; ensure inline `<script>` tags are preserved exactly in page Markdown; no Jekyll processing needed |
 | **Google Analytics not firing** | No data in GA dashboard | Verify `analytics.google.tracking_id` in `_config.yml`; check that `JEKYLL_ENV=production` is set for production builds (GA is typically gated on environment) |
 | **Image not found** | Broken image on page | Verify image paths use `{{ '/assets/images/...' | relative_url }}` or correct relative paths; ensure all images are committed |
@@ -505,6 +521,8 @@ Since this is a static site built by Jekyll, errors manifest at build time rathe
 
 - **Font loading**: The Inter font is loaded via the CSS font stack. If it fails to load (no CDN dependency — it's a system font fallback chain), the browser falls back to `-apple-system`, `BlinkMacSystemFont`, `Segoe UI`, etc.
 - **Feature rows**: If `feature_row` front matter is malformed, the splash layout renders without the feature blocks but doesn't break the page.
+- **Social proof logos**: If a logo image fails to load, the corresponding organization name is shown as text so all four organizations (PostNL, Bol.com, KPN, AZL/NN Group) remain identifiable.
+- **Consulting CTA**: If the primary contact link target cannot be resolved, the Consulting page presents an alternative contact method or a message indicating the contact option is temporarily unavailable.
 - **External links**: The Blog link to Medium opens in a new tab. If Medium is down, the link still works — it's just a standard `<a>` tag.
 - **Sessionize widget**: If Sessionize's API is unavailable, the widget area is simply empty. The rest of the page renders normally.
 - **Credly badges**: Same as Sessionize — client-side JavaScript that degrades to empty space if the CDN is unreachable.
@@ -533,104 +551,120 @@ Verify the site builds without errors at each milestone:
 JEKYLL_ENV=production bundle exec jekyll build
 ```
 
-**What this validates**: Requirements 10.1, 10.2, 10.4, 10.5
+**What this validates**: Requirements 9.1, 9.2, 9.5, 9.6
 
 #### 2. HTML Output Assertions
 
 After building the site, inspect the generated HTML in `_site/` to verify content and structure. These are example-based tests that check specific elements exist in the rendered output.
 
 **Homepage (`_site/index.html`)**:
-- Contains hero section text (value proposition)
-- Contains CTA link with `mailto:` or contact URL
-- Contains three service pillar sections (Consulting, Training, Speaking)
+- Contains hero section text (value proposition naming "Kotlin", "cloud-native", referencing consulting and speaking)
+- Contains a primary CTA link with `mailto:` or contact URL
+- Contains exactly two service pillar sections (Consulting, Speaking), with Consulting before Speaking in source order
+- Consulting pillar mentions both short-term deployed-forward projects and long-term engagements and links to `/consulting/`
 - Contains social proof names: PostNL, Bol.com, KPN, AZL
-- Contains availability note text
-- Contains credibility indicators (Kotlin Crash Course, AWS Community Builder, KotlinConf)
+- Contains availability note text (short-term now, long-term April 2027, speaking now)
+- Contains credibility indicators (Kotlin Crash Course, AWS Community Builder, KotlinConf, AWS and Azure certifications)
+- Contains at least two CTA elements
 - Contains profile image reference (`profile.jpeg`)
-- Validates: Requirements 3.1–3.8, 9.1, 9.2
+- Validates: Requirements 3.1–3.10, 8.1, 8.2
 
 **Navigation (all pages)**:
-- Masthead contains links: Portfolio, Training, Speaking, Open Source, Credentials, Blog
+- Masthead contains links in order: Consulting, Portfolio, Speaking, Open Source, Credentials, Blog
+- No item labeled Training is present
+- Consulting link points to `/consulting/`
 - Blog link has `target="_blank"` and `rel="noopener"`
-- Open Source link points to `/open-source/`
-- Validates: Requirements 2.1–2.4
+- Validates: Requirements 2.1–2.5
 
-**Training page (`_site/training/index.html`)**:
-- Contains pricing text "€2,000"
-- Contains testimonial text
-- Contains CTA link text ("Book a Call" or similar)
-- Contains training client names (AZL, Version 1, EDSN)
-- Contains links to training detail pages
-- Contains travel/remote availability text
-- Validates: Requirements 4.1–4.8
+**Consulting page (`_site/consulting/index.html`)**:
+- Contains deployed-forward model text stating all three phases (joins a team, delivers a focused short-term project, rolls off)
+- Contains a separate, clearly labeled long-term engagements option
+- Outcome-oriented copy appears before any technology listing (no tech list above the opening copy)
+- Contains per-hour or per-finished-fixed-price pricing language
+- Contains no specific rate, price amount, or numeric cost figure
+- Contains availability statements (short-term now, long-term April 2027)
+- Contains a link to `/portfolio/` and at least one client work reference
+- Contains an action-oriented CTA linking to a contact method
+- Validates: Requirements 4.1–4.11
 
 **Speaking page (`_site/speaking/index.html`)**:
 - Contains speaker bio section
-- Contains talk topics with format descriptions
+- Contains talk topics with format descriptions (keynote, session, workshop, live coding demo)
 - Contains Sessionize script tag (`sessionize.com`)
 - Contains CTA mailto link
-- Contains "top 4 most-viewed" or equivalent metric text
+- Contains "top 4 most-viewed" or equivalent Voxxed Days Amsterdam 2025 metric text
 - Contains video links for past talks
-- Validates: Requirements 6.1–6.8
+- Validates: Requirements 5.1–5.8
 
 **Open Source page (`_site/open-source/index.html`)**:
-- Contains "MockNest Serverless" text
-- Contains GitHub repository link
-- Contains key features (WireMock-compatible, AI mock generation, SAR deployment)
-- Contains tech stack (Kotlin, AWS Lambda, Bedrock, etc.)
-- Contains "Creative Track Award" text
-- Contains CTA link to GitHub
-- Validates: Requirements 7.1–7.5
+- MockNest Serverless entry:
+  - Contains "MockNest Serverless" text
+  - Contains MockNest GitHub repository link (`mocknest-serverless`)
+  - Contains key features (WireMock-compatible, AI mock generation, SAR deployment)
+  - Contains tech stack (Kotlin, AWS Lambda, Bedrock, etc.)
+  - Contains "Creative Track Award" text (no badge image)
+  - Contains CTA link to the MockNest GitHub repository
+- AWS Lambda Response Streaming for JVM entry:
+  - Contains the heading text "AWS Lambda Response Streaming for JVM"
+  - Contains its GitHub repository link (`aws-lambda-response-streaming-jvm`)
+  - Contains the published dependency coordinate `nl.vintik:aws-lambda-streaming-core`
+  - Contains the SSE/Bedrock mention (Server-Sent Events / Amazon Bedrock token-by-token LLM output)
+  - Contains a CTA link to its GitHub repository
+- Both project entries render on the same page using the same entry-block structure
+- Validates: Requirements 6.1–6.12
 
 **Portfolio page (`_site/portfolio/index.html`)**:
 - Contains all four client names: AZL, PostNL, Bol.com, KPN
 - Contains MockNest Serverless cross-reference with link to `/open-source/`
 - Project descriptions are concise (impact-first format)
-- Validates: Requirements 8.1–8.4
+- Validates: Requirements 7.1–7.4
 
 **Credentials page (`_site/credentials/index.html`)**:
 - Contains Credly script tag (`credly.com`)
 - Contains Azure certification images
 - Contains academic degree information
-- Validates: Requirements 1.8
+- Validates: Requirement 1.8
 
 #### 3. Permalink Preservation Tests
 
-After building, verify that all existing URLs produce output files:
+After building, verify that all remaining existing URLs produce output files, the new Consulting page is produced, and `/training/` paths are gone:
 
 ```
-_site/index.html          → /
-_site/portfolio/index.html → /portfolio/
-_site/training/index.html  → /training/
-_site/speaking/index.html  → /speaking/
+_site/index.html             → /
+_site/consulting/index.html  → /consulting/ (new)
+_site/portfolio/index.html   → /portfolio/
+_site/speaking/index.html    → /speaking/
+_site/open-source/index.html → /open-source/
 _site/credentials/index.html → /credentials/
-_site/training/kotlin-basics/index.html → /training/kotlin-basics/
-_site/training/kotlin-crash-course/index.html → /training/kotlin-crash-course/
-_site/training/kotlin-aws-lambda/index.html → /training/kotlin-aws-lambda/
-_site/training/kotlin-azure-functions/index.html → /training/kotlin-azure-functions/
-_site/training/bite-size-kotlin/index.html → /training/bite-size-kotlin/
-_site/open-source/index.html → /open-source/ (new)
-_site/404.html → /404.html
+_site/404.html               → /404.html
+
+# Must NOT exist (intentionally removed — requests return 404):
+_site/training/index.html
+_site/training/kotlin-basics/index.html
+_site/training/kotlin-crash-course/index.html
+_site/training/kotlin-aws-lambda/index.html
+_site/training/kotlin-azure-functions/index.html
+_site/training/bite-size-kotlin/index.html
 ```
 
-**What this validates**: Requirement 10.3
+**What this validates**: Requirements 9.3, 9.4
 
 #### 4. SEO and Analytics Verification
 
 - Built HTML contains `<meta>` tags from jekyll-seo-tag (title, description, og:tags)
-- `_site/sitemap.xml` exists and contains all page URLs
+- `_site/sitemap.xml` exists and contains all remaining page URLs (and no `/training/` URLs)
 - Built HTML contains Google Analytics tracking script with ID `G-LN4HKRGKZG`
 - Favicon link tag references `assets/images/logo.png`
 
-**What this validates**: Requirements 1.6, 1.7, 10.6
+**What this validates**: Requirements 1.6, 1.7, 9.7
 
 #### 5. Accessibility Checks
 
-- All `<img>` tags have `alt` attributes
+- All content `<img>` tags have non-empty `alt` attributes; decorative images use `alt=""`
 - Heading hierarchy is sequential (no skipped levels)
-- Semantic HTML elements used (`<nav>`, `<main>`, `<header>`, `<footer>`)
+- Semantic HTML elements used (`<nav>`, `<main>`, `<header>`, `<footer>`) with exactly one `<main>` per page
 
-**What this validates**: Requirement 10.7
+**What this validates**: Requirement 9.8, 9.9
 
 #### 6. Responsive Layout Verification
 
@@ -639,19 +673,19 @@ Manual testing at three breakpoints using browser dev tools:
 - Tablet (768px)
 - Mobile (375px)
 
-Verify that navigation collapses to hamburger menu on mobile, feature rows stack vertically, and content remains readable.
+Verify that navigation collapses to a toggle control below 768px and displays inline at or above 768px, feature rows stack vertically, and content remains readable.
 
-**What this validates**: Requirements 1.4, 2.4
+**What this validates**: Requirements 1.4, 2.5
 
 #### 7. Visual Review Milestones
 
-The user wants to review the site visually at each milestone using `bundle exec jekyll serve`. The implementation should be structured so that each major change (theme swap, homepage, training page, etc.) produces a locally testable state.
+The user wants to review the site visually at each milestone using `bundle exec jekyll serve`. The implementation should be structured so that each major change (theme swap, homepage, consulting page, etc.) produces a locally testable state.
 
 **Milestone sequence**:
-1. Theme swap + config + navigation (site builds with new theme, all pages render)
-2. Homepage redesign (splash layout with hero, service pillars, social proof)
-3. Training page + detail pages (outcome-oriented content, pricing, CTAs)
+1. Theme swap + config + navigation (site builds with new theme, Consulting nav item present, all remaining pages render, `/training/` removed)
+2. Homepage redesign (splash layout with hero, two service pillars with Consulting most prominent, social proof, availability note)
+3. Consulting page (deployed-forward model, long-term engagements, pricing language, availability, portfolio link, CTA)
 4. Speaking page (organizer-focused, bio section, Sessionize preserved)
-5. Open Source page (new page, MockNest Serverless)
-6. Portfolio page (impact-first descriptions, cross-reference)
-7. Final polish (credentials, 404, cleanup of old includes/layouts)
+5. Open Source page (MockNest Serverless + AWS Lambda Response Streaming for JVM)
+6. Portfolio page (impact-first descriptions, cross-reference, linked from Consulting)
+7. Final polish (credentials, 404, cleanup of old includes/layouts, removal of training files)

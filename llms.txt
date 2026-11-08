@@ -6,17 +6,8 @@ Elena van Engelen-Maslova is a freelance software consultant and trainer special
 
 ## Services
 
-- **Kotlin training**: Practical, outcome-focused corporate training for development teams. Courses range from Kotlin basics to serverless cloud on AWS and Azure. Available on-site or remotely.
 - **Kotlin consulting**: Hands-on Kotlin tech lead and senior engineer for hire. Embeds with enterprise teams to design and deliver event-driven, serverless, microservice, and AI-integrated architectures.
 - **Conference speaking**: Engaging talks with live coding on Kotlin and cloud-native topics. Featured at KotlinConf, Voxxed Days, InfoQ Dev Summit, and J-Spring.
-
-## Training courses
-
-- [Kotlin Basics](https://elenavanengelenmaslova.github.io/training/kotlin-basics/)
-- [Kotlin Crash Course](https://elenavanengelenmaslova.github.io/training/kotlin-crash-course/)
-- [Bite-size Kotlin](https://elenavanengelenmaslova.github.io/training/bite-size-kotlin/)
-- [Kotlin AWS Lambda](https://elenavanengelenmaslova.github.io/training/kotlin-aws-lambda/)
-- [Kotlin Azure Functions](https://elenavanengelenmaslova.github.io/training/kotlin-azure-functions/)
 
 ## Key facts
 
