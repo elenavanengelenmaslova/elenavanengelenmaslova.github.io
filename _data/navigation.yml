@@ -1,8 +1,6 @@
 main:
   - title: "Consulting"
     url: /consulting/
-  - title: "Short-Term Projects"
-    url: /short-term-projects/
   - title: "Portfolio"
     url: /portfolio/
   - title: "Speaking"
