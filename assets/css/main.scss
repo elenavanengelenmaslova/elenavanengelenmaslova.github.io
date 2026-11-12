@@ -94,3 +94,15 @@ html {
     }
   }
 }
+
+
+// Masthead — on mobile only, hide the logo + name/subtitle so they don't
+// duplicate the author sidebar (which stacks above the content on small screens).
+// Desktop keeps the full masthead branding. Nav links / hamburger stay visible.
+@media (max-width: 64em) {
+  .greedy-nav .site-logo,
+  .site-title,
+  .site-subtitle {
+    display: none;
+  }
+}
